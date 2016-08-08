@@ -8,11 +8,23 @@ tags:
 date_edited:
 ---
 
-##
+## Illusion
+
+perception
+
+### Persistence of Vision
+
+### 
+
+### Frame rate
+
+
+
 
 ## The 12 Principles of Animation
 
 
 
+## Further Learning
 
 <!-- footnotes -->

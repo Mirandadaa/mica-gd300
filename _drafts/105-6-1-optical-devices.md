@@ -2,7 +2,7 @@
 layout: post	
 title: Optical Devices
 excerpt_separator: <!--more-->
-summary: 
+summary: How do you create animation without computer?
 categories:
 tags:
 date_edited:

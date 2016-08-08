@@ -1,12 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://mica-gd3.paperdove.com/principles-of-animation/</loc>
-<lastmod>0103-06-01T00:00:00-05:00</lastmod>
+<loc>http://mica-gd3.paperdove.com/proj-kinetic-typography/</loc>
+<lastmod>0110-06-01T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://mica-gd3.paperdove.com/basic-workflow/</loc>
+<lastmod>0106-09-01T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://mica-gd3.paperdove.com/animation-techniques/</loc>
+<lastmod>0106-06-01T00:00:00-05:00</lastmod>
 </url>
 <url>
 <loc>http://mica-gd3.paperdove.com/optical-devices/</loc>
-<lastmod>0103-06-01T00:00:00-05:00</lastmod>
+<lastmod>0105-06-01T00:00:00-05:00</lastmod>
+</url>
+<url>
+<loc>http://mica-gd3.paperdove.com/principles-of-animation/</loc>
+<lastmod>0104-06-01T00:00:00-05:00</lastmod>
 </url>
 <url>
 <loc>http://mica-gd3.paperdove.com/digital-literacy/</loc>
