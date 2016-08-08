@@ -14,7 +14,7 @@ perception
 
 ### Persistence of Vision
 
-### 
+### Resolutions
 
 ### Frame rate
 
