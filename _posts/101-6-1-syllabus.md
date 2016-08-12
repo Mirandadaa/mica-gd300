@@ -60,14 +60,10 @@ There will be 4 main projects and assignments related to each project. *The assi
 
 On any assignment, 
 
-“A” is given to a student who has gone beyond expectations. 
-
-“B” is given to a student with above-average work. 
-
-“C” means that a student meets the requirements for the assignment. 
-
-“D” shows that a student has not met the expectations. 
-
+“A” is given to a student who has gone beyond expectations.  
+“B” is given to a student with above-average work.  
+“C” means that a student meets the requirements for the assignment.   
+“D” shows that a student has not met the expectations.  
 “F” means a student failed to submit the assignment or has shown very little effort.
 
 All projects are due at the beginning of class. Work handed in more than 15 minutes after the beginning of class is marked late. Grades for late projects will be lowered a whole letter. After a full week, a project may not be handed in late and it will be awarded a failing grade.
