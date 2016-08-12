@@ -26,7 +26,7 @@ body {
 .container {
   margin: 0 auto;
   min-width: 360px;
-  max-width: 740px;
+  max-width: 700px;
   padding: 0 30px;
   width: 100%;
 }
@@ -37,7 +37,8 @@ h1, h2, h3, h4, h5, h6 {
   //font-weight: bold;
 
   line-height: 1.4;
-  margin: 1.7em 0 15px;
+  //margin: 1.7em 0 15px;
+  margin: 1.7em 0 0.2em 0;
   padding: 0;
 
   text-transform: capitalize;
@@ -46,7 +47,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-family: $sourceSerifPro;
   font-size: 32px;
-  letter-spacing: 0.3px;
+  letter-spacing: 0.1px;
 
   a {
     color: inherit;
@@ -70,6 +71,8 @@ h3 {
 
 h4 {
   font-size: 12px;
+  text-transform: lowercase;
+  letter-spacing: 0.5px;
 }
 
 p {

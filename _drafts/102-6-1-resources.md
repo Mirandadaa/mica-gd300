@@ -13,6 +13,7 @@ date_edited:
 - [Video Copilot](http://videocopilot.net)
 - [Greyscalegorilla](http://greyscalegorilla.com/)
 - [AEScripts](http://aescripts.com)
+- [Codecademy](http://codecademy.com): Codecademy is an interactive learning platform. Very beginner-friendly.
 
 
 
@@ -35,6 +36,7 @@ date_edited:
 
 
 ## Magazines & Blogs
+- [Smashing Magazine](http://smashingmagazine.com): Great articles on web design and web development.
 - [Eye](http://www.eyemagazine.com/)
 - [Etapes](http://etapes.com/)
 - [Slanted](http://www.slanted.de/)
@@ -53,4 +55,7 @@ date_edited:
 ## Studios
 - [yU+co]
 - [Motion Theory]
-- []
+- [Prologue Films]
+- [Imaginary Forces]
+- [Blind]
+- 
