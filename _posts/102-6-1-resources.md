@@ -5,7 +5,7 @@ excerpt_separator: <!--more-->
 summary: A list of useful resources.
 categories:
 tags:
-date_edited:
+date_edited: Aug 11, 2016
 ---
 
 ## Learning Materials
@@ -53,9 +53,9 @@ date_edited:
 
 
 ## Studios
-- [yU+co]
-- [Motion Theory]
-- [Prologue Films]
-- [Imaginary Forces]
-- [Blind]
-- 
+- [yU+co](http://yuco.com)
+- [Motion Theory](http://motiontheory.com)
+- [Prologue Films](http://prologue.com)
+- [Imaginary Forces](https://www.imaginaryforces.com)
+- []()
+
