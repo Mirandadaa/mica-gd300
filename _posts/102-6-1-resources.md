@@ -8,6 +8,7 @@ tags:
 date_edited: Aug 11, 2016
 ---
 
+
 ## Learning Materials
 - [Tutsplus](http://cgi.tutsplus.com)
 - [Video Copilot](http://videocopilot.net)
@@ -17,13 +18,15 @@ date_edited: Aug 11, 2016
 
 
 
+
 ## Inspirations
 - [Motionographer](http://motionographer.com)
 - [Art of the Title](http://www.artofthetitle.com)
 - [Watch the Titles](http://www.watchthetitles.com)
 - [Mograph](http://mograph.net)
 - [Create Digital Motion](http://createdigitalmotion.com)
-- [iDN World OnAir](http://www.idnworld.com/onair/)
+- [idN World OnAir](http://www.idnworld.com/onair/)
+
 
 
 
@@ -32,6 +35,7 @@ date_edited: Aug 11, 2016
 - [The British Library collections](https://www.flickr.com/photos/britishlibrary/)
 - [Archive](https://archive.org/): a great place get public domain imagery and video.
 - [Freesound](http://www.freesound.org/): get high-quality audio effects
+
 
 
 
@@ -50,6 +54,8 @@ date_edited: Aug 11, 2016
 - [Core77](http://www.core77.com/)
 - [This Is Colossal](http://www.thisiscolossal.com/)
 - [Designobserver](http://designobserver.com/)
+- Designobserver Podcast
+
 
 
 ## Studios
@@ -58,4 +64,8 @@ date_edited: Aug 11, 2016
 - [Prologue Films](http://prologue.com)
 - [Imaginary Forces](https://www.imaginaryforces.com)
 - []()
+
+
+
+
 
