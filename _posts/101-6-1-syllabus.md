@@ -128,7 +128,7 @@ Set up time during my office hours to talk one on one. You can also email me if 
 ## Attendance
 Attendance and participation is mandatory. Arrive on time to the start of each class and after each break. Failure to return from break will be considered as absence. Do not leave class early before it is completely dismissed. *Students who have the equivalent of more than 3 absences are no longer eligible to earn credit for the course.* If you are absent, it is your responsibility for gathering any material missed. I will not recap.
 
-Only a *serious* medical issue or family *emergency* situation with a documented proof will be excused. You will *not* be excused just because you emailed me about your absence.
+There are no *excused* absences. An absence is an absence. For illness or other causes for extended absences, refer to the MICA's academic policy.
 
 Tardiness is also not tolerated. If you arrive 10 minutes past the scheduled class start time or after returning from break,  this is considered tardy. *3 tardies will be counted as an absence. Arriving more than 30 minutes late will be marked as an absence.*
 
