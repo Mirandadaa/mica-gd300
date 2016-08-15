@@ -26,12 +26,10 @@ layout: default
 float random(float x) {
 	return fract( sin(x) * 1e4 );
 }
-
 // 2d random
 float random(vec2 p) {
 	return fract( sin( dot(p, vec2(12.9898, 78.233))) * 43758.5453123 );
 }
-
 vec2 truchetPattern(in vec2 _st, in float _index){
     //_index = fract(((_index-0.5)*2.0));
     if (_index > 0.75) {
@@ -44,7 +42,6 @@ vec2 truchetPattern(in vec2 _st, in float _index){
     return _st;
 }
 
-
 void main(void) {
 	vec2 p = gl_FragCoord.xy / resolution.xy;
 	//p = p * 2. - 1.;
@@ -54,28 +51,28 @@ void main(void) {
 	p.x *= resolution.x / resolution.y;
 	vec3 col = vec3(.5);
 
-	p *= 1.;
+	p *= 1.5;
 
-	p.x += sin(mouse.y);
-	p.y += cos(mouse.x)*sin(mouse.y);
+	p.x += sin(mouse.y)*2.;
+	p.y += cos(mouse.x)*sin(mouse.y)*2.;
 
-	vec2 ipos = floor(p * p + sin(time * .4 + mouse)); // integer
-	vec2 fpos = fract(p +  cos(time * .4) + mouse) - fract(p); // fractional
+	vec2 ipos = floor(p * p + sin(time * .2 + mouse)); // integer
+	vec2 fpos = fract(p +  cos(time * .2) + mouse) - fract(p); // fractional
 
 	vec2 tile = truchetPattern(fpos * ipos , random(ipos));
 
+	float c = smoothstep(tile.x-.3, tile.x, tile.y) -
+			  smoothstep(tile.x, tile.x+.3, tile.y);
 	
 	col = vec3(
 					smoothstep(tile.x-.3, tile.x, tile.y) -
-					smoothstep(tile.x, tile.x+.3, tile.y),
-					length(p - tile.x), 
-					length(p - tile)
+					smoothstep(tile.x, tile.x+.3, tile.y)
 				);
-	
+
+	gl_FragColor = vec4(1.5-c, 1., 1., 1.);
 
 	//col = vec3( length(p + tile), 1., length(length(p) - tile));
-
-	gl_FragColor = vec4(col, 1.);
+	//gl_FragColor = vec4(col, 1.);
 }
 
 </script>
