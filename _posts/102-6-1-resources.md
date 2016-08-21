@@ -5,7 +5,7 @@ excerpt_separator: <!--more-->
 summary: A list of useful resources.
 categories:
 tags:
-date_edited: Aug 11, 2016
+date_edited: Aug 21, 2016
 ---
 
 
@@ -54,16 +54,16 @@ date_edited: Aug 11, 2016
 - [Core77](http://www.core77.com/)
 - [This Is Colossal](http://www.thisiscolossal.com/)
 - [Designobserver](http://designobserver.com/)
-- Designobserver Podcast
+- [Design Matters Podcast](http://www.debbiemillman.com/designmatters/)
 
 
 
 ## Studios
-- [yU+co](http://yuco.com)
-- [Motion Theory](http://motiontheory.com)
 - [Prologue Films](http://prologue.com)
 - [Imaginary Forces](https://www.imaginaryforces.com)
-- []()
+- [yU+co](http://yuco.com)
+- [Motion Theory](http://motiontheory.com)
+- [Blind](http://www.blind.com)
 
 
 
