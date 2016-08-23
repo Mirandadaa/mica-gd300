@@ -14,7 +14,6 @@ date_edited: Aug 21, 2016
 - [Video Copilot](http://videocopilot.net)
 - [Greyscalegorilla](http://greyscalegorilla.com/)
 - [AEScripts](http://aescripts.com)
-- [Codecademy](http://codecademy.com): Codecademy is an interactive learning platform. Very beginner-friendly.
 
 
 
@@ -33,7 +32,7 @@ date_edited: Aug 21, 2016
 ## Digital Source Materials
 - [New York Public Library digital collections](http://digitalcollections.nypl.org/): lots and lots of digitized books, prints, photos, videos, etc.
 - [The British Library collections](https://www.flickr.com/photos/britishlibrary/)
-- [Archive](https://archive.org/): a great place get public domain imagery and video.
+- [Archive](https://archive.org/): a great place to get public domain imagery and video.
 - [Freesound](http://www.freesound.org/): get high-quality audio effects
 
 
