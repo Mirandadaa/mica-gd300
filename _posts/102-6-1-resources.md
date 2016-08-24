@@ -5,7 +5,7 @@ excerpt_separator: <!--more-->
 summary: A list of useful resources.
 categories:
 tags:
-date_edited: Aug 21, 2016
+date_edited: Aug 23, 2016
 ---
 
 
@@ -14,6 +14,7 @@ date_edited: Aug 21, 2016
 - [Video Copilot](http://videocopilot.net)
 - [Greyscalegorilla](http://greyscalegorilla.com/)
 - [AEScripts](http://aescripts.com)
+- [Lynda](https://www.lynda.com): you get a free access as a MICA student.
 
 
 
@@ -57,13 +58,15 @@ date_edited: Aug 21, 2016
 
 
 
+
 ## Studios
 - [Prologue Films](http://prologue.com)
 - [Imaginary Forces](https://www.imaginaryforces.com)
 - [yU+co](http://yuco.com)
 - [Motion Theory](http://motiontheory.com)
 - [Blind](http://www.blind.com)
-
+- [Buck](http://buck.tv)
+- [Brand New School](http://brandnewschool.com)
 
 
 

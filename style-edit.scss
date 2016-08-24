@@ -271,6 +271,13 @@ img {
   .comments {
     margin-top: 10px;
   }
+
+  figcaption {
+    color: $gray;
+    font-size: 12px;
+    font-style: italic;
+    text-align: center;
+  }
 }
 
 // footnotes
