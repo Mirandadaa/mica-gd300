@@ -53,7 +53,7 @@ motion designer - different/new roles, studio, interaction design
 <!-- footnotes -->
 [^first-animation]: [Fantasmagorie (1908)](https://www.youtube.com/watch?v=aEAObel8yIE) by Emile Cohl is considered to be one of the first animation.
 
-[^sifianos]: Georges Sifianos, ["The Definition of Animation: A Letter from Norman McLaren,"](http://www.animationjournal.com/abstracts/abstracts.html) 
+[^sifianos]: Georges Sifianos, ["The Definition of Animation: A Letter from Norman McLaren"](http://www.animationjournal.com/abstracts/abstracts.html) 
 
 
 
