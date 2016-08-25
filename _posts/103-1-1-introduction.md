@@ -29,17 +29,17 @@ Justin Cone who runs [Motionographer.com](http://motionographer.com) said in [a 
 
 ### Definition of Animation
 
-[Norman McLaren](https://www.nfb.ca/explore-all-directors/norman-mclaren/) who was a filmmaker as well as a founder of animation department in National Film Board in Canada defined animation in a letter[^sifianos] as below.
+[Norman McLaren](https://www.nfb.ca/explore-all-directors/norman-mclaren/) who was a legendary animator as well as a founder of animation department in National Film Board in Canada defined animation in a letter[^sifianos] as below.
 
 > Animation is not the art of drawings that move but the art of movements that are drawn; What happends between each frame is much more important than what exists on each frame; Animation is therefore the art of manipulating the invisible interstices that lie between the frames. 
 
-What's important to note here is that the focus is on movements, not on drawings (or frames). Animation is an illusion. Everything is expressed as static frames. The illusion is created when a series of frames are played at a reasonable speed. You can create amazing animation only using [simple geometric shapes](https://www.youtube.com/watch?v=they7m6YePo) or you can create poor movements out of beautiful forms and compositions. 
+What's important to note here is that the focus is on movements, not on drawings (or frames). Animation is an illusion. Everything is created as static frames. The illusion is created when a series of frames are played at a reasonable speed. You can create amazing animation only using [simple geometric shapes](https://www.youtube.com/watch?v=they7m6YePo) or you can create poor movements out of beautiful forms and compositions. That is one of the big differences compared to print design, and it should be approached with a different perspective.
 
-Although we could not define what motion graphics is, but I hope that reading and thinking about it will give you some ideas. What is motion graphics to you? This question will lead to another one --- what kind of motion graphic work do you want to create? 
+Although we could not clearly define what motion graphics was, I hope that reading and thinking about it will give you some ideas. What is motion graphics to you? This question will lead to another one --- what kind of motion graphic work do you want to create? 
 
 It is useful to think about where you want your work to be in the vast world of motion graphics. Are you wanting to fit into the existing industry and make great work? Do you want to explore an uncharted land of animation that does not fit into any category? Are you interested in more specific area such as bringing your typography work and adding movements, or using animation as a way to communicate your intention in a different way?
 
-No matter how we define it, our goal in the class is quite clear. We will build upon graphic design principles and explore ways to integrate time-based media into our design work. We will have many same criteria as print design work. But animation is not just a static composition dancing around. Instead of putting these two fields side by side, we will explore what is unique to this medium. There are also many territories involving movements that are undefined, especially with the new digital technologies. It will be also exciting to imagine what the field would be like in the future.
+No matter how we define it, our goal in the class is quite clear. We will build upon graphic design principles and explore ways to integrate time-based media into our design work. We will have many same criteria as print design work, but animation is not just a static composition dancing around. More thoughts will be required. Instead of putting these two fields side by side, we will explore what is unique to this medium. There are also many territories involving movements that are undefined, especially with the new digital technologies. It will be also exciting to imagine what the field would be like in the near future.
 
 <!-- more ideas to add
 motion design
