@@ -274,9 +274,14 @@ img {
     margin-top: 10px;
   }
 
+  figure {
+    margin: 20px 0;
+  }
+
   figure img {
     display: block;
     margin: 0 auto;
+    max-height: 500px;
   }
 
   figcaption {

@@ -131,6 +131,8 @@ If you are publishing to the web, this is *the* codec you want to use. It is sup
 Depending on the studio's or client's requirement, you may need to use different codecs than the ones mentioned above. Usually, you should get an instruction either from your producer, director or editor. You can also search for which codec works best for any given task.
 
 
+
+
 ## Further Learning
 - A quick [5 minute video](https://www.youtube.com/watch?v=GhWki9a7s18) explaining what a codec is.
 
