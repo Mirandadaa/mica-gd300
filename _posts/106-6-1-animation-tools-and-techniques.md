@@ -83,6 +83,8 @@ vector-based
 
 ### Cinema 4D
 
+### Other 3D CG Softwares
+
 ### HTML/CSS/Javascript
 
 ### Processing
