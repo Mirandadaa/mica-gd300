@@ -5,7 +5,7 @@ excerpt_separator: <!--more-->
 summary: 
 categories:
 tags:
-date_edited:
+date_edited: Aug 28, 2016
 ---
 
 To give you an overview of the basic workflow in After Effects, we will create a very simple slideshow video here.
@@ -77,11 +77,22 @@ You can press `-` or `=` key on your keyboard to zoom in and out of the timeline
 
 
 
+## Animation
+We will add simple animation using basic properties such as position, scale and opacity. Follow the instructions.
+
+
+
+
+## Effects
+After Effects has a variety of effects that you can use creatively. You can also buy and install third-party effects. Multiple effects can work together.
+
+
+
 
 ## Previewing
-Grab the CTI and scrub through the timeline to make sure everything looks ok.
+Grab the CTI and scrub through the timeline to make sure everything looks ok. Every time you make a big change, you would want to play and see how it looks before proceeding to the next step.
 
-If you hit `Spacebar`, it will play the preview of your animation. It will first *pre-render* the animation into the memory of your computer, so the first time it plays, it may be slow or jittery. But once the pre-render is finished, you will see a bright green bar at the top of your timeline, it will play in real time, which gives you an accurate preview of the final.
+If you hit the `Spacebar`, it will play the preview of your animation. It will first *pre-render* the animation into the memory of your computer, so the first time it plays, it may be slow or jittery. But once the pre-render is finished, you will see a bright green bar at the top of your timeline, it will play in real time, which gives you an accurate preview of the final.
 
 
 
