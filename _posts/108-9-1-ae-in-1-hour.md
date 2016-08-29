@@ -2,7 +2,7 @@
 layout: post	
 title: After Effects in 1 Hour
 excerpt_separator: <!--more-->
-summary: 
+summary: The very basics of After Effects.
 categories:
 tags:
 date_edited: Aug 28, 2016

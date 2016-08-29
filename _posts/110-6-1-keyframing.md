@@ -2,7 +2,7 @@
 layout: post	
 title: Keyframing
 excerpt_separator: <!--more-->
-summary: 
+summary: How to create keyframes in AE.
 categories:
 tags:
 date_edited:
