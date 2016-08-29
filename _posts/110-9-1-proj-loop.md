@@ -89,6 +89,12 @@ Project 2 begins
 ## Further Learning
 - [Making animated GIFs from After Effects comps](https://www.rocketstock.com/blog/making-animated-gifs-from-after-effects-comps/)
 - [Animating in Photoshop Tutorial](https://www.lynda.com/After-Effects-tutorials/Motion-Graphics-Loops-01-Photoshop-Techniques/483234-2.html) on lynda.com
+- Understanding Comics by Scott McCloud
+
+
+
+
+
 
 
 
