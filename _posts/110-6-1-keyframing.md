@@ -5,7 +5,7 @@ excerpt_separator: <!--more-->
 summary: How to create keyframes in AE.
 categories:
 tags:
-date_edited:
+date_edited: Aug 28, 2016
 ---
 
 In After Effects, you can animate by creating and adjusting keyframes. Any properties with *stop watch button* can be animated. The other way to animate in AE is by writing expressions, which we will discuss later.
