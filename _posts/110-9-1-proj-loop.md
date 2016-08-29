@@ -5,7 +5,7 @@ excerpt_separator: <!--more-->
 summary: Create animated GIF loops.
 categories: project
 tags:
-date_edited: Aug 28, 2016
+date_edited: Aug 29, 2016
 ---
 
 A loop is a wonderful thing. Some loops have beginnings and endings. Other loops do not. You can enter a loop at any point and leave anytime without missing anything. An endless musical loop is what makes people dancing. When you watch an animation loop, you lose the sense of time --- you can keep watching the same animation over and over again. [The Möbius strip](https://en.wikipedia.org/wiki/Möbius_strip) is non-orientable.
@@ -56,6 +56,7 @@ An animated GIF is a [very popular](http://www.nytimes.com/2013/02/14/fashion/co
 ## Deliverables
 Create two animated GIF loops. These two loops must be variations of the same concept.
 
+- 2 animated GIF files
 - Dimensions: 500 x 500 px
 - Frame rate: 12 fps
 - Length: between 60 and 240 frames per each loop
