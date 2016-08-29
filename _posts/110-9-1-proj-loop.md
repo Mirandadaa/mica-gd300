@@ -2,7 +2,7 @@
 layout: post	
 title: "Project: Loop"
 excerpt_separator: <!--more-->
-summary: From setting up an AE project to rendering a video
+summary: Create animated GIF loops.
 categories: project
 tags:
 date_edited: Aug 28, 2016
