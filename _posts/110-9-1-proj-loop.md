@@ -22,6 +22,7 @@ Adam Beckett's [Sausage City](https://www.youtube.com/watch?v=RKS7N5ZzpI8) pushe
 
 I am sure you know a lot of [tumblrs](http://vincemckelvie.com) and [websites](http://behance.net/rafaelvarona) that feature animated gifs.
 
+As many loops contain many smaller or secondary animation, it provides an opportunity for unique storytelling. Typically, animation is considered linear. You start playing and watch until the end and the story unfolds over time. You, as a viewer, are directed to watch animation in a particular order of shots or scenes that a director has set in advance. But in a loop, multiple stories are played at the same time. It is up to you where to start and where to go next. The movement of your eyes will determine how you will experience the story.
 
 
 
