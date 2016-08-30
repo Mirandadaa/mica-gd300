@@ -25,7 +25,7 @@ In After Effects, you can animate by creating and adjusting keyframes. Any prope
 
 5. Once you create the first keyframe (it automatically creates one when you click on the stopwatch), anytime you change the value of the property, After Effects automatically creates a new keyframe.
 
-6. First, you move the CTI to a frame you want to animate. 
+6. Next, let's create the second keyframe. You move the CTI to a frame you want to add a keyframe. 
 
 7. Then, change the value of the property, in this case, Position, by clicking and dragging the blue text box to the left or right. Or, you can move the layer/object directly from the composition preview panel.
 ![the second keyframe](/images/keyframing/keyframe-2.png)
