@@ -17,7 +17,7 @@ In After Effects, you can animate by creating and adjusting keyframes. Any prope
 
 2. Let’s create a layer so we can practice keyframe animation. 
 
-3. Create the first keyframe by clicking stop watch button. In the picture below, I am animating the position property.
+3. Create the first keyframe by clicking stop watch button. In the picture below, I am animating the position property. *Note: Clicking a stop watch icon is to enable the whole keyframe animation. Think of it as a light switch. You turn it on and keep it that way. If you click the stop watch icon again, your whole animation will be turned off.*
 ![Creating the first keyframe](/images/keyframing/keyframe-1.png)
 
 4. Notice that the stop watch icon is highlighted and a *diamond icon* is also created at the position of the Current Time Indicator. This diamond icon indicates at which frame the keyframe is created.
