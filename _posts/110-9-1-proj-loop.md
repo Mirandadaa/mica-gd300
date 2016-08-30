@@ -58,7 +58,7 @@ An animated GIF is a [very popular](http://www.nytimes.com/2013/02/14/fashion/co
 Create two animated GIF loops. These two loops must be variations of the same concept.
 
 - 2 animated GIF files
-- Dimensions: 500 x 500 px
+- Dimensions: 500 x 500 px per each loop
 - Frame rate: 12 fps
 - Length: between 60 and 240 frames per each loop
 
