@@ -48,6 +48,8 @@ motion designer - different/new roles, studio, interaction design
 
 -->
 
+## Further Learning
+- [Art in Motion](https://www.amazon.com/Art-Motion-Revised-Animation-Aesthetics/dp/0861966635/ref=sr_1_3?ie=UTF8&qid=1472597189&sr=8-3&keywords=art+in+motion) by Maureen Furniss
 
 
 <!-- footnotes -->

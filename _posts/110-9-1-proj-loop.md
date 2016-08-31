@@ -12,7 +12,7 @@ A loop is a wonderful thing. Some loops have beginnings and endings. Other loops
 
 Watch [The Elephant In Wonderland](http://www.jkart.net/anim.html) by Ke Jiang. It is a loop within a loop. The creator says that there are only 24 frames in total in this animation. 24 is an interesting number[^framerate-standards] because it has many factors (1, 2, 3, 4, 6, 8, 12, 24). Having many factors means that you can have multiple loops playing at the same time at different speeds. This is a great way of adding variations to your simple animation loop.
 
-[Revolver](https://vimeo.com/13110245) by Jonas Odell et al. is a great example of using secondary actions in a loop. Sometimes, looping the same sequence is not just a repetition but it is necessary to fully illustrate the meanings or intentions.
+[Revolver](https://vimeo.com/11558102) by Jonas Odell et al. is a great example of using secondary actions in a loop. Sometimes, looping the same sequence is not just a repetition but it is necessary to fully illustrate the meanings or intentions.
 
 Adam Beckett's [Sausage City](https://www.youtube.com/watch?v=RKS7N5ZzpI8) pushes the idea of an animation loop to another level. When you animate, you are left with the original drawings. But in Beckett's animation, a finished drawings of a loop is resued to create another loop. New drawings and new colors are added through each iteration. The process itself becomes a final result.
 

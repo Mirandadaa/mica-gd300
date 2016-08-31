@@ -2,7 +2,7 @@
 layout: post	
 title: A Technical Primer
 excerpt_separator: <!--more-->
-summary: Things you should really know.
+summary: A few theories and technical information
 categories:
 tags:
 date_edited: Aug 24, 2016

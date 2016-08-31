@@ -2,7 +2,7 @@
 layout: post	
 title: After Effects in 1 Hour
 excerpt_separator: <!--more-->
-summary: The very basics of After Effects.
+summary: The very basics of AE from comp setup to rendering
 categories:
 tags:
 date_edited: Aug 28, 2016
