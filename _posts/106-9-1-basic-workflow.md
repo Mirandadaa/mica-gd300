@@ -23,7 +23,9 @@ You will either start from your own idea or be given a project brief from your c
 A [styleframe](https://vimeo.com/25724900) is a single image that represents a motion graphics piece, how it will look and how it will feel. The graphics you create for the styleframe may or may not be part of the final piece. 
 
 ### storyboarding
-Storyboarding is a process of creating still images from the beginning to the ending of a motion graphics piece. The number of boards depend on the length and complexity of the work. Nearly all video productions use storyboarding one way or another to save time in production stage but there are some difference among different productions such as live action film, character animation and motion graphics. In motion graphics, it is often expected that the boards will have the same quality as the final.
+Storyboarding is a process of creating still images that show important moments of a motion graphics piece. The number of boards depend on the length and complexity of the work. Nearly all video productions use storyboarding one way or another to save time in production stage but there are some difference among different productions such as live action film, character animation and motion graphics. In motion graphics, it is often expected that the boards will have the same quality as the final.
+
+At the storyboarding stage, nothing is set in stone. You want to be flexible in changing and shifting things around. Often times, the storyboarding goes through multiple iterations. When you first start storyboarding, simple pencil thumbnails are just fine. As you go through iterations, you will develop the visuals. Whatever tool you are using (index cards, Photosop, Illustrator, etc.), you should be able to see all the boards and get the whole picture.
 
 ### animatics
 The boards alone cannot convey the timing of each shot or scene. Animatics is a process of laying down storyboards on timeline. Check out [this](https://vimeo.com/151327502) [example](https://vimeo.com/96559752). For a simple project, most of the editing can be done at this stage.
@@ -37,7 +39,7 @@ When there is a voice-over track that animation needs to sync to, the recording 
 ## Production
 
 ### animating
-Storyboarding, animatics and animating are often times fluid process. Because we mostly work with computers, most of our graphic assets are already created during the storyboarding stage. Then, animation can simply start with laying down the boards on timeline and breaking down the layers and moving objects around.
+Storyboarding, animatics and animating are often fluid processes that are connected seamlessly to each other. Because we mostly work with computers, our graphic assets are already created during the storyboarding stage. Then, animation can simply start by laying down the boards on timeline and breaking down the layers and moving objects around.
 
 
 
