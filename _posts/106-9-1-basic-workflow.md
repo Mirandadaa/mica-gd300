@@ -5,10 +5,12 @@ excerpt_separator: <!--more-->
 summary: How do you turn an idea into complete animation?
 categories:
 tags:
-date_edited: Aug 28, 2016
+date_edited: Sep 4, 2016
 ---
 
-There is a reason why there are so many steps and processes in animation production. They are for efficiency and communication. I will introduce the basic workflow of a motion graphics project. Note that this is just a guideline and the actual process can be very different for everyone.
+There is a reason why there are so many steps and processes in animation production. They are for efficiency and communication. Animation is a very time-consuming process. You will want to do anything to save time. For the same reason, miscommunication can result in having to recreate many animation sequences. If you have a client (or even if you work for yourself), you will want to make sure things are going according to the plan. 
+
+I will introduce the basic workflow of a motion graphics project. Note that this is just a guideline and the actual process can be very different for everyone.
 
 ## Pre-production
 All the planning that takes place before the actual production (or animation) is called the pre-production stage.
