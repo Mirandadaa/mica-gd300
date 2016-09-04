@@ -5,7 +5,7 @@ excerpt_separator: <!--more-->
 summary: 12 guiding principles of animation.
 categories:
 tags:
-date_edited: Sep 2, 2016
+date_edited: Sep 4, 2016
 ---
 
 In a book [Illusion of Life](https://www.amazon.com/Illusion-Life-Disney-Animation/dp/0786860707/ref=sr_1_1?ie=UTF8&qid=1472853577&sr=8-1&keywords=illusion+of+life), classic Disney animators Frank Thomas and Ollie Johnston describe the twelve principles of animation. These serve as a great guideline for creating a compelling animation. 
