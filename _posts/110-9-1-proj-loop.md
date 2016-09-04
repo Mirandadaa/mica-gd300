@@ -105,6 +105,7 @@ Project 2 begins
 - Marcel Duchamp's disc
 - the use in video games (w/ mathematical randomness)
 - neon signs
+- walk 'cycle'
 
 ### Boiling effect - for looping animation
 is a way to keep things alive.
