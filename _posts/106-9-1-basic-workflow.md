@@ -23,7 +23,7 @@ You will either start from your own idea or be given a project brief from your c
 A [styleframe](https://vimeo.com/25724900) is a single image that represents a motion graphics piece, how it will look and how it will feel. The graphics you create for the styleframe may or may not be part of the final piece. 
 
 ### storyboarding
-Storyboarding is a process of creating still images from the beginning to the ending of a motion graphics piece. The number of boards depend on the length and complexity of the work. Nearly all video productions use storyboarding one way or another to save time in production stage but there a re some difference among different productions such as live action film, character animation and motion graphics. In motion graphics, it is expected that the boards will have the same quality as the final.
+Storyboarding is a process of creating still images from the beginning to the ending of a motion graphics piece. The number of boards depend on the length and complexity of the work. Nearly all video productions use storyboarding one way or another to save time in production stage but there are some difference among different productions such as live action film, character animation and motion graphics. In motion graphics, it is often expected that the boards will have the same quality as the final.
 
 ### animatics
 The boards alone cannot convey the timing of each shot or scene. Animatics is a process of laying down storyboards on timeline. Check out [this](https://vimeo.com/151327502) [example](https://vimeo.com/96559752). For a simple project, most of the editing can be done at this stage.
@@ -51,11 +51,12 @@ Compositing can include color correction, green screen keying, stereoscoping 3d 
 ### editing
 
 ### final bits
-_
+...
 
 
 This is just a very brief overview, and as you gain more experience, you will develop your own process that works best for you. Design is an iteratice process. You don't just create one set of boards and move on. You will most likely have to create multiple versions of boards and animation.
 
 ## Further Learning
+- [A great video tutorial](http://motionographer.com/2014/07/18/best-tutorial-ever/) on storyboarding for motion graphics
 
 <!-- footnotes -->
