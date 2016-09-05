@@ -27,7 +27,7 @@ A [styleframe](https://vimeo.com/25724900) is a single image that represents a m
 ### storyboarding
 Storyboarding is a process of creating still images that show important moments of a motion graphics piece. The number of boards depend on the length and complexity of the work. Nearly all video productions use storyboarding one way or another to save time in production stage but there are some difference among different productions such as live action film, character animation and motion graphics. In motion graphics, it is often expected that the boards will have the same quality as the final.
 
-At the storyboarding stage, nothing is set in stone. You want to be flexible in changing and shifting things around. Often times, the storyboarding goes through multiple iterations. When you first start storyboarding, simple pencil thumbnails are just fine. As you go through iterations, you will develop the visuals. Whatever tool you are using (index cards, Photosop, Illustrator, etc.), you should be able to see all the boards and get the whole picture.
+At the storyboarding stage, nothing is set in stone. You want to be flexible in changing and shifting things around. Often times, the storyboarding goes through multiple iterations. When you first start storyboarding, simple pencil thumbnails are just fine. As you go through iterations, you will develop and refine the visuals. Whatever tool you are using (index cards, Photosop, Illustrator, etc.), you should be able to see all the storyboards and get the whole picture of your project.
 
 ### animatics
 The boards alone cannot convey the timing of each shot or scene. Animatics is a process of laying down storyboards on timeline. Check out [this](https://vimeo.com/151327502) [example](https://vimeo.com/96559752). For a simple project, most of the editing can be done at this stage.
@@ -54,7 +54,7 @@ Compositing can include color correction, green screen keying, stereoscoping 3d 
 
 ### editing
 
-### final bits
+### Rendering
 ...
 
 
