@@ -44,7 +44,7 @@ A lot of commercials use slight zooming in or out of the camera to add a little 
 Instead of everything start and stop all at the same time, use secondary animation, use follow-through and overlapping actions.
 
 
-but, wait a second, why do we animate? why do we move things around on screen? just because it is boring or couldn't find anything else to fill the time? I see it all the time --- overly animated pieces. Make sure you understand your own intention, and how you want it to be communicated, and what responses/reactions it will receive. Sometimes, silence is needed.
+but, wait a second, why do we animate? why do we move things around on screen? just because it is boring or couldn't find any other way to fill the time? I see it all the time --- overly animated pieces. Make sure you understand your own intention, and how you want it to be communicated, and what responses/reactions it will receive. Sometimes, silence is needed.
 
 
 
@@ -54,7 +54,7 @@ but, wait a second, why do we animate? why do we move things around on screen? j
 {% include figure.html src="/images/quality-of-motion/ae-graph.png" alt="After Effects graph editor" caption="After Effects graph editor" %}
 
 ### Easing In & Out
-Easing in & out is a very typical way of creating a realistic motion. Everything in this world is governed by different natural forces such as gravity, friction, air resistance, etc. Therefore, it takes time to speed up or down. Everything you do in the computer by default is linear. You will have to add different types of interpolations to your animation to make it believable.
+Easing in & out is a very typical way of creating a realistic motion. Everything in this world is governed by different natural forces such as gravity, friction, air resistance, etc. Therefore, it takes time to speed up or down. Everything you do in the computer by default is linear, so it looks very mechanical. You will have to add different types of interpolations to your animation to make it believable.
 
 <!--
 ### The Effect
@@ -77,5 +77,6 @@ Easing in & out is a very typical way of creating a realistic motion. Everything
 ## Further Learning
 - [Animation basics: The art of timing and spacing](https://www.youtube.com/watch?v=KRVhtMxQWRs&feature=share) TED video
 - Timing and spacing [webinar](http://www.animationmentor.com/resources/webinars/timing-and-spacing/)
+- [Easing graphs examples](http://easings.net/)
 
 <!-- footnotes -->
