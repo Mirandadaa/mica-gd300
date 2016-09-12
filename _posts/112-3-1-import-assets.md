@@ -44,6 +44,10 @@ When you have an image sequence to import, you can either import as individual f
 
 {% include figure.html src="/images/import-assets/import-sequence.png" alt="Import sequence dialog" caption="Import sequence dialog. Notice the PNG Sequence box is checked." %}
 
+### After importing
+After you check the `PNG Sequence` and import, you may have to change the way AE interprets your sequence depending on what frame rate you are working with. Select the sequence from the project panel, right-click and select `Interpret Footage > Main...`. From there, change the frame rate to the one that matches your project.
+
+If you don't check the `PNG Sequence` and import, you will see individual files in the project panel. You can simply drag and drop them into a composition. By default, every layer takes up the entire comp length. While all the files are selected, trim it down to the frame length you want, then right-click, and select `Keyframe Assistant > Sequence Layers...` and hit OK. All your selected layers will be automatically sequenced out.
 
 
 
