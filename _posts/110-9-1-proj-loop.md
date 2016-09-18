@@ -5,7 +5,7 @@ excerpt_separator: <!--more-->
 summary: Create animated GIF loops.
 categories: project
 tags:
-date_edited: Aug 29, 2016
+date_edited: Sep 18, 2016
 ---
 
 A loop is a wonderful thing. Some loops have beginnings and endings. Other loops do not. You can enter a loop at any point and leave anytime without missing anything. An endless musical loop is what makes people dancing. When you watch an animation loop, you lose the sense of time --- you can keep watching the same animation over and over again. [The Möbius strip](https://en.wikipedia.org/wiki/Möbius_strip) is non-orientable.
@@ -20,7 +20,7 @@ Adam Beckett's [Sausage City](https://www.youtube.com/watch?v=RKS7N5ZzpI8) pushe
 
 [9 Squares Project](http://9-squares.tumblr.com) is a collaborative design project, which shows an interesting juxtaposition of various loops from different designers. Limiting color palettes is not only an aesthetic choice but also a workaround for a technical limitation of a gif format.
 
-I am sure you know a lot of [tumblrs](http://vincemckelvie.com) and [websites](http://behance.net/rafaelvarona) that feature animated gifs.
+I am sure you know a lot of [tumblrs](http://vincemckelvie.com) and [websites](http://behance.net/rafaelvarona) that feature [animated](http://www.slimjimstudios.com/) gifs.
 
 As many loops contain many smaller or secondary animation, it provides an opportunity for unique storytelling. Typically, animation is considered linear. You start playing and watch until the end and the story unfolds over time. You, as a viewer, are directed to watch animation in a particular order of shots or scenes that a director has set in advance. But in a loop, multiple stories are played at the same time. It is up to you to decide where to start and where to go next. The movement of your eyes will determine how you will experience the story, which may be different every time.
 
