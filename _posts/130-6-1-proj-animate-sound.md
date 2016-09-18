@@ -114,7 +114,7 @@ Project 3 cont'd
 
 ## Further Learning
 - [Paragraphs on Conceptual Art](http://emerald.tufts.edu/programs/mma/fah188/sol_lewitt/paragraphs%20on%20conceptual%20art.htm) by Sol Lewitt
-- Visual Music
+- [Visual Music](https://en.wikipedia.org/wiki/Visual_music)
 - Futurist
 
 
