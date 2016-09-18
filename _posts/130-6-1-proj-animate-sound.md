@@ -44,12 +44,13 @@ Additionally, think about how you can use all the design elements in this contex
 ## Steps
 1. Find a short audio clip (15-40 seconds) that has no spoken words. 
 2. Choose the one that gives you good visual ideas to work with.
-3. Create sketches to explore different forms, colors, compositions, etc.
-4. Create a styleframe, or a single image that can communicate your entire piece visually.
-5. Create storyboards. The number of boards will depend on your idea - a rough suggestion is 10-20 boards.
-6. Create animatics based on storyboards and sync it to the sound.
-7. Animate based on the animatics.
-8. Get feedbacks on each stage. Iterate & improve.
+3. Analyze its musical structure. Identify elements that can traslate into visuals.
+4. Create sketches to explore different forms, colors, compositions, etc.
+5. Create a styleframe, or a single image that can communicate your entire piece visually.
+6. Create storyboards. The number of boards will depend on your idea - a rough suggestion is 10-20 boards.
+7. Create animatics based on storyboards and sync it to the sound.
+8. Animate based on the animatics.
+9. Get feedbacks on each stage. Iterate & improve.
 
 
 
@@ -112,7 +113,7 @@ Project 3 cont'd
 
 
 ## Further Learning
-- [Paragraphs on Conceptual Art](http://emerald.tufts.edu/programs/mma/fah188/sol_lewitt/paragraphs%20on%20conceptual%20art.htm)
+- [Paragraphs on Conceptual Art](http://emerald.tufts.edu/programs/mma/fah188/sol_lewitt/paragraphs%20on%20conceptual%20art.htm) by Sol Lewitt
 - Visual Music
 - Futurist
 
