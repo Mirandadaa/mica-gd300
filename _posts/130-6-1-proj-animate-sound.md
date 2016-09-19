@@ -65,6 +65,7 @@ Additionally, think about how you can use all the design elements in this contex
 
 
 ## Inspirations
+- [La Marche des Machines](https://www.youtube.com/watch?v=BTyfqgnfn0A) by Eugene Deslaw
 - [Hans Richter: Encounters](http://www.lacma.org/art/exhibition/hans-richter-encounters) - An exhibition at LACMA
 - [Symphonie Diagonale](https://vimeo.com/42401347) by Viking Eggeling
 - [Steamboat Willie](https://www.youtube.com/watch?v=BBgghnQF6E4) by Walt Disney
@@ -75,6 +76,7 @@ Additionally, think about how you can use all the design elements in this contex
 - [Synchromy No.2](https://www.youtube.com/watch?v=3kV6MmwO86A) by Mary Ellen Bute
 - [Spook Sport](https://www.youtube.com/watch?v=ZnLJqJBVCT4) by Mary Ellen Bute & Norman McLaren
 - [Begone Dull Care](https://www.youtube.com/watch?v=svD0CWVjYRY) by Norman McLaren
+- [More](http://pleix.net/More) by Pleix
 - [Giant Steps](https://www.youtube.com/watch?v=lpLs6zez7MI) by Michal Levy
 - [Puddle Jumper](https://vimeo.com/13004193) by Chris Casady
 - [Crazy Enough](https://vimeo.com/5239398) by Jr.canest
