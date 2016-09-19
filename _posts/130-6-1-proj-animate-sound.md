@@ -58,7 +58,7 @@ Additionally, think about how you can use all the design elements in this contex
 ## Deliverables
 - length: 15-40 seconds
 - video format: 1280 x 720px (29.97fps)
-- Technically, use vector shapes and animate with After Effects.
+- Technically, use vector shapes and animate with After Effects. Effects and textures are ok.
 - Submit not only *the final video file* but also your *styleframes* and *storyboards*.
 
 
