@@ -66,6 +66,7 @@ Additionally, think about how you can use all the design elements in this contex
 
 ## Inspirations
 - [La Marche des Machines](https://www.youtube.com/watch?v=BTyfqgnfn0A) by Eugene Deslaw
+- [Mechanical Principles](https://www.youtube.com/watch?v=dqohSjJrQWs) by Ralph Steiner
 - [Hans Richter: Encounters](http://www.lacma.org/art/exhibition/hans-richter-encounters) - An exhibition at LACMA
 - [Symphonie Diagonale](https://vimeo.com/42401347) by Viking Eggeling
 - [Steamboat Willie](https://www.youtube.com/watch?v=BBgghnQF6E4) by Walt Disney
