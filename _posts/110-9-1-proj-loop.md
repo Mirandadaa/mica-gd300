@@ -5,7 +5,7 @@ excerpt_separator: <!--more-->
 summary: Create animated GIF loops.
 categories: project
 tags:
-date_edited: Sep 18, 2016
+date_edited: Sep 25, 2016
 ---
 
 A loop is a wonderful thing. Some loops have beginnings and endings. Other loops do not. You can enter a loop at any point and leave anytime without missing anything. An endless musical loop is what makes people dancing. When you watch an animation loop, you lose the sense of time --- you can keep watching the same animation over and over again. [The Möbius strip](https://en.wikipedia.org/wiki/Möbius_strip) is non-orientable.
@@ -91,7 +91,7 @@ Project 2 begins
 ## Further Learning
 - [Making animated GIFs from After Effects comps](https://www.rocketstock.com/blog/making-animated-gifs-from-after-effects-comps/)
 - [Animating in Photoshop Tutorial](https://www.lynda.com/After-Effects-tutorials/Motion-Graphics-Loops-01-Photoshop-Techniques/483234-2.html) on lynda.com
-- Understanding Comics by Scott McCloud
+- Understanding Comics by Scott McCloud; Chapter 3 & 4
 
 
 
