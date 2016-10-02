@@ -74,7 +74,7 @@ Additionally, think about how you can use all the design elements in this contex
 - [Steamboat Willie](https://www.youtube.com/watch?v=BBgghnQF6E4) by Walt Disney
 - [An Optical Poem](https://www.youtube.com/watch?v=they7m6YePo) by Oskar Fischinger
 - [Komposition in Blau](http://vplay.ro/watch/ge4x2b1y/) by Oskar Fischinger
-- [A Color Box](https://archive.org/details/A_Colour_Box) by Len Lye
+- [A Color Box](https://archive.org/details/A_Colour_Box) by [Len Lye](http://www.govettbrewster.com/len-lye/)
 - [Free Radicals](https://www.youtube.com/watch?v=kwMubpbfib0) by Len Lye 
 - [Synchromy No.2](https://www.youtube.com/watch?v=3kV6MmwO86A) by [Mary Ellen Bute](http://www.lightindustry.org/bute)
 - [Spook Sport](https://www.youtube.com/watch?v=ZnLJqJBVCT4) by Mary Ellen Bute & Norman McLaren
