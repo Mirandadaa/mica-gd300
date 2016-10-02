@@ -22,12 +22,28 @@
         opacity: .7;
       }
       
-      @media screen and (max-width: 900px) {
+      @media screen 
+      and (max-width: 900px) {
         .img-container {
           width: 24%;
         }
       }
-      @media screen and (max-width: 600px) {
+      @media screen 
+      and (max-width: 900px) 
+      and (-webkit-min-device-pixel-ratio: 2) {
+        .img-container {
+          width: 24%;
+        }
+      }
+      @media screen 
+      and (max-width: 600px) {
+        .img-container {
+          width: 49%;
+        }    
+      }
+      @media screen 
+      and (max-width: 600px)
+      and (-webkit-min-device-pixel-ratio: 2) {
         .img-container {
           width: 49%;
         }
