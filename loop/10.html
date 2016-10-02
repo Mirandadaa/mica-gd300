@@ -1,0 +1,52 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Loops</title>
+    <link rel="stylesheet" href="css/reset.css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,700" rel="stylesheet">
+    <link href="css/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+  <body>
+    <div class="container clearfix">
+      <h1>Loops</h1>
+      <nav class="nav-main">
+        <ul>
+          <li><a href="09.html"><span class="fa fa-chevron-left" aria-hidden="true"></span></a>
+          <li><a href="index.html">Index</a> 
+          <li><a href="11.html"><span class="fa fa-chevron-right" aria-hidden="true"></span></a>
+        </ul>
+      </nav>
+      
+      <section class="images clearfix">
+        <div class="img-container">
+          <img class="img-gif lazy" data-original="images/101.gif">
+        </div>
+
+        <div class="img-container">
+          <img class="img-gif lazy" data-original="images/102.gif">
+        </div>
+      </section>
+      
+      <section class="desc">
+        <h2></h2>
+        <h3>by Clifford Patterson</h3>
+        <p>My design was influenced by the themes of Halloween. At the time, I had an interest in ties, and how they looked on people. I thought that making a tie come to life would be interesting, but the way it is presented had to be my main focus. Since we are close to Halloween, I thought of an alien-like grotesque tie showing signs it is alive, but it is not disturbing for people to enjoy the animation.</p>
+      </section>
+      
+    </div>
+    
+    <script src="js/jquery-3.1.0.min.js"></script>
+    <script src="js/jquery.lazyload.js"></script>
+    <script type="text/javascript">
+      
+      $(function() {
+        $("img.lazy").lazyload({
+          effect: "fadeIn"
+        });
+      });
+  
+    </script>
+  </body>
+</html>

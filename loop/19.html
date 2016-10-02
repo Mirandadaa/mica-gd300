@@ -1,0 +1,52 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Loops</title>
+    <link rel="stylesheet" href="css/reset.css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,700" rel="stylesheet">
+    <link href="css/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+  <body>
+    <div class="container clearfix">
+      <h1>Loops</h1>
+      <nav class="nav-main">
+        <ul>
+          <li><a href="18.html"><span class="fa fa-chevron-left" aria-hidden="true"></span></a>
+          <li><a href="index.html">Index</a> 
+          <li><a href="20.html"><span class="fa fa-chevron-right" aria-hidden="true"></span></a>
+        </ul>
+      </nav>
+      
+      <section class="images clearfix">
+        <div class="img-container">
+          <img class="img-gif lazy" data-original="images/191.gif">
+        </div>
+
+        <div class="img-container">
+          <img class="img-gif lazy" data-original="images/192.gif">
+        </div>
+      </section>
+      
+      <section class="desc">
+        <h2>Milk Witch</h2>
+        <h3>by Áine Carr</h3>
+        <p>a happy carton of milk sits peacefully on his table until the milk witch appears to cause milk-related chaos. FIrst, she pours herself a glass of milk just before draining it and suspending the milk midair, spinning it at will using her supernatural powers.</p>
+      </section>
+      
+    </div>
+    
+    <script src="js/jquery-3.1.0.min.js"></script>
+    <script src="js/jquery.lazyload.js"></script>
+    <script type="text/javascript">
+      
+      $(function() {
+        $("img.lazy").lazyload({
+          effect: "fadeIn"
+        });
+      });
+  
+    </script>
+  </body>
+</html>

@@ -1,0 +1,57 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Loops</title>
+    <link rel="stylesheet" href="css/reset.css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,700" rel="stylesheet">
+    <link href="css/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+  <body>
+    <div class="container clearfix">
+      <h1>Loops</h1>
+      <nav class="nav-main">
+        <ul>
+          <li><a href="25.html"><span class="fa fa-chevron-left" aria-hidden="true"></span></a>
+          <li><a href="index.html">Index</a> 
+          <li><a href="27.html"><span class="fa fa-chevron-right" aria-hidden="true"></span></a>
+        </ul>
+      </nav>
+      
+      <section class="images clearfix">
+        <div class="img-container">
+          <img class="img-gif lazy" data-original="images/261.gif">
+        </div>
+
+        <div class="img-container">
+          <img class="img-gif lazy" data-original="images/262.gif">
+        </div>
+      </section>
+      
+      <section class="desc">
+        <h2>Vote, Hon! & Blah, Blah, Blah</h2>
+        <h3>by Lisa	Orye</h3>
+        <p>
+          Does history repeat itself, or, do we never truly change? "Vote, Hon!" is an animated gif that features images taken in Baltimore during the civil rights movement in the late 60s. Transitioning from the images, the Baltimore vibe continues with an illustration of the Baltimore Hon lady who persuades us with her light-hearted look and bouncy animation to run out and vote.
+        </p>
+        <p>
+          Put your vote where your mouth is. This election, voters are overwhelmed with a lot of jabber. This fun animation reiterates the jabber with the word blah and then sends the message to vote as is enlarges, changes colors, and transitions to vote.org website. Purpose is to communicate that actually voting is more important than all of our jabber.
+        </p>
+      </section>
+      
+    </div>
+    
+    <script src="js/jquery-3.1.0.min.js"></script>
+    <script src="js/jquery.lazyload.js"></script>
+    <script type="text/javascript">
+      
+      $(function() {
+        $("img.lazy").lazyload({
+          effect: "fadeIn"
+        });
+      });
+  
+    </script>
+  </body>
+</html>
