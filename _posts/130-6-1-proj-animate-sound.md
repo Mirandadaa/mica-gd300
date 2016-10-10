@@ -109,7 +109,8 @@ continue animating
 Project 3 begins  
 
 ### Week 8
-*Fall Break - no classes*
+*Fall Break - no classes*  
+Post the progress on Trello
 
 ### Week 9
 Project 2 presentation  
