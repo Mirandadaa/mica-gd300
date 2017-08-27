@@ -7,7 +7,7 @@
 - email: [dchung01@mica.edu](mailto:dchung01@mica.edu)
 - Office: BR303
 - Office hours: W 2-3pm, Th 3-4pm & F 3-4pm (email for an appointment)
-- [Syllabus]()
+- [Syllabus](files/MICA-17FA-GD3-Syllabus.pdf)
 
 ## Course Description
 Students actively engage motion graphics as strategic medium for experimentation, idea generation, problem solving and communication. Motion and interactivity are studied in the context of aesthetic, cultural, historical and critical issues. Students learn essential design processes and techniques in their exploration of time-based media both as a tool and as a medium for evolving designers. Prerequisite: GD 220 (Graphic Design 2).
