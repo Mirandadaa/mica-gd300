@@ -3,7 +3,7 @@
 ## Frame, Beat, Shot, Scene, Sequence
 Movements or visual changes happen between frames. Changes also happen in a bigger or longer structure. Here, we look at different units we use in film. 
 
-{% include figure.html src="/images/a-technical-primer/units.jpg" alt="Units of Film" caption="different units of film" %}
+![Units](../images/w1/units.jpg)
 
 A **frame** is the smallest unit of film (or animation or video). It is a still image that is used to construct moving images. A **shot** is made up of frames. In live action film, a shot begins when the camera begins recording and ends when the camera stops recording. Whenever there is a cut --- an abrupt change in visuals, we call it a shot. A typical movie is made up of hundreds or thousands of shots but we don't normally notice that change because filmmakers use a lot of techniques to reveal or hide the connection of different shots. A *beat* is a subjective term to indicate a short length of time. You will hear some people use it but again, it is subjective so how long a *beat* is different for everyone. A **scene** is mainly used in live action production. It is a collection of shots (sometimes, a scene can be a single shot) that happens in the same location or time. In motion graphics, because we are not bound to any physical location or time, the boundary from a scene to scene is blurry. Often times, a designer uses a visual transition to smooth out the change. A **sequence** is a narrative unit and usually made up of several scenes. A sequence itself can be thought of a self-contained story on its own.
 
