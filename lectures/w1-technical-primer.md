@@ -16,7 +16,7 @@ When a long strip of film is passing behind a lens of a film projector, normally
 ### Phi Phenomenon
 [The phi phenomenon](https://en.wikipedia.org/wiki/Phi_phenomenon) is another reason why we experience the illusion of motion. Keep looking at the black cross in the image below for 10-20 seconds. You will see a green circle moving around.
 
-![Phi Phenomenon](images/w1/Lilac-Chaser.gif)
+![Phi Phenomenon](../images/w1/Lilac-Chaser.gif)
 
 <figure>
 	<img src="/images/a-technical-primer/Lilac-Chaser.gif" alt="Phi Phenomenon">
