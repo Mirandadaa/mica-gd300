@@ -1,7 +1,5 @@
 # Technical Primer
 
-Creating animation, whether it is traditional or digital, often involves understanding many different technologies. Of course, you can create beautiful animation only using pencil and paper, but we will be mainly using computer softwares in the class. Understanding the foundational technical aspect will save you a lot of headaches in the long run. So let's take a look.
-
 ## Frame, Beat, Shot, Scene, Sequence
 Movements or visual changes happen between frames. Changes also happen in a bigger or longer structure. Here, we look at different units we use in film. 
 
