@@ -2,7 +2,7 @@
 
 Flipbook may not look like much when we have all the digital technologies, but it can still be a [very powerful](https://www.youtube.com/watch?v=k31oJu-6gDY) way to communicate. As a first step into the motion and animation, we will create a flipbook with sticky notes.
 
-- The theme of your flipbook is *theeeeme*.
+- The theme of your flipbook is *speed*.
 - Before you start drawing on the sticky notes, plan first - what subjects, materials to use, etc.
 - Draw all the frames. Do some tests flipping to see the motion and timing. The minimum length requirement is 30 frames.
 - Record the video of your flipbook with your phone. Repeat recording until you get a satisfactory result.
