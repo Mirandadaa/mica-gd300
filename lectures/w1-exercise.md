@@ -2,7 +2,7 @@
 
 Flipbook may not look like much when we have all the digital technologies, but it can still be a [very powerful](https://www.youtube.com/watch?v=k31oJu-6gDY) way to communicate. As a first step into the motion and animation, we will create a flipbook with sticky notes.
 
-- Create a flipbook 
+- Create a flipbook based on the theme of *theeeeme*.
 - Draw frames on sticky notes.
 - Record the video of your flipbook. Repeat recording until you get a satisfactory result.
 - Sound is not mandatory, but you can include it if you want.
