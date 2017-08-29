@@ -52,9 +52,9 @@ In the United States, we use 24fps for film and 30fps for TV. The standards are 
 Traditionally, the full animation is when it is produced at 24 or 30fps, meaning every frame is animated. This is a lot of work, especially, for TV shows that need to release a new episode every week. Think about it. If you make a 10-minute long animation at 30fps, that mean you have to animate 18000 drawings. So, a lot of studios create limited animation by skipping every other frame or so. When we say animate *on ones*, it means every frame is animated. *On twos* means every other frame is animated. And *on threes* and *on fours* and so on...
 
 ### 23.976fps or 29.97fps?
-You will often see frame rates having a weird decimal number. We know that a frame is a drawing or a picture, then how can there be 23.976 drawings per second? There is no 0.976 drawings. It is to keep up with [NTSC standard](https://en.wikipedia.org/wiki/NTSC) and a way to sync a timecode with picture frames.
+You will often see frame rates having a weird decimal number. We know that a frame is a drawing or a picture, then how can there be 23.976 drawings per second? There is no 0.976 drawings. It is to keep up with [NTSC standard](https://en.wikipedia.org/wiki/NTSC) and a way to sync a timecode with picture frames. More information is in [this video](https://www.youtube.com/watch?v=3GJUM6pCpew&feature=youtu.be).
 
-This strange standards were introduced when color TV sets were replacing B&W sets when everyone was happy with 30fps. But because color signal had more information, they had to make room for it by reducing approximately 0.03fps.
+These strange standards were introduced when color TV sets were replacing B&W sets when everyone was happy with 30fps. But because color signal had more information, they had to make room for it by reducing approximately 0.03fps.
 
 I think it is a wonderful, albeit horrible, story that shows how difficult it is to change the standards even though we know that the old is not good enough. TVs are used by billions of people every day, and there are millions of cameras and other equipment set to support the old standard. You can't just change it in one day. 
 
