@@ -36,5 +36,5 @@ Students actively engage motion graphics as strategic medium for experimentation
 - [Assignments](lectures/w1-assignments.md)
 
 ### Week 2
-- [Technical Primer](lectures/w1-technical-primer.md)
+- [Technical Primer](lectures/w2-technical-primer.md)
 
