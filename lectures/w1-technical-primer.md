@@ -39,12 +39,8 @@ Knowing these units will not only help you communicate when working on your proj
 ## Resolutions
 If you are only going to present your work on computer screen, it can be as tall or wide as you want, but if you are thinking of publishing for TV, DVD, etc., then you will have to follow the standards. For our purpose, you only have to deal with 2 different High Definition resolution --- 720p and 1080p. 
 
-<figure>
-	<img src="/images/a-technical-primer/resolutions.png">
-	<figcaption>
-		Comparisons of video resolutions from <a href="https://en.wikipedia.org/wiki/4K_resolution">Wikipedia</a>
-	</figcaption>
-</figure>
+![Resolution comparison](../images/w1/resolutions.png)
+
 
 ### 720p
 720p has a screen size of 1280 pixels wide and 720 pixels tall (1280 x 720px), and it has a 16 by 9 aspect ratio.
