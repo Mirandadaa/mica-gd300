@@ -27,3 +27,6 @@ Students actively engage motion graphics as strategic medium for experimentation
 ### Week 1
 - [Survey](https://docs.google.com/forms/d/e/1FAIpQLSecPPxBAcrRt3BAR96hwQnEzAh1rnlOpTzVauPK7UgaN8VKfg/viewform?usp=sf_link)
 - [Resources](lectures/w1-resources.md)
+- [Technical Primer](lectures/w1-technical-primer.md)
+
+### Week 2
