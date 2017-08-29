@@ -17,13 +17,7 @@ When a long strip of film is passing behind a lens of a film projector, normally
 [The phi phenomenon](https://en.wikipedia.org/wiki/Phi_phenomenon) is another reason why we experience the illusion of motion. Keep looking at the black cross in the image below for 10-20 seconds. You will see a green circle moving around.
 
 ![Phi Phenomenon](../images/w1/Lilac-Chaser.gif)
-
-<figure>
-	<img src="/images/a-technical-primer/Lilac-Chaser.gif" alt="Phi Phenomenon">
-	<figcaption>
-		The phi phenomenon from <a href="https://en.wikipedia.org/wiki/Phi_phenomenon#/media/File:Lilac-Chaser.gif">Wikipedia</a>
-	</figcaption>
-</figure>
+The phi phenomenon from <a href="https://en.wikipedia.org/wiki/Phi_phenomenon#/media/File:Lilac-Chaser.gif">Wikipedia</a>
 
 ### Beta Movement
 One more theory to look at is the beta movement. Physiologically, there is [a difference](http://mesosyn.com/mental8-14.html) between the phi phenomenon and the beta movement.
