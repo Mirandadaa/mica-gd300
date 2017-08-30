@@ -11,7 +11,7 @@ A vase made from [Iran's Burnt City](https://en.wikipedia.org/wiki/Shahr-e_Sukht
 
 An Egyptian mural from about 4000 years ago illustrates detailed movements of wrestlers. 
 
-{% include figure.html src="/images/animation-tools-and-techniques/Egyptmotionseries.jpg" alt="An Egyptian Mural" caption="An Egyptian mural"%}
+![An Egyptian Mural](../images/w1/Egyptmotionseries.jpg)
 
 ## Examples of Optical Devices
 [Camera obscura](https://en.wikipedia.org/wiki/Camera_obscura) is one of the oldest optical devices and it is still being used. You can [build your own](https://vimeo.com/2859589) if you can completely block the lights. A pinhole camera uses the same principle. The intensity of the light projected is very dim if you compare it to a modern video projector as the light coming in through the tiny hole is not that strong. So, to be able to record an image with the camera, you have to expose the film long enough --- a few minutes to a few hours. 
