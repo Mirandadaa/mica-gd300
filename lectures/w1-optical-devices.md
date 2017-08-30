@@ -1,5 +1,4 @@
 # Optical Devices
-What's the oldest animation you can remember? Disney's early animation? Does anybody know [Fleischer Brothers](http://www.fleischerstudios.com/history.html)? Those are from the days when every frame of animation had to be hand-drawn on paper or [cel](https://en.wikipedia.org/wiki/Cel), and all those frames had to be shot in front of camera using film. And that film had to be developed and printed and projected on screen. Now, the computer made everything seem so simple. You can sketch, animate and render everything right inside the computer. 
 
 One needs not to know how to use a computer, or any kinds of modern technologies, to create animation. You don't need a camera or film, either. People have been creating animation for hundreds of years long before the invention of film[^lumiere]. Optical devices give us an interesting look at the essence of what makes animation possible. We are not merely learning about the history but hoping to find inspirations and directions for our work.
 
