@@ -16,15 +16,13 @@ An Egyptian mural from about 4000 years ago illustrates detailed movements of wr
 ## Examples of Optical Devices
 [Camera obscura](https://en.wikipedia.org/wiki/Camera_obscura) is one of the oldest optical devices and it is still being used. You can [build your own](https://vimeo.com/2859589) if you can completely block the lights. A pinhole camera uses the same principle. The intensity of the light projected is very dim if you compare it to a modern video projector as the light coming in through the tiny hole is not that strong. So, to be able to record an image with the camera, you have to expose the film long enough --- a few minutes to a few hours. 
 
-{% include figure.html src="/images/animation-tools-and-techniques/Boulevard-du-Temple-by-Daguerre.jpg" alt="Boulevard du Temple by Daguerre" caption="Boulevard du Temple by Daguerre, 1838 (Daguerreotype)" %}
+![Boulevard du Temple by Daguerre, 1838 (Daguerreotype)](../images/w1/Boulevard-du-Temple-by-Daguerre.jpg)
 
 [Camera lucida](https://en.wikipedia.org/wiki/Camera_lucida) uses a prism glass so that the drawing subject and the drawing can be seen simultaneously. Both camera obscura and camera lucida has [helped many painters to achieve realism](https://en.wikipedia.org/wiki/Hockney–Falco_thesis). The tradition has been almost forgotten until recently when a few scholars [reproduced the device](http://neolucida.com) with the help of 3D printing technology.
 
 There are so many other kinds of optical devices that I cannot introduce them all here. You probably had played with [thaumatrope](https://en.wikipedia.org/wiki/Thaumatrope) when you were young, or made a [flipbook](https://en.wikipedia.org/wiki/Flip_book) by drawing a stick figures on a corner of a textbook. You might have seen a classic [zoetrope](https://en.wikipedia.org/wiki/Zoetrope) or [Pixar's zoetrope](https://www.youtube.com/watch?v=5khDGKGv088). And there are [many](https://en.wikipedia.org/wiki/Phenakistoscope) [other](https://en.wikipedia.org/wiki/Praxinoscope) [optical](http://www.thisiscolossal.com/2016/06/a-fascinating-3d-printed-light-based-zoetrope-by-akinori-goto/) [devices](https://vimeo.com/60582756) out there[^optical-devices].
 
-{% include figure.html src="/images/animation-tools-and-techniques/The-Horse-in-Motion.jpg" alt="Muybridge's The Horse in Motion" caption="Eadweard Muybridge's The Horse in Motion, 1878" %}
-
-
+![Eadweard Muybridge's The Horse in Motion, 1878](../images/w1/The-Horse-in-Motion.jpg)
 
 
 ## Physical Materials
