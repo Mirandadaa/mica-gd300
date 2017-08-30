@@ -5,7 +5,7 @@ One needs not to know how to use a computer, or any kinds of modern technologies
 
 ## Ancient Evidences
 
-{% include figure.html src="/images/animation-tools-and-techniques/Vase-animation.svg" alt="Vase from Iran's Burnt City" caption="A vase from Iran's Burnt City"%}
+![A vase from Iran's Burnt City](../images/w1/Vase-animation.svg)
 
 A vase made from [Iran's Burnt City](https://en.wikipedia.org/wiki/Shahr-e_Sukhteh) about 5200 years ago suggests the oldest effort of recording a movement. Because it is drawn around the vase, which is round, it takes a form of a loop.
 
