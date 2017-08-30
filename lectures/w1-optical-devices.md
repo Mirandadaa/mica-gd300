@@ -1,6 +1,6 @@
 # Optical Devices
 
-One needs not to know how to use a computer, or any kinds of modern technologies, to create animation. You don't need a camera or film, either. People have been creating animation for hundreds of years long before the invention of film[^lumiere]. Optical devices give us an interesting look at the essence of what makes animation possible. We are not merely learning about the history but hoping to find inspirations and directions for our work.
+One needs not to know how to use a computer, or any kinds of modern technologies, to create animation. You don't need a camera or film, either. People have been creating animation for hundreds of years long before the invention of film. Optical devices give us an interesting look at the essence of what makes animation possible. We are not merely learning about the history but hoping to find inspirations and directions for our work.
 
 ## Ancient Evidences
 
