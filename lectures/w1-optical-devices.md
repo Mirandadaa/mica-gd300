@@ -40,7 +40,7 @@ An oil painting dries very slowly. So you can paint a single image and keep modi
 [A charcoal animation](https://www.youtube.com/watch?v=m1oK5LMJ3zY) is similar to oil painting animation in a way that it leaves a trace behind. What does it mean to be able to see the marks from previous drawings?
 
 ### Pixilation
-Pixilation is an animation technique that uses [real human performers](https://vimeo.com/39056719) and [objects](https://www.youtube.com/watch?v=qBjLW5_dGAM) and record their movements one frame at a time. It is different from live action film because it uses a stop-motion technique rather than continuous recording.
+Pixilation is an animation technique that uses [real human performers](https://vimeo.com/39056719) and [objects](https://www.youtube.com/watch?v=qBjLW5_dGAM) and record their movements one frame at a time. It is different from live action film because it uses a stop-motion technique rather than continuous recording. More examples: [BLU](https://vimeo.com/993998) and [PES](https://www.youtube.com/watch?v=dNJdJIwCF_Y)
 
 ### Rotoscoping
 Rotoscoping is a technique of creating animation frames by tracing over an existing footage. The resulting movement is [very realistic](https://vimeo.com/13110245) and the creator can choose what parts to emphasize and what parts to omit. In motion graphics and visual effects, rotoscoping also means creating a matte for compositing purposes. For example, separating a car from its background.
