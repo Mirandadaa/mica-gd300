@@ -1,7 +1,8 @@
 # Photoshop Animation
 
 1. Create a new file. Start with one of the FIlm & Video presets. 
-1. Open the Timeline panel from the Window menu.
+1. Open the Timeline panel from the Window menu. You can create frames in the Timeline panel.
+1. 
 
 
 
