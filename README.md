@@ -37,4 +37,5 @@ Students actively engage motion graphics as strategic medium for experimentation
 
 ### Week 2
 - [Technical Primer](lectures/w2-technical-primer.md)
-
+- Photoshop animation
+-
