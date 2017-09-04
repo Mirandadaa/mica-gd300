@@ -5,7 +5,7 @@
 1. There are 2 kinds of animation in Photoshop.
     1. Video timeline
     1. Frame animation
-1. Let's start by clicking 'Create Video Timeline' button.
+1. Let's start by clicking 'Create Video Timeline' button. You will see an empty layer in your Timeline. This also corresponds to the layer
 1. 
 
 
