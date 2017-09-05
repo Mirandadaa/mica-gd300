@@ -3,17 +3,11 @@
 To give you an overview of the basic workflow in After Effects, we will create a very simple slideshow video here.
 
 
-## Setting up a project
-When you open up After Effects, you will meet an empty project window with a few different panels. First thing you need to do is to *save a project*.
-
-
-
-
 ## Setting up a composition
-A composition or comp is a basic working unit in After Effects. A project file (*.aep) will usually have multiple compositions and source files. Create a comp by pressing `Cmd + N` or going to `Composition > New Composition...`.
+A composition or a comp is a basic working unit in After Effects. A project file (.aep) will usually have multiple compositions and source files. Create a comp by pressing `Cmd + N` or going to `Composition > New Composition...`.
 
 ### Composition Name
-Give a descriptive name to your comp. For a complex project, it is a good idea to include today's date. In my case, I named it `160828_test_01`.
+Give a descriptive name to your comp. For a complex project, it is a good idea to include today's date. In my case, I named it `170926-test-01`.
 
 ### Resolution
 There are a few presets you can select from, but you can also type in width and height yourself. We will work with an HD resolution of *1280 x 720 pixels*.
@@ -22,15 +16,14 @@ There are a few presets you can select from, but you can also type in width and 
 Keep it *Square Pixels* unless you will be using video footages from a video camcorder.
 
 ### Frame Rate
-There are two major frame rate settings --- 24 (23.976) or 30 (29.97) fps. We will use *29.97fps*.
+We will use 24 fps.
 
 ### Duration
 This is the duration of your comp. There are 4 numbers separated by a semicolon as in `hour;minute;second;frame`. In my case, I typed in `0;00;10;00`, which is 10-second long. Or, you can just type in `1000` and After Effects will convert it properly.
 
-{% include figure.html src="/images/ae-in-1-hour/comp-settings.png" alt="After Effects composition settings" caption="After Effects composition settings" %}
+![comp settings](../images/w2/comp-settings.png)
 
-All these settings can be updated by pressing `Cmd + K` or going to `Composition > Composition Settings...`. It is ok to change the duration any time, but it is not advised to change the screen resolution and the frame rate once you start working on your project. It will affect the visual composition and the timing of your animation.
-
+All these settings can be updated later by pressing `Cmd + K` or going to `Composition > Composition Settings...`. It is ok to change the duration any time, but it is not advised to change the screen resolution and the frame rate once you start working on your project. It will affect the visual composition and the timing of your animation.
 
 
 
