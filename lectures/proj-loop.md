@@ -14,7 +14,7 @@ Watch [The Elephant In Wonderland](http://www.jkart.net/anim.html) by Ke Jiang. 
 
 Adam Beckett's [Sausage City](https://www.youtube.com/watch?v=RKS7N5ZzpI8) pushes the idea of an animation loop to another level. When you animate, you are left with the original drawings. But in Beckett's animation, a finished drawings of a loop is resued to create another loop. New drawings and new colors are added through each iteration. The process itself becomes a final result.
 
-[Many optical devices we already looked at](/animation-tools-and-techniques#optical-devices) are based on the idea of a loop as they had a limited space to put frames on. In this day and age, everything is digital and we do not have such limitations, but perhaps, now, we have a different kind of limitation - a short attention span.
+[Many optical devices we already looked at](w1-optical-devices.md) are based on the idea of a loop as they had a limited space to put frames on. In this day and age, everything is digital and we do not have such limitations, but perhaps, now, we have a different kind of limitation - a short attention span.
 
 [9 Squares Project](http://9-squares.tumblr.com) is a collaborative design project, which shows an interesting juxtaposition of various loops from different designers. Limiting color palettes is not only an aesthetic choice but also a workaround for a technical limitation of a gif format.
 
