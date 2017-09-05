@@ -1,8 +1,10 @@
 # Project 1: Loop
 
-An animated loop is a short animation segement that runs continuously and is repeated endlessly. Some loops have beginnings and endings. Other loops do not. There may be multiple visual elements animated. As many loops contain many smaller or secondary animation, it provides an opportunity for unique storytelling. Typically, animation is considered linear. You start playing and watch until the end and the story unfolds over time. You, as a viewer, are directed to watch animation in a particular order of shots or scenes that a director has set in advance. But in a loop, multiple stories can be played at the same time. It is up to you to decide where to start and where to go next. The movement of your eyes will determine how you will experience the story, which may be different every time.
+For the first project, you will create an animation loop.
 
-For the first project, you will create an animation loop. 
+An animated loop is a short animation segement that runs continuously and is repeated endlessly. Some loops have beginnings and endings. Other loops do not. There may be multiple visual elements animated. It may be combined with other animation segments. As many loops contain many smaller or secondary animation, it provides an opportunity for unique storytelling.
+
+Typically, animation is considered linear. You start playing and watch until the end and the story unfolds over time. You, as a viewer, are directed to watch animation in a particular order of shots or scenes that a director has set in advance. But in a loop, multiple stories can be played at the same time. It is up to you to decide where to start and where to go next. The movement of your eyes will determine how you will experience the story, which may be different every time.
 
 Let's take a look at some examples...
 
@@ -16,7 +18,7 @@ Adam Beckett's [Sausage City](https://www.youtube.com/watch?v=RKS7N5ZzpI8) pushe
 
 [9 Squares Project](http://9-squares.tumblr.com) is a collaborative design project, which shows an interesting juxtaposition of various loops from different designers. Limiting color palettes is not only an aesthetic choice but also a workaround for a technical limitation of a gif format.
 
-I am sure you know a lot of [websites](http://behance.net/rafaelvarona) that feature [animated](http://www.slimjimstudios.com/) gifs.
+I am sure you know a lot of other [websites](http://behance.net/rafaelvarona) that feature [animated](http://www.slimjimstudios.com/) gifs.
 
 
 ## Animated GIF
@@ -24,7 +26,7 @@ GIF image format has been around [for a long time](http://www.fastcodesign.com/3
 
 
 ## Let's make a loop.
-You will come up with a concept and subject for this project. There is no limitations on what tools or techniques or styles you can use. Feel free to explore on your own. It can be stop-motion photography, Photoshop animation, After Effects animation, hand-drawn animation, etc.
+You will come up with a concept and subject for this project. There is no limitations on what tools or techniques or styles you can use. Feel free to explore on your own. It can be stop-motion photography, Photoshop animation, hand-drawn animation, etc.
 
 Create two loops in the animated GIF format. The two loops must be variations on the same concept. Think about the relationship between them. How will they look when placed side by side? The relationship can be about the subject matter, temporal and spatial rhythms, colors, juxtapositions, etc.
  
@@ -42,6 +44,7 @@ An animated GIF is a [very popular](http://www.nytimes.com/2013/02/14/fashion/co
 Create two animated GIF loops. These two loops must be variations of the same concept.
 
 - 2 animated GIF files
+- the theme: repetiton
 - Dimensions: 500 x 500 px per each loop
 - Frame rate: 12 fps
 - Length: between 60 and 240 frames per each loop
@@ -59,7 +62,7 @@ review ideas, sketches, storyboards
 review animation work-in-progress  
 
 ### Week 4
-presentation  
+Project 1 presentation  
 Project 2 begins
 
 
@@ -68,13 +71,4 @@ Project 2 begins
 - [Animating in Photoshop Tutorial](https://www.lynda.com/After-Effects-tutorials/Motion-Graphics-Loops-01-Photoshop-Techniques/483234-2.html) on lynda.com
 
 
-## More
-- Marcel Duchamp's disc
-- neon signs
-- walk 'cycle'
 
-### Boiling effect - for looping animation
-is a way to keep things alive.
-hand-made feel, more personal
-3 frames drawn over previous one
-4 or more frames create a sense of direction (unintended)
