@@ -3,7 +3,7 @@
 
 A loop is a wonderful thing. Some loops have beginnings and endings. Other loops do not. You can enter a loop at any point and leave anytime without missing anything. An endless musical loop is what makes people dancing. When you watch an animation loop, you lose the sense of time --- you can keep watching the same animation over and over again. [The Möbius strip](https://en.wikipedia.org/wiki/Möbius_strip) is non-orientable.
 
-Watch [The Elephant In Wonderland](http://www.jkart.net/anim.html) by Ke Jiang. It is a loop within a loop. The creator says that there are only 24 frames in total in this animation. 24 is an interesting number[^framerate-standards] because it has many factors (1, 2, 3, 4, 6, 8, 12, 24). Having many factors means that you can have multiple loops playing at the same time at different speeds. This is a great way of adding variations to your simple animation loop.
+Watch [The Elephant In Wonderland](http://www.jkart.net/anim.html) by Ke Jiang. It is a loop within a loop. The creator says that there are only 24 frames in total in this animation. 24 is an interesting number because it has many factors (1, 2, 3, 4, 6, 8, 12, 24). Having many factors means that you can have multiple loops playing at the same time at different speeds. This is a great way of adding variations to your simple animation loop.
 
 [Revolver](https://vimeo.com/11558102) by Jonas Odell et al. is a great example of using secondary actions in a loop. Sometimes, looping the same sequence is not just a repetition but it is necessary to fully illustrate the meanings or intentions.
 
@@ -60,21 +60,18 @@ Create two animated GIF loops. These two loops must be variations of the same co
 
 ## Schedule
 
-### Week 1 (Aug.20-Sep.2)
+### Week 2
 Project 1 assigned  
 research  
 idea sketch  
 
-### Week 2 (Sep.5 - 9)
-*No class on Monday - Monday students will submit the progress online*  
+### Week 3 
 review ideas, sketches  
 work on storyboards and then animation
-
-### Week 3 (Sep.12 - 16)
 review animation work-in-progress  
 refine and improve
 
-### Week 4 (Sep.19 - 23)
+### Week 4
 presentation  
 Project 2 begins
 
