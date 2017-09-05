@@ -1,15 +1,13 @@
 # Photoshop Animation
 
-1. Create a new file. Start with one of the FIlm & Video presets. 
-1. Open the Timeline panel from the Window menu. You can create frames in the Timeline panel.
-1. There are 2 kinds of animation in Photoshop.
+There is [a great course on creating animation with Photoshop](https://www.lynda.com/After-Effects-tutorials/Motion-Graphics-Loops-01-Photoshop-Techniques/483234-2.html) on Lynda.com. You get free access with MICA email account. So, check it out first.
+
+Here are some tips for animating in Photoshop.
+
+- Animating in Photoshop allows you to use all the brushes and layer features, but it is somewhat limited in what you can do, especially, when it comes to editing.
+- When you create a new file, start with one of the Film & Video presets.
+- There are two kinds of animation techniques in Photoshop.
     1. Video timeline
     1. Frame animation
-1. Let's start by clicking 'Create Video Timeline' button. You will see an empty layer in your Timeline. This also corresponds to the layer
-1. 
-
-
-
-
-
-[1 hour course on Lynda.com](https://www.lynda.com/After-Effects-tutorials/Motion-Graphics-Loops-01-Photoshop-Techniques/483234-2.html)
+- With Video Timeline, each layer will become a single frame, meaning, if you want to animate 300 frames, you will need 300 layers.
+- With Frame Animation, 
