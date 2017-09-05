@@ -30,15 +30,11 @@ Create two loops in the animated GIF format. The two loops must be variations on
 An animated GIF is a [very popular](http://www.nytimes.com/2013/02/14/fashion/common-on-early-internet-gif-files-make-comeback.html?_r=1&) form of communication. What kinds of forms and contents can it take? What kind of ideas can you convey using loops?
 
 
-
-
 ## Objectives
 - Learn and practice technical skills that are necessary for creating motion graphics.
 - Explore principles and characteristics that are unique to time-based media such as timing and spacing.
 - Explore ways to tell a *story* under given constraints.
-- Develop a working process.
-
-
+- Develop a  process for time-based media.
 
 
 ## Deliverables
@@ -50,8 +46,6 @@ Create two animated GIF loops. These two loops must be variations of the same co
 - Length: between 60 and 240 frames per each loop
 
 
-
-
 ## Schedule
 
 ### Week 2
@@ -60,23 +54,17 @@ research
 idea sketch  
 
 ### Week 3 
-review ideas, sketches  
-work on storyboards and then animation
+review ideas, sketches, storyboards  
 review animation work-in-progress  
-refine and improve
 
 ### Week 4
 presentation  
 Project 2 begins
 
 
-
-
 ## Further Learning
 - [Making animated GIFs from After Effects comps](https://www.rocketstock.com/blog/making-animated-gifs-from-after-effects-comps/)
 - [Animating in Photoshop Tutorial](https://www.lynda.com/After-Effects-tutorials/Motion-Graphics-Loops-01-Photoshop-Techniques/483234-2.html) on lynda.com
-- Understanding Comics by Scott McCloud; Chapter 3 & 4
-- Boiling effect
 
 
 ## More
