@@ -1,7 +1,5 @@
 # Project 1: Loop
 
-For the first project, you will create an animation loop.
-
 An animated loop is a short animation segement that runs continuously and is repeated endlessly. Some loops have beginnings and endings. Other loops do not. There may be multiple visual elements animated. It may be combined with other animation segments. As many loops contain many smaller or secondary animation, it provides an opportunity for unique storytelling.
 
 Typically, animation is considered linear. You start playing and watch until the end and the story unfolds over time. You, as a viewer, are directed to watch animation in a particular order of shots or scenes that a director has set in advance. But in a loop, multiple stories can be played at the same time. It is up to you to decide where to start and where to go next. The movement of your eyes will determine how you will experience the story, which may be different every time.
