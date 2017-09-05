@@ -39,7 +39,7 @@ Students actively engage motion graphics as strategic medium for experimentation
 - [Technical Primer](lectures/w2-technical-primer.md)
 - [Photoshop animation](lectures/w2-ps-animation.md)
 - After Effects basics - creating a slideshow
-- Project 1: Loop
+- [Project 1: Loop](lectures/proj-loop.md)
 
 ### Week 3
-- 
+- After Effects keyframing
