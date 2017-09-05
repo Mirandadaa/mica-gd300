@@ -1,7 +1,10 @@
 # Project 1: Loop
 
+An animated loop is a short animation segement that runs continuously and is repeated endlessly. Some loops have beginnings and endings. Other loops do not. You can enter a loop at any point and leave anytime without missing anything. An endless musical loop is what makes people dancing. When you watch an animation loop, you lose the sense of time --- you can keep watching the same animation over and over again. [The Möbius strip](https://en.wikipedia.org/wiki/Möbius_strip) is non-orientable.
 
-A loop is a wonderful thing. Some loops have beginnings and endings. Other loops do not. You can enter a loop at any point and leave anytime without missing anything. An endless musical loop is what makes people dancing. When you watch an animation loop, you lose the sense of time --- you can keep watching the same animation over and over again. [The Möbius strip](https://en.wikipedia.org/wiki/Möbius_strip) is non-orientable.
+For the first project, you will create an animation loop. 
+
+Let's take a look at some examples...
 
 Watch [The Elephant In Wonderland](http://www.jkart.net/anim.html) by Ke Jiang. It is a loop within a loop. The creator says that there are only 24 frames in total in this animation. 24 is an interesting number because it has many factors (1, 2, 3, 4, 6, 8, 12, 24). Having many factors means that you can have multiple loops playing at the same time at different speeds. This is a great way of adding variations to your simple animation loop.
 
