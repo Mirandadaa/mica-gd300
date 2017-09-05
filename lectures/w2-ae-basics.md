@@ -95,13 +95,7 @@ Now, we need to specity where we want to render the file to. Click the blue text
 Now, you are done. All you need to do is to hit the *Render* button and wait until it finishes.
 
 
-
-
 ## Testing
-Play in a video player you prefer. Make sure everthing is ok. If not, you can come back to the AE project and make adjustments and repeat the rendering process.
+Play in a video player you prefer. Make sure everthing looks and plays ok. If not, you can come back to the AE project and make adjustments and repeat the rendering process.
 
 
-
-
-## Next...
-There are many things we skip in this posting. Hopefully, this will give you a very basic idea of how it is like to work in After Effects.
