@@ -1,6 +1,6 @@
 # Photoshop Animation
 
-There is [a great course on creating animation with Photoshop](https://www.lynda.com/After-Effects-tutorials/Motion-Graphics-Loops-01-Photoshop-Techniques/483234-2.html) on Lynda.com. It's only about an hour long and has everything you need to know about. You get free access with MICA email account. So, check it out first.
+There is [a great course on creating animation with Photoshop](https://www.lynda.com/After-Effects-tutorials/Motion-Graphics-Loops-01-Photoshop-Techniques/483234-2.html) on Lynda.com. It's only about an hour long. You get free access with your MICA email account. So, check it out first.
 
 Here are some tips for animating in Photoshop.
 
