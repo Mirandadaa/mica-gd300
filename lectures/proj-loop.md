@@ -13,19 +13,13 @@ Adam Beckett's [Sausage City](https://www.youtube.com/watch?v=RKS7N5ZzpI8) pushe
 
 [9 Squares Project](http://9-squares.tumblr.com) is a collaborative design project, which shows an interesting juxtaposition of various loops from different designers. Limiting color palettes is not only an aesthetic choice but also a workaround for a technical limitation of a gif format.
 
-I am sure you know a lot of [tumblrs](http://vincemckelvie.com) and [websites](http://behance.net/rafaelvarona) that feature [animated](http://www.slimjimstudios.com/) gifs.
+I am sure you know a lot of [websites](http://behance.net/rafaelvarona) that feature [animated](http://www.slimjimstudios.com/) gifs.
 
 As many loops contain many smaller or secondary animation, it provides an opportunity for unique storytelling. Typically, animation is considered linear. You start playing and watch until the end and the story unfolds over time. You, as a viewer, are directed to watch animation in a particular order of shots or scenes that a director has set in advance. But in a loop, multiple stories are played at the same time. It is up to you to decide where to start and where to go next. The movement of your eyes will determine how you will experience the story, which may be different every time.
 
 
-
 ## Animated GIF
-GIF image format has been around [for a long time](http://www.fastcodesign.com/3034030/9-design-ideas-that-forever-changed-the-web). It only supports 256 colors[^gif-color-limit]. Its compression allows for a small file size, which also means faster download for the user. The advantage of the speed was a crucial factor in the early days, but not so much now. But GIF is still very popular because it can animate! 
-
-### Alternatives to GIFs
-As with anything on the web, it takes time to change an old standard, You can read about [some alternatives](https://builtvisible.com/3-logical-alternatives-to-animated-gifs/).
-
-
+GIF image format has been around [for a long time](http://www.fastcodesign.com/3034030/9-design-ideas-that-forever-changed-the-web). It only supports 256 colors. Its compression allows for a small file size, which also means faster download for the user. The advantage of the speed was a crucial factor in the early days, but not so much now. But GIF is still very popular because it can animate! 
 
 
 ## Let's make a loop.
