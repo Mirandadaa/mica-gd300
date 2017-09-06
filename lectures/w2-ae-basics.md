@@ -16,7 +16,7 @@ There are a few presets you can select from, but you can also type in width and 
 Keep it *Square Pixels* unless you will be using video footages from a video camcorder.
 
 ### Frame Rate
-We will use 24 fps.
+We will use 24 fps. I mentioned this earlier, but once you set the frame rate, you do not want to change it in the middle of the production.
 
 ### Duration
 This is the duration of your comp. There are 4 numbers separated by a semicolon as in `hour;minute;second;frame`. In my case, I typed in `0;00;10;00`, which is 10-second long. Or, you can just type in `1000` and After Effects will convert it properly.
@@ -27,7 +27,7 @@ All these settings can be updated later by pressing `Cmd + K` or going to `Compo
 
 
 ## Importing assets
-You can either create graphic assets directly within After Effects or import as multiple file formats that AE supports. They include image(jpg, png, tiff, etc.), video(quicktime, etc.) and audio(mp3, aiff, etc.). You can also import working file formats such as PSD and AI. AE will preserve all the layer setup.
+You can either create graphic assets directly within After Effects or import files into AE. They include image(jpg, png, tiff, etc.), video(quicktime, etc.) and audio(mp3, aiff, etc.). You can also import working file formats such as PSD and AI. All the layer setup will be preserved.
 
 Here, we will just use simple jpeg images. Find five different landscape images and import into After Effects. To import, the quickiest way is to select the source files and drag them into the project panel.
 
