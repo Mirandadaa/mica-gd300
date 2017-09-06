@@ -44,4 +44,10 @@ Students actively engage motion graphics as strategic medium for experimentation
 - [Assignments](lectures/w2-assignments.md)
 
 ### Week 3
-- After Effects keyframing
+- After Effects: import assets
+- After Effects: keyframing
+
+### Week 4
+- Project 1 critique
+- 
+
