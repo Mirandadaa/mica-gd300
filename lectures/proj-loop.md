@@ -46,7 +46,7 @@ Create two animated GIF loops. These two loops must be variations of the same co
 - the technique: frame-by-frame animation
 - Dimensions: 500 x 500 px per each loop
 - Frame rate: 12 fps
-- Length: between 4 - 8 seconds per each loop (48 - 96 frames)
+- Length: between 4 - 8 seconds per each loop (48 - 96 frames per each loop)
 
 
 ## Schedule
