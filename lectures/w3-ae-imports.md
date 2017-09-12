@@ -25,12 +25,11 @@ You can import a PSD file as `Composition`. Then, the PSD file is imported as a 
 Importing an AI file is very similar to importing a PSD file. Vector shapes are retained so they can be scaled up or down without losing quality. 
 
 
-
-
 ## Import Image Sequences
 When you have an image sequence to import, you can either import as individual files for a better control over each, or import as a single sequence for a convenience. After Effects will recognize file names with a numeric sequence*(ex. filename-01.jpg, filename-02.jpg, etc.)*. If you don't like to import as a sequence, uncheck the box at the bottom, in this case, `PNG Sequence`.
 
-{% include figure.html src="/images/import-assets/import-sequence.png" alt="Import sequence dialog" caption="Import sequence dialog. Notice the PNG Sequence box is checked." %}
+![import sequence](../images/w3-import-sequence.png)
+
 
 ### After importing
 After you check the `PNG Sequence` and import, you may have to change the way AE interprets your sequence depending on what frame rate you are working with. Select the sequence from the project panel, right-click and select `Interpret Footage > Main...`. From there, change the frame rate to the one that matches your project.
@@ -38,12 +37,10 @@ After you check the `PNG Sequence` and import, you may have to change the way AE
 If you don't check the `PNG Sequence` and import, you will see individual files in the project panel. You can simply drag and drop them into a composition. By default, every layer takes up the entire comp length. While all the files are selected, trim it down to the frame length you want, then right-click, and select `Keyframe Assistant > Sequence Layers...` and hit OK. All your selected layers will be automatically sequenced out.
 
 
-
-
 ## Making changes to already imported files
 Sometimes, you have to make changes to your source files *after* you import them. When that happens, you don't have to import the updated file from scratch. Simply, right-click on the file name in the project panel, and choose `Reload Footage`.
 
-{% include figure.html src="/images/import-assets/reload-footage.png" alt="Reload Footage" caption="Reload Footage" %}
+![reload footage](../images/w3/reload-footage.png)
 
 You will instantly see all the compositions that use the file are updated. However, any new layers you added to the source file *after* you import will not show up. In that case, manually import only the new layers.
 
