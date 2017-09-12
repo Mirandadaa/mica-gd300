@@ -11,7 +11,8 @@ After Effects support many types of image file formats. If your image has an alp
 
 
 ## Import PSD
-{% include figure.html src="/images/import-assets/psd-import-dialog.png" alt="PSD file import dialog" caption="PSD file import dialog" %}
+
+![psd import](../images/w3/psd-import-dialog.png)
 
 When you import a PSD file, you will see a popup dialog. You can treat the PSD file in two different ways. If you import as `Footage`, AE will treat it like a regular image file. All the layers will be merged into one. Or, you can specify which layer you want to import by `Choose Layer`. Only the layer selected will be imported into AE.
 
