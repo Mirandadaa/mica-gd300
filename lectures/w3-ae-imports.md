@@ -3,15 +3,11 @@
 
 You can create graphics within After Effects (with some limitations) but if you have any photographic images or videos, etc., then you will need to import files into After Effects for further adjustments and animation.
 
-One thing very important to remember is that After Effects project file (.aep) *does not* contain the source files you import. In other words, you cannot embed the source files into aep files. So, it is crucial that you come up with a good project file/folder structure and keep everything within the same folder. Otherwise, every time you move the files around, the linkage will be broken and After Effects will complain that it cannot find the files. (There is a way to fix this but it will take time.)
-
-
+One thing very important to remember is that After Effects project file (.aep) *does not* contain the source files you import. In other words, you cannot embed the source files into aep files. It works like InDesign or Illustrator. So, it is crucial that you come up with a good project file/folder structure and keep everything within the same folder. Otherwise, every time you move the files around, the linkage will be broken and After Effects will complain that it cannot find the files. (There is a way to fix this but it will take extra time.)
 
 
 ## Import Images
 After Effects support many types of image file formats. If your image has an alpha channel, it will support that as well. You can either go to `File > Import > File...` or double-click on the project panel to bring up the import dialog.
-
-
 
 
 ## Import PSD
