@@ -26,7 +26,7 @@ Importing an AI file is very similar to importing a PSD file. Vector shapes are 
 
 
 ## Import Image Sequences
-When you have an image sequence to import, you can either import as individual files for a better control over each, or import as a single sequence for a convenience. After Effects will recognize file names with a numeric sequence*(ex. filename-01.jpg, filename-02.jpg, etc.)*. If you don't like to import as a sequence, uncheck the box at the bottom, in this case, `PNG Sequence`.
+When you have an image sequence to import, you can either import as individual files for a better control over each, or import as a single sequence for a convenience. After Effects will recognize file names with a numeric sequence *(ex. filename-01.jpg, filename-02.jpg, etc.)*. If you don't like to import as a sequence, uncheck the box at the bottom, in this case, `PNG Sequence`.
 
 ![import sequence](../images/w3/import-sequence.png)
 
