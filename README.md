@@ -44,7 +44,7 @@ Students actively engage motion graphics as strategic medium for experimentation
 - [Assignments](lectures/w2-assignments.md)
 
 ### Week 3
-- [After Effects: import assets](lectures/w3-ae-imports.md)
+- [After Effects: import assets](lectures/w3-ae-imports.md) - download [sample files](files/w3-files.zip)
 - [After Effects: keyframing](lectures/w3-keyframes.md)
 - [Assignments](lectures/w3-assignments.md)
 
