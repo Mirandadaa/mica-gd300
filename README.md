@@ -47,6 +47,7 @@ Students actively engage motion graphics as strategic medium for experimentation
 - [After Effects: import assets](lectures/w3-ae-imports.md) - download [sample files](files/w3-files.zip)
 - [After Effects: keyframing](lectures/w3-keyframes.md)
   - [The art of timing and spacing](https://ed.ted.com/lessons/animation-basics-the-art-of-timing-and-spacing-ted-ed) video
+  - Easing; Keyframe velocity
 - [Assignments](lectures/w3-assignments.md)
 
 ### Week 4
