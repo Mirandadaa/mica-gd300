@@ -24,7 +24,7 @@ GIF image format has been around [for a long time](http://www.fastcodesign.com/3
 
 
 ## Let's make a loop.
-The theme of the project is *the cycles in nature*. You will interpret this theme and come up with your own concept for this project. There is no limitations on what tools or techniques or styles you can use as long as it is mainly frame-by-frame animation. Feel free to explore on your own. It can be stop-motion photography, Photoshop animation, hand-drawn animation, etc.
+The theme of the project is *the cycles in nature*. You will interpret this theme and come up with your own concept for this project. There is no limitations on what tools or techniques or styles you can use as long as it is mainly frame-by-frame animation. You are also allowed to use keyframe animation. Feel free to explore on your own. It can be stop-motion photography, Photoshop animation, hand-drawn animation, etc.
 
 Create two loops in the animated GIF format. The two loops must be variations on the same concept. Think about the relationship between them. How will they look when placed side by side? The relationship can be about the subject matter, temporal and spatial rhythms, colors, juxtapositions, etc.
  
@@ -43,7 +43,7 @@ Create two animated GIF loops. These two loops must be variations of the same co
 
 - 2 animated GIF files
 - the theme: cycles in nature
-- the technique: frame-by-frame animation
+- the technique: frame-by-frame animation + keyframe animation
 - Dimensions: 500 x 500 px per each loop
 - Frame rate: 12 fps
 - Length: between 4 - 8 seconds per each loop (48 - 96 frames per each loop)
