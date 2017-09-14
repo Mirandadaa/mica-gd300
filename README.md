@@ -52,5 +52,6 @@ Students actively engage motion graphics as strategic medium for experimentation
 
 ### Week 4
 - Project 1 critique
+- Workflow
 - 
 
