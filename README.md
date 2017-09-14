@@ -40,7 +40,7 @@ Students actively engage motion graphics as strategic medium for experimentation
 - [Photoshop animation](lectures/w2-ps-animation.md)
 - [After Effects basics](lectures/w2-ae-basics.md) - create a slide show
 - After Effects image sequence - [download sample files](files/head_seq.zip)
-- [Project 1: Loop](lectures/proj-loop.md)
+- **[Project 1: Loop](lectures/proj-loop.md)**
 - [Assignments](lectures/w2-assignments.md)
 
 ### Week 3
