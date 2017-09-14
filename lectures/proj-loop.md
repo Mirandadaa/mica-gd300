@@ -45,7 +45,7 @@ Create two animated GIF loops. These two loops must be variations of the same co
 - the theme: cycles in nature
 - the technique: frame-by-frame animation + keyframe animation
 - Dimensions: 500 x 500 px per each loop
-- Frame rate: 12 fps
+- Frame rate: 12 fps (you may go higher but it will require more work.)
 - Length: between 4 - 8 seconds per each loop (48 - 96 frames per each loop)
 
 
