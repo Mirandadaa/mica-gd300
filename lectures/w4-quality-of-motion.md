@@ -4,7 +4,7 @@ You have a drawing of an object. You make more drawings of the object by applyin
 
 Let's say we have a set frame rate of 24 fps. How many frames do you need to move an object from point A to B? When should I start moving my object? The *timing* is how long it takes for something to happen. It is not only the duration of an action but also *when* it should take place.
 
-{% include figure.html src="/images/quality-of-motion/timing-spacing.jpg" alt="different spacing of animation" caption="The total number of frames are the same but the characteristics of each animation are very different." %}
+![Spacing](../images/w4/timing-spacing.jpg)
 
 *Spacing* is how much distance there is between each frame or what the characteristic of these spacings is in a motion. We could have two different animation that begin and end at the same time. But what happens with the inbetweens can drastically change the characteristic of the motion.
 
@@ -32,7 +32,7 @@ but, wait a second, why do we animate? why do we move things around on screen? j
 
 ## Animation Graph
 
-{% include figure.html src="/images/quality-of-motion/ae-graph.png" alt="After Effects graph editor" caption="After Effects graph editor" %}
+![AE graph](../images/w4/ae-graph.png)
 
 ### Easing In & Out
 Easing in & out is a very typical way of creating a realistic motion. Everything in this world is governed by different natural forces such as gravity, friction, air resistance, etc. Therefore, it takes time to speed up or down. Everything you do in the computer by default is linear, so it looks very mechanical. You will have to add different types of interpolations to your animation to make it believable.
