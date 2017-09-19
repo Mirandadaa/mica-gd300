@@ -37,12 +37,12 @@ but, wait a second, why do we animate? why do we move things around on screen? j
 ### Easing In & Out
 Easing in & out is a very typical way of creating a realistic motion. Everything in this world is governed by different natural forces such as gravity, friction, air resistance, etc. Therefore, it takes time to speed up or down. Everything you do in the computer by default is linear, so it looks very mechanical. You will have to add different types of interpolations to your animation to make it believable.
 
-### The Effect
+## Motion Blur
+When a fast movement is captured on film, it leaves a motion blur. We are used to seeing motion blurs from tv and movies. Without it, it may create a strobe light effect, which may not be comfortable or convincing to look at.
 
-### Interpolation
+After Effect has a way to quickly create the motion blur effect. Look at the picture below. Ball layer has motion blur turned on while BG layer doesn't. You can individually turn the motion blur on or off. You will also need to turn on the master switch to preview the effect.
 
-### Understanding the Graph Editor in AE
-
+![motion blur](../images/w4/motion-blur.png)
 
 ## Further Learning
 - [Animation basics: The art of timing and spacing](https://www.youtube.com/watch?v=KRVhtMxQWRs&feature=share) TED video
