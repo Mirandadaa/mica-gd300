@@ -45,9 +45,10 @@ It is often difficult to separate production from post-production, or pre-produc
 Compositing can include color correction, green screen keying, stereoscoping 3d rendering, putting together different render passes and more.
 
 ### editing
+When you are animating, you are kind of editing on the fly, but when you have many video clips to put together, you will want to use video editing softwares such as Premiere Pro or Final Cut Pro. It makes the editing a lot easier and faster than After Effects.
 
 ### Rendering
-...
+When you have finished your project, you want to render the videos out in multiple formats. It depends on where it is going to be used - film, tv, downloadable, streaming, etc.
 
 
 This is just a very brief overview, and as you gain more experience, you will develop your own process that works best for you. Design is an iteratice process. You don't just create one set of boards and move on. You will most likely have to create multiple versions of boards and animation.
