@@ -62,4 +62,6 @@ Students actively engage motion graphics as strategic medium for experimentation
 - [Assignments](lectures/w4-assignments.md)
 
 ### Week 5
-- [How to make your video file size smaller?](lectures/w5-video-compression.md)
+- Common questions:
+    - [How to make your video file size smaller?](lectures/w5-video-compression.md)
+    - How to reposition anchor point precisely?
