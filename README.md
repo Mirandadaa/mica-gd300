@@ -61,3 +61,5 @@ Students actively engage motion graphics as strategic medium for experimentation
 - **[Project 2: Animate Sound](lectures/proj-sound.md)**
 - [Assignments](lectures/w4-assignments.md)
 
+### Week 5
+- [How to make your video file size smaller?](lectures/w5-video-compression.md)
