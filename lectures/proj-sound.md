@@ -6,26 +6,24 @@
 
 -----
 
-We will practice creating various types of movements and the spatial/temporal rhythms they make. Choose a short audio/music clip that has no spoken words and strongly communicates moods and/or emotions. Pay attention to how the sound (and what it conveys) is structured and think about how to interpret it into visuals and motions. How would you translate musical elements such as a beat, melody, tempo, harmony, timbre, etc. into visual elements?
+We will practice creating various types of movements and the spatial/temporal rhythms they make. Choose a short audio/music clip that has **no spoken words** and strongly communicates moods and/or emotions. Pay attention to how the sound (and what it conveys) is structured and think about how to interpret it into visuals and motions. How would you translate musical elements such as a beat, melody, tempo, harmony, timbre, etc. into visual elements?
 
 For example, different instruments and the layers of sound can be translated into different form elements. How the sound progresses over time can be translated into temporal rhythm. Think about the relationship between sound and visual. It can be amplified or it may fluctuate over time. It may be repeated multiple times. It may be obvious or ambiguous. It may support or contradict each other. There may be a hidden meaning/message behind what we see or hear.
 
-Use only geometric shapes and do not use any figurative shapes such as real world objects, characters, etc. Focus on movements, spatial & temporal progressions, rhythmic expressions and compositions. Express the spatial and temporal rhythms that are unique to time-based media.
-
-Additionally, think about how you can use all the design elements in this context - contrast, scale, form, texture, direction, hierarchy, value, balance, repetition, color, etc. Do you feel that the use of these elements are limited or can be expanded?
+**Use only abstract, geometric shapes** and do not use any figurative shapes such as real world objects, characters, etc. Focus on movements, spatial & temporal progressions, rhythmic expressions and compositions. Express the spatial and temporal rhythms that are unique to time-based media. Think about how you can use all the design elements in this context - contrast, scale, form, texture, direction, hierarchy, value, balance, repetition, color, etc. 
 
 ## Objectives
 - Learn and practice technical skills that are necessary for creating motion graphics.
 - Explore principles and characteristics that are unique to time-based media such as timing and spacing.
 - Explore ways to tell a story under given constraints.
 - Review the fundamental design principles in a new context.
-- The relationship between the sound and the visual.
+- Expore the relationship between the sound and the visual.
 - Develop a working process that is efficient and flexible.
 
 ## Steps
-1. Find a short audio clip (15-40 seconds) that has no spoken words.
+1. Find a short audio clip (20-40 seconds) that has **no spoken words**.
 1. Choose the one that gives you good visual ideas to work with.
-1. Analyze its musical structure. Identify elements that can traslate into visuals.
+1. Analyze its musical structure. Identify elements that can traslate into visuals. (different instruments? change of mood? ..)
 1. Create sketches to explore different forms, colors, compositions, etc.
 1. Create a styleframe, or a single image that can communicate your entire piece visually.
 1. Create storyboards. The number of boards will depend on your idea - a rough suggestion is 10-20 boards.
@@ -37,7 +35,7 @@ Additionally, think about how you can use all the design elements in this contex
 - length: 20-40 seconds
 - video format: 1280 x 720px (24fps or 30fps)
 - Technically, use vector shapes and animate with After Effects. Effects and textures are ok.
-- Submit not only the final video file but also your styleframes and storyboards.
+- Submit *not only the final video file* but also *your styleframes and storyboards*.
 
 ## Weekly schedule
 
