@@ -54,7 +54,7 @@ Students actively engage motion graphics as strategic medium for experimentation
 - Project 1 critique
 - [Workflow](lectures/w4-workflow.md)
 - [Quality of motion](lectures/w4-quality-of-motion.md)
-- [Black Square White Square](lectures/w4-) animation exercise
+- [Black Square White Square](lectures/w4-square-exercise.md) animation exercise
 - Shape layer tutorials:
     - https://www.youtube.com/watch?v=J3AWE_ePjNc
     - https://www.youtube.com/watch?v=wOZwzLgJw9o (repeater effect)
