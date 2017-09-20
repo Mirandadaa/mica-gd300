@@ -57,6 +57,6 @@ Students actively engage motion graphics as strategic medium for experimentation
 - Shape layer tutorials:
     - https://www.youtube.com/watch?v=J3AWE_ePjNc
     - https://www.youtube.com/watch?v=wOZwzLgJw9o (repeater effect)
-- **[Project 2: Animate Sound](lectures/project-sound.md)**
+- **[Project 2: Animate Sound](lectures/proj-sound.md)**
 - [Assignments](lectures/w4-assignments.md)
 
