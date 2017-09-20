@@ -2,7 +2,7 @@
 
 Even if you use the H.264 video codec, your video file size may seem too big to share online. In that case, change the settings as below.
 
-![screenshot](../images/w5/rendering-tips.png)
+![screenshot](../images/w5/rendering-tip.png)
 
 1. Make sure you are indeed using H.264 codec.
 
