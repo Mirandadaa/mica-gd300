@@ -9,4 +9,4 @@ How many ways can you come up with that start with the top composition and end w
 - Explore different forms, movements, easings, transitions and effects.
 - You can only use the greyscale colors (black, grey, white..).
 - Set the composition to 1280x720 px on 24fps.
-- Render out everything you create.
+- Render out everything you create at the end.
