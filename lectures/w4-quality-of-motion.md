@@ -1,4 +1,4 @@
-You have a drawing of an object. You make more drawings of the object by applying small changes (ex. position, rotation) every time. Now, the illusion of motion is created but that is not enough to create a *convincing or compelling* animation. Then, how do we create an interesting rhythm? The answer is in timing and spacing.
+You have a drawing of an object. You make more drawings of the object by applying small changes (ex. position, rotation) every time. Now, the illusion of motion is created but that is not enough to create a *convincing or compelling* animation. Then, how do we create more interesting animation? How can we use the temporal rhythm? The answer is in timing and spacing.
 
 ## Timing and Spacing
 
