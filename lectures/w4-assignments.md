@@ -1,5 +1,9 @@
 # Week 4 assignments
 
+Before you start working on the Project 2, first, complete the Black Square White Square exercise by rendering at least 3 different variations. Post all the videos you create on Google Drive.
+
+-----
+
 - Read [the new project brief](proj-sound.md) carefully.
 - **Pick two audio clips** that you want to work with. We will eventually choose one next week, but **work with 2 different ideas this week**.
 - You may sketch/draw while listening to different music to start thinking about how to translate audito to visual.
