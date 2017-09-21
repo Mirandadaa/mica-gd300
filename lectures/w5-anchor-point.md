@@ -4,6 +4,8 @@
  
  ![anchor point tool](../images/w5/anchor-tool.png)
  
+ But this won't allow 
+ 
  
  - use plugins
  
