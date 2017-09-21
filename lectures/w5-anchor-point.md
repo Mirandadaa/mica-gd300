@@ -1,6 +1,10 @@
 # How to reposition anchor point precisely?
-
- - use pan behind (anchor point) tool
+ 
+ A simple way to reposition your anchor point (or, the axis of rotation) is using the Pan Behind (Anchor Point) tool from the top tool bar.
+ 
+ ![anchor point tool](../images/w5/anchor-tool.png)
+ 
+ 
  - use plugins
  
  http://aescripts.com/repositionanchorpoint/  - you name the price
