@@ -1,6 +1,6 @@
 # Week 4 assignments
 
-Before you start working on the Project 2, first, complete the Black Square White Square exercise by rendering at least 3 different variations. Post all the videos you create on Google Drive.
+Before you start working on the Project 2, first, complete the Black Square White Square exercise by rendering at least 3 different variations. Rendering means to convert your AE animation to video files. Post all the videos you create on Google Drive.
 
 -----
 
