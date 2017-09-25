@@ -64,4 +64,5 @@ Students actively engage motion graphics as strategic medium for experimentation
 ### Week 5
 - Common questions:
     - [How to make your video file size smaller?](lectures/w5-video-compression.md)
-    - How to reposition anchor point precisely?
+    - [How to reposition anchor point precisely?](lectures/w5-anchor-point.md)
+- 
