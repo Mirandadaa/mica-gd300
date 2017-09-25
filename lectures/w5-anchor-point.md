@@ -4,11 +4,11 @@ A simple way to reposition your anchor point (or, the axis of rotation) is using
  
  ![anchor point tool](../images/w5/anchor-tool.png)
  
-But this won't allow a very precise control as sometimes, you need to move the anchor point to the very center of a shape. In that case, use external plugins.
+But this won't allow a very precise control as sometimes you need to move the anchor point to the very center of a shape. In that case, use external plugins.
  
-
+I found two promising ones:
  
- http://aescripts.com/repositionanchorpoint/  - you name the price
- https://www.batchframe.com/tool/Move-Anchor-Point-3/  - 2 dollars
+- http://aescripts.com/repositionanchorpoint/  - you name the price
+- https://www.batchframe.com/tool/Move-Anchor-Point-3/  - 2 dollars
  
  
