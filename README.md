@@ -68,4 +68,7 @@ Students actively engage motion graphics as strategic medium for experimentation
     - https://www.youtube.com/watch?v=wOZwzLgJw9o (repeater effect)
     - https://www.youtube.com/watch?v=IzpYNYzisL4 (Slim Jim animation tutorial)
     - https://www.youtube.com/watch?v=iLd-5x5KhyA (morphing in AE)
-- Assignments
+- [Assignments](lectures/w5-assignments.md)
+
+### Week 6
+
