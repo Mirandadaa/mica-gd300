@@ -71,4 +71,5 @@ Students actively engage motion graphics as strategic medium for experimentation
 - [Assignments](lectures/w5-assignments.md)
 
 ### Week 6
-
+- Storyboards review
+- 
