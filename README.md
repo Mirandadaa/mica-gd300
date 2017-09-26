@@ -63,7 +63,7 @@ Students actively engage motion graphics as strategic medium for experimentation
     - [How to make your video file size smaller?](lectures/w5-video-compression.md)
     - [How to reposition anchor point precisely?](lectures/w5-anchor-point.md)
 - Composition exercises
-- Tutorials:
+- Shape layer tutorials:
     - https://www.youtube.com/watch?v=J3AWE_ePjNc (shape layer basics)
     - https://www.youtube.com/watch?v=wOZwzLgJw9o (repeater effect)
     - https://www.youtube.com/watch?v=IzpYNYzisL4 (Slim Jim animation tutorial)
