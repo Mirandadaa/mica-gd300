@@ -68,6 +68,7 @@ Students actively engage motion graphics as strategic medium for experimentation
     - https://www.youtube.com/watch?v=wOZwzLgJw9o (repeater effect)
     - https://www.youtube.com/watch?v=IzpYNYzisL4 (Slim Jim animation tutorial)
     - https://www.youtube.com/watch?v=iLd-5x5KhyA (morphing in AE)
+    - [Shape attributes and path operations](https://helpx.adobe.com/after-effects/using//shape-attributes-paint-operations-path.html#shape_attributes_paint_operations_and_path_operations_for_shape_layers)
 - [Assignments](lectures/w5-assignments.md)
 
 ### Week 6
