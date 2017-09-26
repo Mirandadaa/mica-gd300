@@ -55,9 +55,6 @@ Students actively engage motion graphics as strategic medium for experimentation
 - [Workflow](lectures/w4-workflow.md)
 - [Quality of motion](lectures/w4-quality-of-motion.md)
 - [Black Square White Square](lectures/w4-square-exercise.md) animation exercise
-- Shape layer tutorials:
-    - https://www.youtube.com/watch?v=J3AWE_ePjNc
-    - https://www.youtube.com/watch?v=wOZwzLgJw9o (repeater effect)
 - **[Project 2: Animate Sound](lectures/proj-sound.md)**
 - [Assignments](lectures/w4-assignments.md)
 
@@ -65,4 +62,7 @@ Students actively engage motion graphics as strategic medium for experimentation
 - Common questions:
     - [How to make your video file size smaller?](lectures/w5-video-compression.md)
     - [How to reposition anchor point precisely?](lectures/w5-anchor-point.md)
-- 
+- Tutorials:
+    - https://www.youtube.com/watch?v=J3AWE_ePjNc
+    - https://www.youtube.com/watch?v=wOZwzLgJw9o (repeater effect)
+    - https://www.youtube.com/watch?v=IzpYNYzisL4 (Slim Jim animation tutorial)
