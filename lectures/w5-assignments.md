@@ -5,5 +5,10 @@ Choose one motion graphics that you love and another one you hate. Describe what
 
 ## Storyboarding
 Based on the feedbacks you got today, create and develop your storyboards. Here is how you should format:
-- Use letter-sized canvas *horizontally*.
-- On 
+- Set up a letter-sized document **horizontally**.
+- On each page, create 6-8 boards. Create more pages as necessary.
+- Along with the boards include descriptions for each.
+- Include the project name and your name on each page.
+- There is no number of boards required; make as many as necessary. You don't need to repeat the boards that are too similar to each other.
+- Submit a PDF file.
+
