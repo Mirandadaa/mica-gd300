@@ -62,6 +62,7 @@ Students actively engage motion graphics as strategic medium for experimentation
 - Common questions:
     - [How to make your video file size smaller?](lectures/w5-video-compression.md)
     - [How to reposition anchor point precisely?](lectures/w5-anchor-point.md)
+    - How to re-link the missing videos?
 - Composition exercises
 - Shape layer tutorials:
     - https://www.youtube.com/watch?v=J3AWE_ePjNc (shape layer basics)
