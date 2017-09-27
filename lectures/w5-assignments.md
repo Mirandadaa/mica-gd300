@@ -4,7 +4,7 @@
 I'm going to compile all your gifs and set up a web page. Please post the title/short description of your gif project as a text file.
 
 ## Love & Hate
-Choose one motion graphics that you love and the other one you hate. Describe what you love or hate about the pieces in a few sentences. Post the text file + the links (i.e. youtube, vimeo) to each video on Google Drive. Be prepared to discuss with your classmates next week.
+Choose one motion graphics that you love and the other one you hate. Describe what you love or hate about the pieces in a few sentences. Post the text file + the links (i.e. youtube, vimeo) to each video on Google Drive. Be prepared to discuss with your classmates next week. Look at [this post](https://github.com/cdaein/mica-gd300/blob/fall2017/lectures/w1-resources.md) for inspirational websites.
 
 ## Storyboarding
 Based on the feedbacks you got today, create and develop your storyboards. Here is how you should format:
