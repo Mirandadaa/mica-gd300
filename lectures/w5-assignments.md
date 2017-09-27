@@ -1,5 +1,8 @@
 # Week 5 assignments
 
+## Loop project description
+I'm going to compile all your gifs and set up a web page. Please post the title/short description of your gif project as a text file.
+
 ## Love & Hate
 Choose one motion graphics that you love and the other one you hate. Describe what you love or hate about the pieces in a few sentences. Post the text file + the links (i.e. youtube, vimeo) to each video on Google Drive. Be prepared to discuss with your classmates next week.
 
