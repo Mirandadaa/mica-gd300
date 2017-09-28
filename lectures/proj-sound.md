@@ -49,7 +49,7 @@ present idea development, styleframes
 work on storyboards
 
 ### Week 6
-present storyboards
+present storyboards  
 work on animatics + animation
 
 ### Week 7
