@@ -75,4 +75,5 @@ Students actively engage motion graphics as strategic medium for experimentation
 ### Week 6
 - Share Love & Hate
 - Storyboards review
-- 
+- Working with sound in AE
+
