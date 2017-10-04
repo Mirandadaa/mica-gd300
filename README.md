@@ -79,3 +79,4 @@ Students actively engage motion graphics as strategic medium for experimentation
 - [assignments](lectures/w6-assignments.md)
 
 ### Week 7
+- Share Love & Hate cont'd
