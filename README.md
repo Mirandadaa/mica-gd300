@@ -76,7 +76,7 @@ Students actively engage motion graphics as strategic medium for experimentation
 - Share Love & Hate
 - Storyboards review
 - [Working with sound in AE](lectures/w6-ae-audio.md)
-- [assignments](lectures/w6-assignments.md)
+- [Assignments](lectures/w6-assignments.md)
 
 ### Week 7
 - Share Love & Hate cont'd
