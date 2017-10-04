@@ -80,3 +80,6 @@ Students actively engage motion graphics as strategic medium for experimentation
 
 ### Week 7
 - Share Love & Hate cont'd
+- Graph editor tutorials:
+    - https://www.youtube.com/watch?v=wbyQ-VQfUtA
+    
