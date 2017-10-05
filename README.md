@@ -81,6 +81,6 @@ Students actively engage motion graphics as strategic medium for experimentation
 ### Week 7
 - [What is motion design?](https://vimeo.com/blog/post/what-is-motion-design)
 - Share Love & Hate cont'd
-- Graph editor tutorials:
+- AE Graph editor tutorials:
     - https://www.youtube.com/watch?v=wbyQ-VQfUtA
     
