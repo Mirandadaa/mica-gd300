@@ -85,3 +85,7 @@ Students actively engage motion graphics as strategic medium for experimentation
 - AE Graph editor tutorials:
     - https://www.youtube.com/watch?v=wbyQ-VQfUtA
 - [Assignments](lectures/w7-assignments.md)
+
+### Week 8
+- Project 2 critique
+
