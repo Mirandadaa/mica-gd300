@@ -1,0 +1,60 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Loops</title>
+    <link rel="stylesheet" href="css/reset.css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,700" rel="stylesheet">
+    <link href="css/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+  </head>
+  <body>
+    <div class="container clearfix">
+      <h1><a href="index.html">Loops</a></h1>
+      <nav class="nav-main">
+        <ul>
+          <li><a href="15.html"><span class="fa fa-chevron-left" aria-hidden="true"></span></a>
+          <li><a href="index.html">Index</a> 
+          <li><a href="17.html"><span class="fa fa-chevron-right" aria-hidden="true"></span></a>
+        </ul>
+      </nav>
+      
+      <section class="images clearfix">
+        <div class="img-container">
+          <img class="img-gif lazy" data-original="images/rachel/l.gif">
+        </div>
+
+        <div class="img-container">
+          <img class="img-gif lazy" data-original="images/rachel/r.gif">
+        </div>
+      </section>
+      
+      <section class="desc">
+        <h2>Seasons Change</h2>
+        <h3>by Rachel Dunn</h3>
+        <p>These gifs were inspired by the theme “cycles in nature.” I wanted to show the calm, enjoyable moments of my favorite seasons, fall and winter. </p>
+      </section>
+      
+    </div>
+    
+    <script src="js/jquery-3.1.0.min.js"></script>
+    <script src="js/jquery.lazyload.js"></script>
+    <script type="text/javascript">
+      
+      $(function() {
+        $("img.lazy").lazyload({
+          effect: "fadeIn"
+        });
+      });
+  
+    </script>
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+      ga('create', 'UA-8129807-7', 'auto');
+      ga('send', 'pageview');
+    </script>
+  </body>
+</html>
