@@ -84,7 +84,7 @@ Students actively engage motion graphics as strategic medium for experimentation
 - Share Love & Hate cont'd
 - AE Graph editor tutorials:
     - https://www.youtube.com/watch?v=wbyQ-VQfUtA
-    - http://gph.is/1LZwLZe (auto ease graphs)
+    - http://gph.is/1LZwLZe (easy ease graphs)
     - http://easings.net (different easing types)
 - [Assignments](lectures/w7-assignments.md)
 
