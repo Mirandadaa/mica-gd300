@@ -46,3 +46,10 @@
 - [This Is Colossal](http://www.thisiscolossal.com/)
 - [Designobserver](http://designobserver.com/)
 - [Design Matters Podcast](http://www.debbiemillman.com/designmatters/)
+
+## Motion design studios
+- http://hornetinc.com/home.html
+- https://www.imaginaryforces.com
+- http://www.prologue.com
+- http://buck.tv/#/
+- 
