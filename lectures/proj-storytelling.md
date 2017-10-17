@@ -1,9 +1,5 @@
 # Project”: Storytelling
 
-- visualize literally?
-- interpret in your own way?
-- 
-
 Pick a pre-existing short story of any genre from newspaper, book, article, essay, etc.
 
 Analyze the story - What is it about? Who are involved? Where is it happening? What is the tone of the story? 
