@@ -39,13 +39,20 @@ The same story can be told in many different ways. For example, news media tell 
 ## Weekly schedule
 
 ### Week 8
+- Project begins
+- Research and writing
 
 ### Week 9
+- Review research materials
+- Storyboards
 
 ### Week 10
+- Review storyboards
+- 
 
 ### Week 11
+- Iterate
 
 ### Week 12
-
+- Final presentation
 
