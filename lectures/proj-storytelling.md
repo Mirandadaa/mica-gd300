@@ -10,18 +10,18 @@ Analyze the story - What is it about? Who are involved? Where is it happening? W
 
 Write the same story in three different versions. In twenty words, eighty words and 200+ words. What are the essential elements of the story? What are the interesting details? What are the things you may add/change/omit?
 
-communication
+The same story can be told in many different ways. For example, news media tell the same story in different tones. Traditional stories have many different versions. What do you think is the author's intention and how would you interpret it? Who is your audience?
 
 
 ## Process
-1. pick a story
-1. analyze it
-1. research on contents - characters, places, etc. (images, articles, references)
-1. research on visuals - what tone do you want to tell the story in? (mood boards)
-1. create storyboards.
-1. create animatics.
-1. animate.
-1. get feedback and iterate.
+1. Pick a story.
+1. Read and analyze it.
+1. Research on contents - Characters, places, etc. Collect images, texts links and references.
+1. Research on visuals - What tone do you want to tell the story in? Create mood boards.
+1. Create storyboards to communicate your idea/story visually.
+1. Create animatics to get the rough timing.
+1. Animate, record audio/video, etc.
+1. Get feedback and iterate.
 
 
 ## Learning objectives
@@ -29,4 +29,23 @@ communication
 - think about the author’s and designer’s intention.
 - think about how to effectively communicate ideas.
 - discover unique storytelling aspects of time-based media.
+
+## Deliverable
+- 1280 x 720 px @ 24 or 30 fps video file.
+- Rendered in H.264 codec.
+- Length: 30 sec - 2 min.
+- Technique: there is no constraints as long as the final form is time-based.
+
+## Weekly schedule
+
+### Week 8
+
+### Week 9
+
+### Week 10
+
+### Week 11
+
+### Week 12
+
 
