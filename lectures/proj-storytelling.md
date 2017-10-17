@@ -1,4 +1,4 @@
-# Project”: Storytelling
+# Project: Storytelling
 
 Pick a pre-existing short story of any genre from newspaper, book, article, essay, etc.
 
