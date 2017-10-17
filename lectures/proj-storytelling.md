@@ -6,7 +6,7 @@ Analyze the story - What is it about? Who are involved? Where is it happening? W
 
 Write the same story in three different versions. In twenty words, eighty words and 200+ words. What are the essential elements of the story? What are the interesting details? What are the things you may add/change/omit?
 
-The same story can be told in many different ways. For example, news media tell the same story in different tones. What gets included/excluded and *how* it's told can make a big difference. Traditional stories have many different versions. What do you think the author's intention is and What is your interpretation? Who is your audience?
+The same story can be told in many different ways. For example, news media tell the same story in different tones. What gets included/excluded and *how* it's told can make a big difference. Traditional stories have many different versions. What do you think the author's intention is and What is your interpretation? Who is your audience? What is the context?
 
 Once you have a good understanding of the story and what you want to communicate with it, 
 
