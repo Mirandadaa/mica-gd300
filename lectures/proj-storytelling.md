@@ -1,6 +1,6 @@
 # Project: Storytelling
 
-Pick a pre-existing short story of any genre from newspaper, book, article, essay, podcast, etc.
+Pick a short story of any genre from newspaper, book, article, essay, podcast, etc.
 
 Analyze the story - What is it about? Who are involved? Where is it happening? What is the tone of the story? Is there a [story arc](https://en.wikipedia.org/wiki/Story_arc)?
 
