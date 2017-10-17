@@ -2,7 +2,7 @@
 
 Pick a short story of any genre from newspaper, book, article, essay, podcast, etc.
 
-Analyze the story - What is it about? Who are involved? Where is it happening? What is the tone of the story? What is [the structure](https://en.wikipedia.org/wiki/Dramatic_structure) of the story? Is there a [story arc](https://en.wikipedia.org/wiki/Story_arc)?
+Analyze the story - What is it about? Who are involved? Where is it happening? What is the tone of the story? What is [the structure](https://en.wikipedia.org/wiki/Dramatic_structure) of the story? Is there a [character arc](https://en.wikipedia.org/wiki/Character_arc)?
 
 Write the same story in three different versions. In twenty words, eighty words and 200+ words. What are the essential elements of the story? What are the interesting details? What are the things you may add/change/omit?
 
