@@ -11,5 +11,4 @@
 On Google Drive, upload:
 - the original text
 - your edits: 200 and 20-words versions.
-- Any reference/research materials - image/link/text/video/audio/etc.
-
+- Any reference/research materials around the story.
