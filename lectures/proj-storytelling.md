@@ -2,7 +2,7 @@
 
 Pick a short story (1000+ words) of any genre from newspaper, book, article, essay, etc.
 
-Analyze the story - What is it about? Who are involved? Where is it happening? What is the tone of the story? What is [the structure](https://en.wikipedia.org/wiki/Dramatic_structure) of the story? Is there a [character arc](https://en.wikipedia.org/wiki/Character_arc)?
+Analyze the story - What is it about? What is the meaning of the story? Who are involved? Where is it happening? What is the tone of the story? What is [the structure](https://en.wikipedia.org/wiki/Dramatic_structure) of the story? Is there a [character arc](https://en.wikipedia.org/wiki/Character_arc)?
 
 Edit the original text into 200-words text. You may summarize it or choose an entirely different structure for your text. Edit your text again into 20-words text. What is the most essential information that needs to be included? What are the interesting details? What are the things you may add/change/omit and still communicate?
 
@@ -47,6 +47,7 @@ Using your texts and other materials and based on your interpretations, you will
 
 ### Week 9
 - Review research materials
+- Visual research
 - Storyboards
 
 ### Week 10
