@@ -13,7 +13,7 @@ Using your texts and other materials and based on your interpretations, you will
 
 
 ## Process
-1. Pick a story.
+1. Pick a story of at least 1000 words.
 1. Read and analyze it.
 1. Research on contents - Story structure, characters, places, etc. Collect images, texts links and references.
 1. Research on visuals - What tone do you want to tell the story in? Create mood boards.
