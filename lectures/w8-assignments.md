@@ -6,7 +6,7 @@
 1. Edit the original text into 200-words text. You may summarize it or choose an entirely different structure for your text.
 1. Edit your text again into 20-words text. What is the most essential information that needs to be included? What are the interesting details? What are the things you may add/change/omit and still communicate?
 1. Research on contents - Story structure, characters, places, etc. Collect images, texts links and references.
-1. Research on visuals - What tone do you want to tell the story in? Create mood boards. Collect source image/video/audio/text/etc.
+
 
 On Google Drive, upload:
 - the original text
