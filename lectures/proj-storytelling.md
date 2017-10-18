@@ -51,7 +51,7 @@ Using your texts and other materials and based on your interpretations, you will
 - Storyboards
 
 ### Week 10
-- Review storyboards
+- Review visual research/storyboards
 - Start production (animation/video)
 
 ### Week 11
