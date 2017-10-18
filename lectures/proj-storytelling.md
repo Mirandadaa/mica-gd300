@@ -8,7 +8,7 @@ Turn the original text into 200-words text. You may summarize it or choose an en
 
 The same story can be told in many different ways. For example, the news media tell the same story in different tones. A film adaptation of a book is not always the same as the original text. What gets included/excluded and *how* it's told can make a big difference. What do you think the author's intention is and What is your interpretation? How much do you compress or expand from the original story? Who is your audience and what is the context?
 
-Using your written and other research materials, you will create a video/animation.
+Using your texts and other materials and based on your interpretations, you will create a video/animation.
 
 
 ## Process
