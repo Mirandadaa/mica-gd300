@@ -4,7 +4,7 @@ Pick a short story (1000+ words) of any genre from newspaper, book, article, ess
 
 Analyze the story - What is it about? Who are involved? Where is it happening? What is the tone of the story? What is [the structure](https://en.wikipedia.org/wiki/Dramatic_structure) of the story? Is there a [character arc](https://en.wikipedia.org/wiki/Character_arc)?
 
-Turn the original text into 200-words text. You may summarize it or choose an entirely different structure for your text. Turn your text again into 20-words text. What is the most essential information that needs to be included? What are the interesting details? What are the things you may add/change/omit and still communicate?
+Edit the original text into 200-words text. You may summarize it or choose an entirely different structure for your text. Edit your text again into 20-words text. What is the most essential information that needs to be included? What are the interesting details? What are the things you may add/change/omit and still communicate?
 
 The same story can be told in many different ways. For example, the news media tell the same story in different tones. A film adaptation of a book is not always the same as the original text. What gets included/excluded and *how* it's told can make a big difference. What do you think the author's intention is and What is your interpretation? How much do you compress or expand from the original story? Who is your audience and what is the context?
 
@@ -14,7 +14,7 @@ Using your texts and other materials and based on your interpretations, you will
 
 ## Process
 1. Pick a story of at least 1000 words.
-1. Read and analyze it.
+1. Read and analyze it. Edit and create two versions of text (200 and 20-words long).
 1. Research on contents - Story structure, characters, places, etc. Collect images, texts links and references.
 1. Research on visuals - What tone do you want to tell the story in? Create mood boards.
 1. Create storyboards to communicate your idea/story visually.
