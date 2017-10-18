@@ -79,7 +79,7 @@ Students actively engage motion graphics as strategic medium for experimentation
 - [Assignments](lectures/w6-assignments.md)
 
 ### Week 7
-- Loops: http://mica-gd3.paperdove.com/2017/loops/
+- Your loops: http://mica-gd3.paperdove.com/2017/loops/
 - [What is motion design?](https://vimeo.com/blog/post/what-is-motion-design)
 - Share Love & Hate cont'd
 - AE Graph editor tutorials:
