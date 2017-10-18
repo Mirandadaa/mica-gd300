@@ -26,6 +26,7 @@ Using your texts and other materials and based on your interpretations, you will
 
 ## Learning objectives
 - interpret and analyze a story.
+- develop research skills.
 - recognize about the author’s and designer’s intention.
 - practice communicating ideas/stories through visual form and motion.
 
