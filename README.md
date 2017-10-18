@@ -97,4 +97,6 @@ Students actively engage motion graphics as strategic medium for experimentation
 - **[Project 3: Storytelling](lectures/proj-storytelling.md)**
 - [Assignments](lectures/w8-assignments.md)
 
+### Week 9
+- Review Project 3 research materials
 
