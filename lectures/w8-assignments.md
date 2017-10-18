@@ -1,4 +1,4 @@
-# Week 9 assignments
+# Week 8 assignments
 
 1. Read [the project brief](proj-storytelling.md).
 1. Pick a short story (1000+ words) of any genre from newspaper, book, article, essay, etc.
