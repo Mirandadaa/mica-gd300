@@ -8,7 +8,8 @@ Turn the original text into 200-words text. You may summarize it or choose an en
 
 The same story can be told in many different ways. For example, the news media tell the same story in different tones. A film adaptation of a book is not always the same as the original text. What gets included/excluded and *how* it's told can make a big difference. What do you think the author's intention is and What is your interpretation? How much do you compress or expand from the original story? Who is your audience and what is the context?
 
-Using your texts and other materials and based on your interpretations, you will create a video/animation.
+Using your texts and other materials and based on your interpretations, you will create a video/animation. There is no limitation on what tools/techniques you may use. Live action videos, collage animation, found footage, stop-motion, vector animation, kinetic typography or combinations of any techniques.
+
 
 
 ## Process
@@ -22,17 +23,20 @@ Using your texts and other materials and based on your interpretations, you will
 1. Get feedback and iterate.
 
 
+
 ## Learning objectives
-- interpret a story into motion.
-- think about the author’s and designer’s intention.
-- think about how to effectively communicate ideas.
-- explore unique storytelling aspects of time-based media.
+- interpret and analyze a story.
+- recognize about the author’s and designer’s intention.
+- practice on how to communicate ideas through visual form and motion.
+
+
 
 ## Deliverable
 - 1280 x 720 px @ 24 or 30 fps video file.
 - Rendered in H.264 codec.
-- Length: 30 sec - 2 min.
-- Technique: there is no constraints as long as the final form is time-based. (ex. animation, video, stop-motion, etc.)
+- Length: min. 30 sec to max. 2 min.
+
+
 
 ## Weekly schedule
 
@@ -46,10 +50,19 @@ Using your texts and other materials and based on your interpretations, you will
 
 ### Week 10
 - Review storyboards
+- Start production (animation/video)
 
 ### Week 11
 - Iterate
 
 ### Week 12
-- Final presentation
+- keep working.
+- Project 4 begins.
+
+### Week 13
+*Thanksgiving break*
+
+### Week 14
+- Project 3: Final presentation
+- Project 4 idea presentation
 
