@@ -1,12 +1,12 @@
 # Project: Storytelling
 
-Pick a short story of any genre from newspaper, book, article, essay, podcast, etc.
+Pick a short story of any genre from newspaper, book, article, essay, etc.
 
 Analyze the story - What is it about? Who are involved? Where is it happening? What is the tone of the story? What is [the structure](https://en.wikipedia.org/wiki/Dramatic_structure) of the story? Is there a [character arc](https://en.wikipedia.org/wiki/Character_arc)?
 
-Write the same story in three different versions. In twenty words, eighty words and 200+ words. What are the essential elements of the story? What are the interesting details? What are the things you may add/change/omit?
+Turn the original text into 200 word text. You may summarize it or choose an entirely different structure for your text. Turn your text again into 20 word text. What is the most essential information that needs to be included? What are the interesting details? What are the things you may add/change/omit?
 
-The same story can be told in many different ways. For example, news media tell the same story in different tones. What gets included/excluded and *how* it's told can make a big difference. Traditional stories have many different versions. What do you think the author's intention is and What is your interpretation? Who is your audience? What is the context?
+The same story can be told in many different ways. For example, the news media tell the same story in different tones. A film adaptation of a book is not always the same as the original text. What gets included/excluded and *how* it's told can make a big difference. The decisions you make in interpreting the story  What do you think the author's intention is and What is your interpretation? Who is your audience? What is the context?
 
 Once you have a good understanding of the story and what you want to communicate with it, 
 
