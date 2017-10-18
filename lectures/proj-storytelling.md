@@ -55,16 +55,16 @@ Using your texts and other materials and based on your interpretations, you will
 - Start production (animation/video)
 
 ### Week 11
-- Iterate
+- Review work-in-progress
 
 ### Week 12
-- keep working.
-- Project 4 begins.
+- keep working
+- Project 4 begins
 
 ### Week 13
 *Thanksgiving break*
 
 ### Week 14
 - Project 3: Final presentation
-- Project 4 idea presentation
+- Project 4: idea presentation
 
