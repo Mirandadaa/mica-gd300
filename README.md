@@ -90,6 +90,10 @@ Students actively engage motion graphics as strategic medium for experimentation
 
 ### Week 8
 - Project 2 critique
+- Rotoscoping
+    - Photoshop
+    - AE layer mask
+    - AE Rotobrush
 - **[Project 3: Storytelling](lectures/proj-storytelling.md)**
 - [Assignments](lectures/w8-assignments.md)
 
