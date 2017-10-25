@@ -15,8 +15,8 @@ For Project 3: Storytelling, create mood boards. [The Mood boards](https://duckd
 - How do different elements work together on screen?
 - What tone/mood do you want to tell the story in? 
 - How can your visual decisions support the tone?
-- How can your visual decisions help audience unerstand the story?
-- Find the reference materials that can help communicate your ideas visually and **create mood boards as a PDF file**. The format of the PDF is up to you.
+- How can your visual decisions help audience understand the story?
+- Find the reference materials that can help communicate your ideas visually and **create mood boards as a multi-page PDF file**. The format of the PDF is up to you, but you will include at least 50 different images.
 
 
 
@@ -24,6 +24,6 @@ For Project 3: Storytelling, create mood boards. [The Mood boards](https://duckd
 - Create storyboards to communicate your idea/story visually. 
 - For this first iteration of the storyboards, it may be a rough draft, but the presentation must be professional.
 - If you will scan your drawings, take photos under a good lighting condition, and place each board nicely so that we can actually understand what's going on.
-- Set your boards in a multi-page PDF file (horizontal orientation).
+- Set your boards in **a multi-page PDF file (horizontal orientation)**.
 - Make sure your boards are HD aspect ratio (16:9).
 - Format it professionally!
