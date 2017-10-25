@@ -108,4 +108,4 @@ Students actively engage motion graphics as strategic medium for experimentation
 - Type animation exercise
     - [Word as Image by Ji Lee](http://pleaseenjoy.com/projects/personal/word-as-image/)
     - Choose your favorite super hero/heroine character and animate their name. Your type, color, composition, motion decisions should reflect their personality. First, make a quick storyboard in PS/AI before you animate.
-
+- [Assignments](lectures/w9-assignments.md)
