@@ -46,6 +46,7 @@
 - [This Is Colossal](http://www.thisiscolossal.com/)
 - [Designobserver](http://designobserver.com/)
 - [Design Matters Podcast](http://www.debbiemillman.com/designmatters/)
+- [AIGA Eye on Design](https://eyeondesign.aiga.org)
 
 ## Motion design studios
 - http://hornetinc.com/home.html
