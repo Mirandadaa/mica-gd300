@@ -1,7 +1,6 @@
 # Week 9 assignments
 
-### Type animation exercise
-If you haven't finished in-class type animation exercise (superhero name), finish it by next class.
+*First, if you haven't finished in-class type animation exercise (superhero name), finish it by next class.*
 
 -----
 
