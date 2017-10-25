@@ -104,4 +104,7 @@ Students actively engage motion graphics as strategic medium for experimentation
 
 ### Week 9
 - Review Project 3 research materials
+- AE type animation basics
+- Type animation exercise
+    - Choose your favorite super hero/heroine character and animate their name. Your type, color, composition, motion decisions should reflect their personality.
 
