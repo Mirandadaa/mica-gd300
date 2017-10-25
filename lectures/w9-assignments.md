@@ -12,9 +12,11 @@ For Project 3: Storytelling, create mood boards. [The Mood boards](https://duckd
 - Do you use videos?
 - Do you use type?
 - Do you use illustration?
+- How do different elements work together on screen?
 - What tone/mood do you want to tell the story in? 
 - How can your visual decisions support the tone?
-- Find the reference materials that can help communicate your ideas visually and **create mood boards as a PDF file**.
+- How can your visual decisions help audience unerstand the story?
+- Find the reference materials that can help communicate your ideas visually and **create mood boards as a PDF file**. The format of the PDF is up to you.
 
 
 
