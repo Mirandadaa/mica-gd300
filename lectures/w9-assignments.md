@@ -19,7 +19,7 @@ For Project 3: Storytelling, create mood boards. [The Mood boards](https://duckd
 ## Storyboards
 - Create storyboards to communicate your idea/story visually. 
 - For this first iteration of the storyboards, it may be a rough draft, but the presentation must be professional.
-- If you will scan your drawings, take photos under good lighting condition, and place each board nicely so that we can actually understand what's going on.
+- If you will scan your drawings, take photos under a good lighting condition, and place each board nicely so that we can actually understand what's going on.
 - Set your boards in a multi-page PDF file (horizontal orientation).
 - Make sure your boards are HD aspect ratio (16:9).
 - Format it professionally!
