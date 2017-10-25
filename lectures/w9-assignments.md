@@ -3,7 +3,11 @@
 ## Type animation exercise
 If you haven't finished in-class type animation exercise (superhero name), finish it by next class.
 
+-----
+
 ## Visual research
+For Project 3: Storytelling,
+
 - Research on visuals
   - Do you use photos?
   - Do you use videos?
