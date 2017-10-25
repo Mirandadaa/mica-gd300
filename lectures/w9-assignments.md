@@ -4,7 +4,7 @@
 
 -----
 
-## Visual research - create mood boards
+## Visual research
 For Project 3: Storytelling, create mood boards. [The Mood boards](https://duckduckgo.com/?q=mood+boards&bext=msl&atb=v81-4__&iax=images&ia=images) are a collection of reference materials (usually, images) that convey your design concepts. You can describe with mood boards what words cannot describe alone. After all, what you have in your head or mind will need to be expressed visually. Mood boards can help your client (and yourself) to visualize your ideas before making commitment to any.
 
 - Do you use photos?
