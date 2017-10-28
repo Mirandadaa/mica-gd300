@@ -37,6 +37,10 @@ Using your texts and other materials and based on your interpretations, you will
 - Rendered in H.264 codec.
 - Length: min. 30 sec to max. 2 min.
 
+## Inspirations
+- https://vimeo.com/5324526
+- 
+
 
 
 ## Weekly schedule
