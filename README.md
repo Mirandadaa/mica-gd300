@@ -111,4 +111,4 @@ Students actively engage motion graphics as strategic medium for experimentation
 - [Assignments](lectures/w9-assignments.md)
 
 ### Week 10
-
+- Review Proj 3 visual research/storyboards
