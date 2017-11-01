@@ -112,4 +112,5 @@ Students actively engage motion graphics as strategic medium for experimentation
 
 ### Week 10
 - Review Proj 3 visual research/storyboards
+- Visiting designer: [Jessica Svendsen](https://jessicasvendsen.com) (12–1pm, Brown 320)
 - Assignments: revise the storyboards (pdf) and start production
