@@ -121,8 +121,12 @@ Students actively engage motion graphics as strategic medium for experimentation
 - [Next week review schedule](lectures/w11-next-week-review.md) (important!)
 
 ### Week 12
-- Review work-in-progress
+- Review work-in-progress in 2 groups (refer to the schedule above.)
 
 ### Week 13
 *Thanksgiving break (no class)*
+
+### Week 14
+- Project 3 critique
+
 
