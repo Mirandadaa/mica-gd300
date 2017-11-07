@@ -5,3 +5,4 @@ For next week, we will meet in 2 groups to talk about work-in-progress. Make sur
 ## Wednesday, Nov. 15
 
 | 9am to 11am |
+|-------------|
