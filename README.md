@@ -116,5 +116,12 @@ Students actively engage motion graphics as strategic medium for experimentation
 - Assignments: revise the storyboards (pdf) and start production. Post work-in-progress materials (images and videos) on Google Drive.
 
 ### Week 11
+- Review work-in-progress
+- Next week review schedule (important!)
 
+### Week 12
+- Review work-in-progress
+
+### Week 13
+*Thanksgiving break (no class)*
 
