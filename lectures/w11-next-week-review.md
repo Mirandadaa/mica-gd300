@@ -13,3 +13,13 @@ For next week, we will meet in 2 groups to talk about work-in-progress. Make sur
 |Wen          |
 |Layla        |
 |Dana         |
+
+| 12pm to 2pm |
+|:-----------:|
+|Janet        |
+|Jaeyeon      |
+|Guiping      |
+|Zemoria      |
+|Jane         |
+|Soo          |
+
