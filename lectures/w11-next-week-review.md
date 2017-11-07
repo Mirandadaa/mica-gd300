@@ -23,3 +23,22 @@ For next week, we will meet in 2 groups to talk about work-in-progress. Make sur
 |Jane         |
 |Soo          |
 
+## Thursday, Nov. 16
+
+| 10am to noon  |
+|:-------------:|
+|Winnie         |
+|Ekin           |
+|Sean           |
+|David          |
+|Yeoeun         |
+|Lindsay        |
+
+|1pm to 3pm     |
+|:-------------:|
+|Rachel         |
+|Jiaoxue        |
+|Tyrese         |
+|Elena          |
+|Jenna          |
+
