@@ -117,6 +117,7 @@ Students actively engage motion graphics as strategic medium for experimentation
 
 ### Week 11
 - Review work-in-progress
+- Assignment: Keep working on the Project 3!
 - Next week review schedule (important!)
 
 ### Week 12
