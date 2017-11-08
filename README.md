@@ -119,7 +119,7 @@ Students actively engage motion graphics as strategic medium for experimentation
 - Review work-in-progress
 - Assignment: 
     - Render out the 3d layer exercise and upload to G drive.
-    - Keep working on the Project 3! Upload rough animation reners to G drive.
+    - Keep working on the Project 3! Upload rough animation renders to G drive.
 - [Next week review schedule](lectures/w11-next-week-review.md) (important!)
 
 ### Week 12
