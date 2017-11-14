@@ -18,4 +18,4 @@ Choose a book that time and motion plays a big role and design an animated cover
 - https://www.instagram.com/instagggramlich/
 - https://www.instagram.com/parkse.rachi/
 - [Weltformat](http://weltform.at), [Facebook](https://www.facebook.com/weltformat/)
-- 
+- [Animated vintage book covers](https://vimeo.com/141891887)
