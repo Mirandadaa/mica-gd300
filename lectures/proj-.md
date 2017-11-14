@@ -16,3 +16,4 @@ Choose a book that time and motion plays a big role and design an animated cover
 - [Studio Feixen](http://www.studiofeixen.ch), [Instagram](https://www.instagram.com/studiofeixen/)
 - http://www.themovingposter.com
 - https://www.instagram.com/instagggramlich/
+- https://www.instagram.com/parkse.rachi/
