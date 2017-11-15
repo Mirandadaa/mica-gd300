@@ -125,6 +125,7 @@ Students actively engage motion graphics as strategic medium for experimentation
 ### Week 12
 - Review work-in-progress in 2 groups (refer to the schedule above.)
 - **[Project 4: Animated Book Cover Design](lectures/proj-book-cover.md)**
+- [Assignments](lectures/w12-assignments.md)
 
 ### Week 13
 *Thanksgiving break (no class)*
