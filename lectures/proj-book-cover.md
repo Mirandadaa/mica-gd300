@@ -5,6 +5,7 @@ Choose a book, in which *time and/or motion* plays a role, and design an animate
 
 ## Requirements
 - Create a functioning and memorable book cover design.
+- Create all the graphic assets yourself (except for image/video source materials).
 - You must include the book title, the author's name and the publisher name.
 - Your animated book cover must loop. In other words, the first and last frame must connect seamlessly.
 - Do not include any sound.
