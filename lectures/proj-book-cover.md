@@ -28,14 +28,14 @@ Choose an existing book, in which time and motion plays a big role, and design a
 ## Weekly Schedule
 
 ### Week 12
-Project 3: work-in-progress review
+Project 3: work-in-progress review  
 Project 4: Animated Book Cover begins
 
 ### Week 13
 *Thanksgiving: no class*
 
 ### Week 14
-Project 3 final critique
+Project 3 final critique  
 Project 4 research/sketch review
 
 ### Week 15
