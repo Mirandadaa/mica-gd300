@@ -12,7 +12,7 @@ Choose a book and design an animated cover for it. The book can be of any genre,
 
 
 ## Deliverables
-- 720 x 960 px (vertical orientation) @ 30 fps video file.
+- 600 x 900 px (vertical orientation) @ 30 fps video file.
 - No sound.
 - Rendered in H.264 codec
 - Length: maximum 15 seconds
