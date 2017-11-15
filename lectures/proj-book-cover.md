@@ -19,6 +19,7 @@ Choose a book, in which *time and/or motion* plays a role, and design an animate
 
 ## Things to look at
 - [Animated vintage book covers](https://vimeo.com/141891887), [more covers](https://vimeo.com/228577316)
+- [Christoph Niemann’s Augmented-Reality Covers ](https://www.youtube.com/watch?time_continue=39&v=r5ziOSjXdo4)
 - [Studio Feixen](http://www.studiofeixen.ch), [Instagram](https://www.instagram.com/studiofeixen/)
 - http://www.themovingposter.com
 - [Weltformat](http://weltform.at), [Facebook](https://www.facebook.com/weltformat/)
