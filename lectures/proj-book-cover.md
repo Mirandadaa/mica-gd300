@@ -24,7 +24,7 @@ Choose a book and design an animated cover for it. The book can be of any genre,
 - [Studio Feixen](http://www.studiofeixen.ch), [Instagram](https://www.instagram.com/studiofeixen/)
 - http://www.themovingposter.com
 - [Weltformat](http://weltform.at), [Facebook](https://www.facebook.com/weltformat/)
-
+- [A New Poster Movement](https://eyeondesign.aiga.org/a-new-poster-movement/) reading
 
 
 ## Weekly Schedule
