@@ -1,12 +1,12 @@
 # Project 4: Animated Book Cover Design
 
-Choose an existing book, in which *time and motion* plays a big role, and design an animated cover for it. The book can be of any genre, including literature, essay, history, science, etc. You book cover will represent the book in different ways such as story, theme, structure, characters, backgrounds, etc. In addition to paying attention to the principles of graphic design, focus on how to integrate *time and motion* into your design.
+Choose an existing book, in which *time and motion* plays a big role, and design an animated cover for it. The book can be of any genre, including literature, essay, history, science, etc. You book cover can represent the book in different ways such as story, theme, structure, characters, backgrounds, etc. In addition to paying attention to the principles/elements of graphic design to create a successful book cover design, think about how to integrate *time* as another dimension, and *motion* as another element in your design. Think about what may be now possible to communicate using time and motion.
 
 
 ## Requirements
+- Create a functioning and memorable book cover design.
 - You must include the book title, the author's name and the publisher name.
 - Your animated book cover must loop. In other words, the first and last frame must connect seamlessly.
-- You may use type and/or graphics.
 - Do not include any sound.
 
 
