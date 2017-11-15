@@ -15,13 +15,11 @@ Choose a book, in which time and motion plays a big role, and design an animated
 
 
 ## Things to look at
-- Reading: [A New Poster Movement](https://eyeondesign.aiga.org/a-new-poster-movement/)
+- [Animated vintage book covers](https://vimeo.com/141891887)
 - [Studio Feixen](http://www.studiofeixen.ch), [Instagram](https://www.instagram.com/studiofeixen/)
 - http://www.themovingposter.com
-- https://www.instagram.com/instagggramlich/
-- https://www.instagram.com/parkse.rachi/
 - [Weltformat](http://weltform.at), [Facebook](https://www.facebook.com/weltformat/)
-- [Animated vintage book covers](https://vimeo.com/141891887)
+
 
 
 ## Weekly Schedule
