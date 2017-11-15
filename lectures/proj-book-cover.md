@@ -4,8 +4,10 @@ Choose a book, in which time and motion plays a big role, and design an animated
 
 
 ## Requirements
-- You must include the book title and the author's name in text form.
+- You must include the book title, the author's name and the publisher name.
 - Your animated book cover must loop. In other words, the first and last frame must connect seamlessly.
+- You may use type and/or graphics.
+- No sound.
 
 
 ## Deliverables
