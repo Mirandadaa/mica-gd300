@@ -1,4 +1,4 @@
-# Project 4:
+# Project 4: Animated Book Cover Design
 
 Choose a book that time and motion plays a big role and design an animated cover for it.
 
@@ -9,7 +9,10 @@ Choose a book that time and motion plays a big role and design an animated cover
 
 
 ## Deliverables
-- 
+- Resolution: 720 x 960 px (vertical orientation)
+- H.264 codec
+- Length: maximum 20 seconds
+
 
 ## Things to look at
 - Reading: [A New Poster Movement](https://eyeondesign.aiga.org/a-new-poster-movement/)
