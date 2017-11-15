@@ -1,8 +1,8 @@
 # Week 12 assignments
 
-## 1. Finish the Project 3: Storytelling
+## Finish the Project 3: Storytelling
 Post the final storyboard (pdf) and video file on Google Drive by next class (after Thanksgiving).
 
-## 2. Project 4: Animated Book Cover Design
+## Project 4: Animated Book Cover Design
 - Bring the summary of the book in appx. 200 words.
-- Design **two different still versions** of the book cover in Photoshop or Illustrator. Be prepared to explain how the still versions will be animated. After the review next class, you will choose one version and develop into the final.
+- Design **two different static versions** of the book cover in Photoshop or Illustrator. Be prepared to explain how the still versions will be animated. After the review next class, you will choose one version and develop into the final.
