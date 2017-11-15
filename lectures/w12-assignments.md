@@ -5,4 +5,4 @@ Post the final storyboard (pdf) and video file on Google Drive by next class (af
 
 ## Project 4: Animated Book Cover Design
 - Bring the summary of the book in appx. 200 words.
-- Design **two different static versions** of the book cover in Photoshop or Illustrator. Be prepared to explain how the still versions will be animated. After the review next class, you will choose one version and develop into the final.
+- Design **two different static (non-animated) versions** of the book cover in Photoshop or Illustrator. Be prepared to explain how the still versions will be animated. After the review next class, you will choose one version and develop into the final.
