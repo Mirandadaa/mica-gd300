@@ -131,5 +131,11 @@ Students actively engage motion graphics as strategic medium for experimentation
 
 ### Week 14
 - Project 3 critique
+- Project 4 draft review
 
+### Week 15
+- Project 4 work-in-progress animation review
+
+### Week 16
+- Project 4 critique
 
