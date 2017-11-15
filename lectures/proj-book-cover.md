@@ -15,7 +15,7 @@ Choose a book, in which time and motion plays a big role, and design an animated
 
 
 ## Things to look at
-- [Animated vintage book covers](https://vimeo.com/141891887)
+- [Animated vintage book covers](https://vimeo.com/141891887), [more covers](https://vimeo.com/228577316)
 - [Studio Feixen](http://www.studiofeixen.ch), [Instagram](https://www.instagram.com/studiofeixen/)
 - http://www.themovingposter.com
 - [Weltformat](http://weltform.at), [Facebook](https://www.facebook.com/weltformat/)
