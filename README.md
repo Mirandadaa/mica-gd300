@@ -133,6 +133,7 @@ Students actively engage motion graphics as strategic medium for experimentation
 ### Week 14
 - Project 3 critique
 - Project 4 draft review
+- Assignment: Project 4 - choose one idea and present work-in-progress animation. Upload the video file on G-drive.
 
 ### Week 15
 - Project 4 work-in-progress animation review
