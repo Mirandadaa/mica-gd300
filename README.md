@@ -137,6 +137,12 @@ Students actively engage motion graphics as strategic medium for experimentation
 
 ### Week 15
 - Project 4 work-in-progress animation review
+- AE Expressions
+    - https://helpx.adobe.com/after-effects/using/expression-basics.html
+    - http://www.schoolofmotion.com/after-effects-expressions-101/
+    - http://motionscript.com
+    - http://aescripts.com
+- Assignment: Finish the project.
 
 ### Week 16
 - Project 4 critique
