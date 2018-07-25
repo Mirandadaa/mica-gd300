@@ -2,7 +2,7 @@
 
 - GD300
 - 3 credits
-- Fall 2017
+- Fall 2018
 - Instructor: Dae In Chung
 - email: [dchung01@mica.edu](mailto:dchung01@mica.edu)
 - Office: BR303
