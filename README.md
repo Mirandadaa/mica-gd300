@@ -21,7 +21,7 @@ Students actively engage motion graphics as strategic medium for experimentation
 - Demonstrate proficiency with standard production tools such as After Effects.
 
 ## Some links
-- [Syllabus](files/MICA-17FA-GD3-Syllabus.pdf)
+- [Syllabus](files/MICA-18FA-GD3-Syllabus.pdf)
 - [Resources](lectures/w1-resources.md)
 - Submit assignments [here](https://drive.google.com/drive/folders/0B6qjLkwjTXyrUWNFcHd6c3NvZEU?usp=sharing) (if it asks for permission, sign in with MICA account.)
 - [Live poll link](https://pollev.com/daechung096)
