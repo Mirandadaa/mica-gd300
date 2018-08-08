@@ -35,6 +35,8 @@ Students actively engage motion graphics as strategic medium for experimentation
 - [Exercise: Sticky note flipbook](lectures/w1-exercise.md)
 - [Assignments](lectures/w1-assignments.md)
 
+<!--
+
 ### Week 2
 - [Technical Primer](lectures/w2-technical-primer.md)
 - [Photoshop animation](lectures/w2-ps-animation.md)
@@ -147,3 +149,4 @@ Students actively engage motion graphics as strategic medium for experimentation
 ### Week 16
 - Project 4 critique
 
+-->
