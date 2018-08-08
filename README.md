@@ -29,7 +29,7 @@ Students actively engage motion graphics as strategic medium for experimentation
 ## Weekly Schedule
 
 ### Week 1
-- [Survey](https://docs.google.com/forms/d/e/1FAIpQLSecPPxBAcrRt3BAR96hwQnEzAh1rnlOpTzVauPK7UgaN8VKfg/viewform?usp=sf_link)
+- [Survey](https://goo.gl/forms/iMuOGhEqM5g6AGZj1)
 - [Illusion of Motion](lectures/w1-illusion-of-motion.md)
 - [Optical devices](lectures/w1-optical-devices.md)
 - [Exercise: Sticky note flipbook](lectures/w1-exercise.md)
