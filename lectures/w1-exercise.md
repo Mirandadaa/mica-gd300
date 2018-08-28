@@ -9,6 +9,7 @@
 - Draw your self-portrait (head only) using black ink on a piece.
 - Make an exact copy of your portrait on another piece. It helps to overlay on top to trace the lines.
 - Hand the copy over to the person next to you.
+- Everyone at this point has two drawings - one of yourself, the other of another person.
 - Now, create in-between frames to turn your face into the other person's face.
 - Create at least 30 frames.
 
