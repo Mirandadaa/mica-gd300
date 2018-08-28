@@ -5,7 +5,7 @@ There is [a great course on creating animation with Photoshop](https://www.lynda
 Here are some tips for animating in Photoshop.
 
 - Animating in Photoshop allows you to use all the brushes and layer features, but it is somewhat limited in what you can do, especially, when it comes to editing.
-- When you create a new file, start with one ofThere the Film & Video presets.
+- When you create a new file, start with one of the Film & Video presets.
 - You have two options to choose from in Timeline panel:
     1. Video Timeline
     1. Frame Animation
