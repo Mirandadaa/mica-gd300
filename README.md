@@ -32,12 +32,10 @@ Students actively engage motion graphics as strategic medium for experimentation
 - [Survey](https://goo.gl/forms/iMuOGhEqM5g6AGZj1)
 - [Illusion of Motion](lectures/w1-illusion-of-motion.md)
 - [Optical devices](lectures/w1-optical-devices.md)
-
-<!--
-- [Exercise: Sticky note flipbook](lectures/w1-exercise.md)
+- [Animation exercise](lectures/w1-exercise.md)
 - [Assignments](lectures/w1-assignments.md)
 
-
+<!--
 ### Week 2
 - [Technical Primer](lectures/w2-technical-primer.md)
 - [Photoshop animation](lectures/w2-ps-animation.md)
