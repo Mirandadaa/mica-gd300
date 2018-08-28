@@ -23,3 +23,6 @@
 - Try to have your drawing nice and big, but leave a little bit of edge on each side. See image below.
 - Bring your original drawings as well as the images you shot.
 - Post all the images to Google Drive Week 1 folder **BEFORE** the beginning of next class. **Anything submitted or changed after class started will be marked late.**
+
+
+![Reference image](../images/w1/w1-exercise-reference.png)
