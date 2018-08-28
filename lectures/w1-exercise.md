@@ -6,7 +6,7 @@
 - (You will eventually need many pieces of paper to complete this exercise.)
 
 ## Drawing frames
-- Draw your self-portrait (head only) using black ink.
+- Draw your self-portrait (head only) using black ink on a piece.
 - Make an exact copy of your portrait on another piece. It helps to overlay on top to trace the lines.
 - Hand the copy over to the person next to you.
 - Now, create in-between frames to turn your face into the other person's face.
