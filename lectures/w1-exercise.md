@@ -11,7 +11,8 @@
 - Hand the copy over to the person next to you.
 - Everyone at this point has two drawings - one of yourself, the other of another person.
 - Now, create in-between frames to turn your face into the other person's face.
-- Create at least 30 frames.
+- You have all the freedom you need on how you turn one face into another.
+- Create at least 30 in-between frames.
 
 ## Shooting
 - Once you're done with drawings, let's take photos so that we can turn your drawings into animation.
