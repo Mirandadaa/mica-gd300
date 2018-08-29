@@ -6,7 +6,7 @@
 - (You will eventually need many pieces of paper to complete this exercise.)
 
 ## Drawing frames
-- Draw your self-portrait (head only) using black ink on a piece.
+- Draw your self-portrait (head only) using black ink on a piece in landscape orientation (wider than taller).
 - Make an exact copy of your portrait on another piece. It helps to overlay on top to trace the lines.
 - Hand the copy over to the person next to you.
 - Everyone at this point has two drawings - one of yourself, the other of another person.
