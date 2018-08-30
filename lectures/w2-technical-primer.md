@@ -28,7 +28,7 @@ If you are only going to present your work on computer screen, it can be as tall
 720p has a screen size of 1280 pixels wide and 720 pixels tall (1280 x 720px), and it has a 16 by 9 aspect ratio.
 
 ### 1080p
-1080p has a screen size of 1920 pixels wide and 1080 pixels tall (1920 x 720px), and it alo has a 16 by 9 aspect ratio. Some say it's a *2K* video by counting the pixels horizontally.
+1080p has a screen size of 1920 pixels wide and 1080 pixels tall (1920 x 1080px), and it alo has a 16 by 9 aspect ratio. Some say it's a *2K* video by counting the pixels horizontally.
 
 ### What is the 'p' at the end?
 There are 2 different types of scanning methods to draw a picture on a screen. *Interlaced* video displays either *odd* or *even* scan lines at a time. The switching of the lines are fast, so we don't usually perceive it, but this method falls short when objects on a screen move fast.
