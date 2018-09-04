@@ -37,13 +37,11 @@ Students actively engage motion graphics as strategic medium for experimentation
 
 ### Week 2
 - [Technical Primer](lectures/w2-technical-primer.md)
+- [Photoshop animation](lectures/w2-ps-animation.md)
 - [Storyboarder](https://wonderunit.com/storyboarder/): a free app for storyboarding
 
 <!--
-
-- [Photoshop animation](lectures/w2-ps-animation.md)
 - **[Project 1: Loop](lectures/proj-loop.md)**
-
 - [After Effects basics](lectures/w2-ae-basics.md) - create a slide show
 - After Effects image sequence - [download sample files](files/head_seq.zip)
 - [Assignments](lectures/w2-assignments.md)
