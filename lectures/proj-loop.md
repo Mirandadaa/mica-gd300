@@ -24,11 +24,11 @@ GIF image format has been around [for a long time](http://www.fastcodesign.com/3
 
 
 ## Let's make a loop.
-The theme of the project is *the cycles in nature*. You will interpret this theme and come up with your own concept for this project. There is no limitations on what tools or techniques or styles you can use as long as it is mainly frame-by-frame animation. You are also allowed to use keyframe animation. Feel free to explore on your own. It can be stop-motion photography, Photoshop animation, hand-drawn animation, etc.
+The theme of the project is *speed*. You will interpret this theme and come up with your own concept for this project. There is no limitations on what tools or techniques or styles you can use as long as it is mainly frame-by-frame animation. You are also allowed to use keyframe animation. Feel free to explore on your own. It can be stop-motion photography, Photoshop animation, type animation, hand-drawn animation, etc.
 
 Create two loops in the animated GIF format. The two loops must be variations on the same concept. Think about the relationship between them. How will they look when placed side by side? The relationship can be about the subject matter, temporal and spatial rhythms, colors, juxtapositions, etc.
  
-An animated GIF is a [very popular](http://www.nytimes.com/2013/02/14/fashion/common-on-early-internet-gif-files-make-comeback.html?_r=1&) form of communication. What kinds of forms and contents can it take? What kind of ideas can you convey using loops?
+What kinds of forms and contents can your animated loops take? What kind of ideas can you convey using the format?
 
 
 ## Objectives
@@ -42,15 +42,11 @@ An animated GIF is a [very popular](http://www.nytimes.com/2013/02/14/fashion/co
 Create two animated GIF loops. These two loops must be variations of the same concept.
 
 - 2 animated GIF files
-- the theme: cycles in nature
+- the theme: speed
 - the technique: frame-by-frame animation + keyframe animation
 - Dimensions: 500 x 500 px per each loop
 - Frame rate: 12 fps (you may go higher but it will require more work.)
 - Length: between 4 - 8 seconds per each loop (48 - 96 frames per each loop)
-
-- does not have to be GIF file.
-- 3 repetitions.
-- post online somewhere we can access.
 
 ## Schedule
 
@@ -61,10 +57,13 @@ idea sketch
 
 ### Week 3 
 review ideas, sketches, storyboards  
-review animation work-in-progress  
+continue developing ideas/storyboards
 
 ### Week 4
-Project 1 presentation  
+animating
+
+### Week 5
+Project 1 review
 Project 2 begins
 
 
@@ -72,6 +71,7 @@ Project 2 begins
 - [Making animated GIFs from After Effects comps](https://www.rocketstock.com/blog/making-animated-gifs-from-after-effects-comps/)
 - [Animating in Photoshop Tutorial](https://www.lynda.com/After-Effects-tutorials/Motion-Graphics-Loops-01-Photoshop-Techniques/483234-2.html) on lynda.com
 - [Student work from Fall 2016](http://mica-gd3.paperdove.com/2016/loops/)
+- [Student work from Fall 2017](http://mica-gd3.paperdove.com/2017/loops/)
 
 
 
