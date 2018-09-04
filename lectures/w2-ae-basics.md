@@ -7,7 +7,7 @@ To give you an overview of the basic workflow in After Effects, we will create a
 A composition or a comp is a basic working unit in After Effects. A project file (.aep) will usually have multiple compositions and source files. Create a comp by pressing `Cmd + N` or going to `Composition > New Composition...`.
 
 ### Composition Name
-Give a descriptive name to your comp. For a complex project, it is a good idea to include today's date. In my case, I named it `170926-test-01`.
+Give a descriptive name to your comp. For a complex project, it is a good idea to include today's date. In my case, I named it `180905-test-01`.
 
 ### Resolution
 There are a few presets you can select from, but you can also type in width and height yourself. We will work with an HD resolution of *1280 x 720 pixels*.
@@ -16,7 +16,7 @@ There are a few presets you can select from, but you can also type in width and 
 Keep it *Square Pixels* unless you will be using video footages from a video camcorder.
 
 ### Frame Rate
-We will use 24 fps. I mentioned this earlier, but once you set the frame rate, you do not want to change it in the middle of the production.
+We will use 24 fps for this exercise. As I mentioned this earlier, once you set the frame rate, you do not want to change it in the middle of the production.
 
 ### Duration
 This is the duration of your comp. There are 4 numbers separated by a semicolon as in `hour;minute;second;frame`. In my case, I typed in `0;00;10;00`, which is 10-second long. Or, you can just type in `1000` and After Effects will convert it properly.
