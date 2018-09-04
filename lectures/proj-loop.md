@@ -63,7 +63,7 @@ continue developing ideas/storyboards
 animating
 
 ### Week 5
-Project 1 review
+Project 1 review  
 Project 2 begins
 
 
