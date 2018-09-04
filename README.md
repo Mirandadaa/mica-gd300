@@ -41,10 +41,9 @@ Students actively engage motion graphics as strategic medium for experimentation
 - [After Effects basics](lectures/w2-ae-basics.md) - create a slide show
 - [Storyboarder](https://wonderunit.com/storyboarder/): a free app for storyboarding
 - **[Project 1: Loop](lectures/proj-loop.md)**
-
-<!--
 - [Assignments](lectures/w2-assignments.md)
 
+<!--
 ### Week 3
 - [After Effects: import assets](lectures/w3-ae-imports.md) - download [sample files](files/w3-files.zip)
 - After Effects image sequence - [download sample files](files/head_seq.zip)
