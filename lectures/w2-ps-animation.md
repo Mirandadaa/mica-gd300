@@ -9,9 +9,9 @@ Here are some tips for animating in Photoshop.
 - You have two options to choose from in Timeline panel:
     1. Video Timeline
     1. Frame Animation
-- With Frame Animation, you create a layer for a new frame, and for each frame, you can turn on or off the layers you need. This is good if you want to do something really simple. If you need a bit more option, use Video Timeline instead.
-- With Video Timeline, each layer will become a single frame, meaning, if you want to animate 300 frames, you need to create 300 layers and stack them up in the timeline.
-- Before you begin animating, make sure you set the Timeline Frame Rate first - 12 fps will be good for now.
+- With *Frame Animation*, you create a layer for a new frame, and for each frame, you can turn on or off the layers you need. This is good if you want to do something simple. If you need a bit more option, use Video Timeline instead.
+- With *Video Timeline*, each layer will become a single frame, meaning, if you want to animate 300 frames, you need to create 300 layers and stack them up in the timeline.
+- Before you begin animating, make sure you set the Timeline Frame Rate first. 12 fps is good for now.
 - You can preview the animation with the set frame rate, but if the file is heavy, it will not playback in realtime and there may be some delays. So, do not fully trust the Photoshop playback.
 - You can also import video files to Photoshop Timeline. Then, you can trace the video or combine with your drawings.
 
