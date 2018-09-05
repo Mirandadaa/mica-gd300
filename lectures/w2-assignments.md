@@ -1,5 +1,7 @@
 # Week 2 assignments
 
+## Google survey
+If you haven't done it yet, please do it this week.
 
 ## Project
 1. Read the [Project 1 brief](proj-loop.md) carefully.
