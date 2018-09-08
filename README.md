@@ -43,6 +43,9 @@ Students actively engage motion graphics as strategic medium for experimentation
 - [Storyboarder](https://wonderunit.com/storyboarder/): a free app for storyboarding
 - **[Project 1: Loop](lectures/proj-loop.md)**
 - [Assignments](lectures/w2-assignments.md)
+- Lecture videos
+  - [Photoshop animation](https://www.youtube.com/watch?v=uXP3qP5d8I0&index=2&list=PLpnblWsU0QoSkbFdTsYQhCf9Zm5MyvbEm&t=4s)
+  - [After Effects basics](https://www.youtube.com/watch?v=NqjdU5fUHY8&list=PLpnblWsU0QoSkbFdTsYQhCf9Zm5MyvbEm&index=2)
 
 <!--
 ### Week 3
