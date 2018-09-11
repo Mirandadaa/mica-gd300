@@ -54,12 +54,12 @@ Students actively engage motion graphics as strategic medium for experimentation
 - [After Effects: keyframing](lectures/w3-keyframes.md)
   - [The art of timing and spacing](https://ed.ted.com/lessons/animation-basics-the-art-of-timing-and-spacing-ted-ed) video
   - Easing; Keyframe velocity
-  
-<!--
 - [Assignments](lectures/w3-assignments.md)
 
 ### Week 4
-- Project 1 critique
+- Project 1 review
+
+<!--
 - [Workflow](lectures/w4-workflow.md)
 - [Quality of motion](lectures/w4-quality-of-motion.md)
 - [Black Square White Square](lectures/w4-square-exercise.md) animation exercise
