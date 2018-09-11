@@ -57,16 +57,18 @@ Students actively engage motion graphics as strategic medium for experimentation
 - [Assignments](lectures/w3-assignments.md)
 
 ### Week 4
-- Project 1 review
+
 
 <!--
 - [Workflow](lectures/w4-workflow.md)
 - [Quality of motion](lectures/w4-quality-of-motion.md)
 - [Black Square White Square](lectures/w4-square-exercise.md) animation exercise
-- **[Project 2: Animate Sound](lectures/proj-sound.md)**
+
 - [Assignments](lectures/w4-assignments.md)
 
 ### Week 5
+- Project 1 review
+- **[Project 2: Animate Sound](lectures/proj-sound.md)**
 - Common questions:
     - [How to make your video file size smaller?](lectures/w5-video-compression.md)
     - [How to reposition anchor point precisely?](lectures/w5-anchor-point.md)
