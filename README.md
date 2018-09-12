@@ -55,9 +55,11 @@ Students actively engage motion graphics as strategic medium for experimentation
   - [The art of timing and spacing](https://ed.ted.com/lessons/animation-basics-the-art-of-timing-and-spacing-ted-ed) video
   - Easing; Keyframe velocity
 - [Assignments](lectures/w3-assignments.md)
+- Lecture videos
+  - [AE import assets](https://www.youtube.com/watch?v=1Gv2SWwTHJ0&t=0s&list=PLpnblWsU0QoSkbFdTsYQhCf9Zm5MyvbEm&index=4)
+  - [AE keyframing](https://www.youtube.com/watch?v=KYSpRDjRgJM&index=4&list=PLpnblWsU0QoSkbFdTsYQhCf9Zm5MyvbEm)
 
 ### Week 4
-
 
 <!--
 - [Workflow](lectures/w4-workflow.md)
