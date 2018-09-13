@@ -59,7 +59,7 @@ Students actively engage motion graphics as strategic medium for experimentation
   - [AE import assets](https://www.youtube.com/watch?v=1Gv2SWwTHJ0&t=0s&list=PLpnblWsU0QoSkbFdTsYQhCf9Zm5MyvbEm&index=4)
   - [AE keyframing](https://www.youtube.com/watch?v=KYSpRDjRgJM&index=4&list=PLpnblWsU0QoSkbFdTsYQhCf9Zm5MyvbEm)
 
-### Week 4
+### Week 4 (9/17~)
 
 <!--
 - [Workflow](lectures/w4-workflow.md)
