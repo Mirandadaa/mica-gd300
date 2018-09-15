@@ -4,6 +4,7 @@
 
 How many ways can you come up with that start with the top composition and end with the bottom one?
 
+- download [the AE project template](../files/square-exercise.aep)
 - Storyboard as many ideas as you can for 20 minutes.
 - Use the rest of the time to animate as many of them as you can in After Effects.
 - Explore different forms, movements, easings, transitions and effects.
