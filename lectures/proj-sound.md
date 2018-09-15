@@ -39,21 +39,16 @@ For example, different instruments and the layers of sound can be translated int
 
 ## Weekly schedule
 
-### Week 4
-Project 2 begins  
-research, idea sketches  
-styleframes
-
 ### Week 5
-present idea development, styleframes  
-work on storyboards
+Project 2 begins  
+research, idea sketches, storyboards
 
 ### Week 6
-present storyboards  
-work on animatics + animation
+present sketches, storyboards  
+work on animation
 
 ### Week 7
-continue animating
+work on animation
 
 ### Week 8
 Project 2 presentation
