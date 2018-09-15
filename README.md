@@ -60,12 +60,11 @@ Students actively engage motion graphics as strategic medium for experimentation
   - [AE keyframing](https://www.youtube.com/watch?v=KYSpRDjRgJM&index=4&list=PLpnblWsU0QoSkbFdTsYQhCf9Zm5MyvbEm)
 
 ### Week 4 (9/17~)
-
-<!--
 - [Workflow](lectures/w4-workflow.md)
 - [Quality of motion](lectures/w4-quality-of-motion.md)
-- [Black Square White Square](lectures/w4-square-exercise.md) animation exercise
 
+<!--
+- [Black Square White Square](lectures/w4-square-exercise.md) animation exercise
 - [Assignments](lectures/w4-assignments.md)
 
 ### Week 5
