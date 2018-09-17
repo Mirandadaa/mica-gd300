@@ -70,8 +70,6 @@ Students actively engage motion graphics as strategic medium for experimentation
 <!--
 - [Assignments](lectures/w4-assignments.md)
 
-- [Black Square White Square](lectures/w4-square-exercise.md) animation exercise
-
 ### Week 5
 - **[Project 2: Animate Sound](lectures/proj-sound.md)**
 - Common questions:
@@ -84,6 +82,7 @@ Students actively engage motion graphics as strategic medium for experimentation
     - https://www.youtube.com/watch?v=IzpYNYzisL4 (Slim Jim animation tutorial)
     - https://www.youtube.com/watch?v=iLd-5x5KhyA (morphing in AE)
     - [Shape attributes and path operations](https://helpx.adobe.com/after-effects/using//shape-attributes-paint-operations-path.html#shape_attributes_paint_operations_and_path_operations_for_shape_layers)
+- [Black Square White Square](lectures/w4-square-exercise.md) animation exercise
 - [Assignments](lectures/w5-assignments.md)
 
 ### Week 6
