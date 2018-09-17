@@ -65,8 +65,9 @@ Students actively engage motion graphics as strategic medium for experimentation
 - [How to reposition anchor point precisely?](lectures/w4-anchor-point.md)
 
 <!--
-- [Black Square White Square](lectures/w4-square-exercise.md) animation exercise
 - [Assignments](lectures/w4-assignments.md)
+
+- [Black Square White Square](lectures/w4-square-exercise.md) animation exercise
 
 ### Week 5
 - Project 1 review
