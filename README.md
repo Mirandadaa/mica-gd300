@@ -62,6 +62,7 @@ Students actively engage motion graphics as strategic medium for experimentation
 ### Week 4 (9/17~)
 - [Workflow](lectures/w4-workflow.md)
 - [Quality of motion](lectures/w4-quality-of-motion.md)
+- [How to reposition anchor point precisely?](lectures/w4-anchor-point.md)
 
 <!--
 - [Black Square White Square](lectures/w4-square-exercise.md) animation exercise
@@ -72,7 +73,6 @@ Students actively engage motion graphics as strategic medium for experimentation
 - **[Project 2: Animate Sound](lectures/proj-sound.md)**
 - Common questions:
     - [How to make your video file size smaller?](lectures/w5-video-compression.md)
-    - [How to reposition anchor point precisely?](lectures/w5-anchor-point.md)
     - [How to re-link the missing videos?](lectures/w5-missing-videos.md)
 - Composition exercises
 - Shape layer tutorials:
