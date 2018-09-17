@@ -9,6 +9,5 @@
 - Name your GIF files to `yourname-left.gif` and `yourname-right.gif` -- with my name, it will be `daeinchung-left.gif`, for example.
 - Post all the files on Google Drive Week 4 folder.
 
-
-Before you start working on the Project 2, first, complete the Black Square White Square exercise by rendering at least 3 different variations. Rendering means to convert your AE animation to video files. Post all the videos you create on Google Drive.
+*For any common questions, watch the course repository, and use the issue tab to ask questions. This way, everyone in our classes will be notified of your questions and we can help each other solving problems.*
 
