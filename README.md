@@ -63,14 +63,12 @@ Students actively engage motion graphics as strategic medium for experimentation
 - [Workflow](lectures/w4-workflow.md)
 - [Quality of motion](lectures/w4-quality-of-motion.md)
 - [How to reposition anchor point precisely?](lectures/w4-anchor-point.md)
+- [Assignments](lectures/w4-assignments.md)
 
 ### Week 5 (9/24~)
 - Project 1: Loop review
 
 <!--
-- [Assignments](lectures/w4-assignments.md)
-
-### Week 5
 - **[Project 2: Animate Sound](lectures/proj-sound.md)**
 - Common questions:
     - [How to make your video file size smaller?](lectures/w5-video-compression.md)
@@ -92,7 +90,6 @@ Students actively engage motion graphics as strategic medium for experimentation
 - [Assignments](lectures/w6-assignments.md)
 
 ### Week 7
-- Your loops: http://mica-gd3.paperdove.com/2017/loops/
 - [What is motion design?](https://vimeo.com/blog/post/what-is-motion-design)
 - Share Love & Hate cont'd
 - AE Graph editor tutorials:
