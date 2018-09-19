@@ -63,6 +63,7 @@ Students actively engage motion graphics as strategic medium for experimentation
 - [Workflow](lectures/w4-workflow.md)
 - [Quality of motion](lectures/w4-quality-of-motion.md)
 - [How to reposition anchor point precisely?](lectures/w4-anchor-point.md)
+- parenting
 - [Assignments](lectures/w4-assignments.md)
 
 ### Week 5 (9/24~)
