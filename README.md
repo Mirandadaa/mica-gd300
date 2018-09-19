@@ -62,6 +62,7 @@ Students actively engage motion graphics as strategic medium for experimentation
 ### Week 4 (9/17~)
 - [Workflow](lectures/w4-workflow.md)
 - [Quality of motion](lectures/w4-quality-of-motion.md)
+- Convert AI shape into AE layer
 - [How to reposition anchor point precisely?](lectures/w4-anchor-point.md)
 - parenting
 - [Assignments](lectures/w4-assignments.md)
