@@ -66,6 +66,8 @@ Students actively engage motion graphics as strategic medium for experimentation
 - [How to reposition anchor point precisely?](lectures/w4-anchor-point.md)
 - parenting
 - [Assignments](lectures/w4-assignments.md)
+- Lecture videos
+  - [AE vector shapes](https://www.youtube.com/watch?v=Nh4JpaVYcYI&feature=youtu.be)
 
 ### Week 5 (9/24~)
 - Project 1: Loop review
