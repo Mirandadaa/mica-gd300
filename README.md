@@ -71,11 +71,12 @@ Students actively engage motion graphics as strategic medium for experimentation
 
 ### Week 5 (9/24~)
 - Project 1: Loop review
+- Composition exercises
 - Common questions:
   - What settings to use to compress videos?: [Vimeo guideline](https://vimeo.com/help/compression), [Youtube guideline](https://support.google.com/youtube/answer/1722171?hl=en)
   - [How to re-link the missing videos?](lectures/w5-missing-videos.md)
 - **[Project 2: Animate Sound](lectures/proj-sound.md)**
-- Composition exercises
+
 
 <!--
 
