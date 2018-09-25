@@ -72,6 +72,10 @@ Project 2 presentation
 - [Crazy Enough](https://vimeo.com/5239398) by Jr.canest
 - [Synesthesia](https://www.youtube.com/watch?v=sao3NAapOAI) by Michel Gagné
 
+## Student work examples
+- https://vimeo.com/201208090
+- https://vimeo.com/201207089
+
 ## Further Learning
 - [Paragraphs on Conceptual Art](http://emerald.tufts.edu/programs/mma/fah188/sol_lewitt/paragraphs%20on%20conceptual%20art.htm) by Sol Lewitt
 - [Visual Music](https://en.wikipedia.org/wiki/Visual_music)
