@@ -16,8 +16,10 @@
 - Include the project name, board number, page number and your name on each page.
 - There is no number of boards required; make as many as necessary. Any important visuals and changes should be addressed in the boards. You don't need to repeat the boards if they are too similar to each other.
 - Submit **a PDF file** on Google Drive.
+- Good storyboard examples: [1](../files/storyboard_soomincha.pdf), [2](../files/storyboard_laylachoi.pdf)
 
 ![storyboard format example](../images/storyboard-format.png)
+
 
 ### Tips for audio editing
 If you need to cut or edit an audio file, you may try these softwares.
