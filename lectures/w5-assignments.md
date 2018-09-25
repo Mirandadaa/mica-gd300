@@ -10,7 +10,8 @@
 
 ### How to format storyboards
 - Set up a letter-sized document **horizontally**.
-- On each page, create 6-8 boards. Create more pages as necessary.
+- On each page, create 6-8 frames. Create more pages as necessary.
+- Each frame **must have 16 x 9 aspect ratio.** (same as the actual animation frame)
 - Along with the boards include descriptions for each.
 - Include the project name, board number, page number and your name on each page.
 - There is no number of boards required; make as many as necessary. Any important visuals and changes should be addressed in the boards. You don't need to repeat the boards if they are too similar to each other.
