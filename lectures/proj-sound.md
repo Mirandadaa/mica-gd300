@@ -25,7 +25,6 @@ For example, different instruments and the layers of sound can be translated int
 1. Choose the one that gives you good visual ideas to work with.
 1. Analyze its musical structure. Identify elements that can traslate into visuals. (different instruments? change of mood? ..)
 1. Create sketches to explore different forms, colors, compositions, etc.
-1. Create a styleframe - a single image that can communicate your entire piece visually.
 1. Create storyboards. The number of boards will depend on your idea - a rough suggestion is 10-20 boards.
 1. Create animatics based on storyboards and sync it to the sound.
 1. Animate based on the animatics.
@@ -35,7 +34,7 @@ For example, different instruments and the layers of sound can be translated int
 - length: 15-30 seconds (be realistic with the length)
 - video format: 1280 x 720px @ 30fps
 - Technically, use vector shapes and animate with After Effects. Effects and textures are ok.
-- Submit *not only the final video file* but also *your styleframes and storyboards*.
+- Submit *not only the final video file* but also *the storyboards*.
 
 ## Weekly schedule
 
