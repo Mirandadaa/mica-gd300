@@ -71,9 +71,9 @@ Students actively engage motion graphics as strategic medium for experimentation
 
 ### Week 5 (9/24~)
 - Project 1: Loop review
+- **[Project 2: Animate Sound](lectures/proj-sound.md)**
 
 <!--
-- **[Project 2: Animate Sound](lectures/proj-sound.md)**
 - Common questions:
     - [How to make your video file size smaller?](lectures/w5-video-compression.md)
     - [How to re-link the missing videos?](lectures/w5-missing-videos.md)
