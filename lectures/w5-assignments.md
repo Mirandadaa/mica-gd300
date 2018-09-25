@@ -17,6 +17,8 @@
 - There is no number of boards required; make as many as necessary. Any important visuals and changes should be addressed in the boards. You don't need to repeat the boards if they are too similar to each other.
 - Submit **a PDF file** on Google Drive.
 
+![storyboard format example](../images/storyboard-format.png)
+
 ### Tips for audio editing
 If you need to cut or edit an audio file, you may try these softwares.
 - Adobe Audition: multi-track editing software, so you can combine different audio clips if you want.
