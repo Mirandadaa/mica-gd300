@@ -41,10 +41,11 @@ For example, different instruments and the layers of sound can be translated int
 
 ### Week 5
 Project 2 begins  
-research, idea sketches, styleframes
+research, idea sketches, storyboards
 
 ### Week 6
-work on storyboards  
+present ideas/storyboards  
+work on animation
 
 ### Week 7
 work on animation
