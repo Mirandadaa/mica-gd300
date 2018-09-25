@@ -32,7 +32,7 @@ For example, different instruments and the layers of sound can be translated int
 1. Get feedbacks on each stage. Iterate & improve.
 
 ## Deliverables
-- length: 20-40 seconds
+- length: 15-30 seconds (be realistic with the length)
 - video format: 1280 x 720px @ 30fps
 - Technically, use vector shapes and animate with After Effects. Effects and textures are ok.
 - Submit *not only the final video file* but also *your styleframes and storyboards*.
@@ -41,11 +41,10 @@ For example, different instruments and the layers of sound can be translated int
 
 ### Week 5
 Project 2 begins  
-research, idea sketches, storyboards
+research, idea sketches, styleframes
 
 ### Week 6
-present sketches, storyboards  
-work on animation
+work on storyboards  
 
 ### Week 7
 work on animation
