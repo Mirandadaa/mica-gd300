@@ -76,10 +76,9 @@ Students actively engage motion graphics as strategic medium for experimentation
   - What settings to use to compress videos?: [Vimeo guideline](https://vimeo.com/help/compression), [Youtube guideline](https://support.google.com/youtube/answer/1722171?hl=en)
   - [How to re-link the missing videos?](lectures/w5-missing-videos.md)
 - **[Project 2: Animate Sound](lectures/proj-sound.md)**
-
+- [Assignments](lectures/w5-assignments.md)
 
 <!--
-
 - Shape layer tutorials:
     - https://www.youtube.com/watch?v=J3AWE_ePjNc (shape layer basics)
     - https://www.youtube.com/watch?v=wOZwzLgJw9o (repeater effect)
@@ -87,7 +86,6 @@ Students actively engage motion graphics as strategic medium for experimentation
     - https://www.youtube.com/watch?v=iLd-5x5KhyA (morphing in AE)
     - [Shape attributes and path operations](https://helpx.adobe.com/after-effects/using//shape-attributes-paint-operations-path.html#shape_attributes_paint_operations_and_path_operations_for_shape_layers)
 - [Black Square White Square](lectures/w4-square-exercise.md) animation exercise
-- [Assignments](lectures/w5-assignments.md)
 
 ### Week 6
 - Share Love & Hate
