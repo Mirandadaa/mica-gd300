@@ -21,7 +21,7 @@ For example, different instruments and the layers of sound can be translated int
 - Develop a working process that is efficient and flexible.
 
 ## Steps
-1. Find a short audio clip (20-40 seconds) that has **no spoken words**.
+1. Find a short audio clip (15-30 seconds) that has **no spoken words**.
 1. Choose the one that gives you good visual ideas to work with.
 1. Analyze its musical structure. Identify elements that can traslate into visuals. (different instruments? change of mood? ..)
 1. Create sketches to explore different forms, colors, compositions, etc.
