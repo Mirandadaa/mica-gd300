@@ -70,7 +70,6 @@ Students actively engage motion graphics as strategic medium for experimentation
   - [AE vector shapes](https://www.youtube.com/watch?v=Nh4JpaVYcYI&feature=youtu.be)
 
 ### Week 5 (9/24~)
-- ***Wednesday class starts at 9am this week.***
 - Project 1: Loop review
 - Composition exercises: how to express moods with compositions.
 - Common questions:
