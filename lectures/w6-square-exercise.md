@@ -11,4 +11,4 @@ How many ways can you come up with that start with the top composition and end w
 - Explore different forms, movements, easings, transitions and effects.
 - You can only use the greyscale colors (black, grey, white..).
 - Render out everything you create at the end using Media Encoder.
-- Upload all the files to Google Drive.
+- Upload AE project file and video renders to Google Drive Week 6.
