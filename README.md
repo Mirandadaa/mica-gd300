@@ -89,16 +89,11 @@ Students actively engage motion graphics as strategic medium for experimentation
     - [Shape attributes and path operations](https://helpx.adobe.com/after-effects/using//shape-attributes-paint-operations-path.html#shape_attributes_paint_operations_and_path_operations_for_shape_layers)
 - [Working with sound in AE](lectures/w6-ae-audio.md)
 - [Black Square White Square](lectures/w6-square-exercise.md) animation exercise
-
-<!--
-- Share Love & Hate
-
-
 - [Assignments](lectures/w6-assignments.md)
 
+<!--
 ### Week 7
-- [What is motion design?](https://vimeo.com/blog/post/what-is-motion-design)
-- Share Love & Hate cont'd
+- Share Love & Hate
 - AE Graph editor tutorials:
     - https://www.youtube.com/watch?v=wbyQ-VQfUtA
     - http://gph.is/1LZwLZe (easy ease graphs)
@@ -106,7 +101,7 @@ Students actively engage motion graphics as strategic medium for experimentation
 - [Assignments](lectures/w7-assignments.md)
 
 ### Week 8
-- Project 2 critique
+- Project 2: Animating Sound critique
 - Rotoscoping
     - Photoshop
     - AE layer mask
