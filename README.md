@@ -78,19 +78,22 @@ Students actively engage motion graphics as strategic medium for experimentation
 - **[Project 2: Animate Sound](lectures/proj-sound.md)**
 - [Assignments](lectures/w5-assignments.md)
 
-<!--
+
+### Week 6
+- Project 2 storyboards review
 - Shape layer tutorials:
     - https://www.youtube.com/watch?v=J3AWE_ePjNc (shape layer basics)
     - https://www.youtube.com/watch?v=wOZwzLgJw9o (repeater effect)
     - https://www.youtube.com/watch?v=IzpYNYzisL4 (Slim Jim animation tutorial)
     - https://www.youtube.com/watch?v=iLd-5x5KhyA (morphing in AE)
     - [Shape attributes and path operations](https://helpx.adobe.com/after-effects/using//shape-attributes-paint-operations-path.html#shape_attributes_paint_operations_and_path_operations_for_shape_layers)
+- [Working with sound in AE](lectures/w6-ae-audio.md)
 - [Black Square White Square](lectures/w4-square-exercise.md) animation exercise
 
-### Week 6
+<!--
 - Share Love & Hate
-- Storyboards review
-- [Working with sound in AE](lectures/w6-ae-audio.md)
+
+
 - [Assignments](lectures/w6-assignments.md)
 
 ### Week 7
