@@ -1,8 +1,8 @@
 # Week 6 assignments
 
 1. Revise the storyboards as necessary.
-1. Start animating.
-1. Check the progress next week.
+1. Start animating. I suggest you first lay out the storyboard panels in AE and sync to the audio track. And gradually start adding animation based on the timing you set.
+1. Post work-in-progress in Google Drive.
 
 
 -----
