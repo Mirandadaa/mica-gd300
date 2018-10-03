@@ -88,11 +88,12 @@ Students actively engage motion graphics as strategic medium for experimentation
     - https://www.youtube.com/watch?v=iLd-5x5KhyA (morphing in AE)
     - [Shape attributes and path operations](https://helpx.adobe.com/after-effects/using//shape-attributes-paint-operations-path.html#shape_attributes_paint_operations_and_path_operations_for_shape_layers)
 - [Working with sound in AE](lectures/w6-ae-audio.md)
-- [Black Square White Square](lectures/w6-square-exercise.md) animation exercise
 - [Assignments](lectures/w6-assignments.md)
 
-<!--
+
 ### Week 7
+<!--
+- [Black Square White Square](lectures/w6-square-exercise.md) animation exercise
 - Share Love & Hate
 - AE Graph editor tutorials:
     - https://www.youtube.com/watch?v=wbyQ-VQfUtA
