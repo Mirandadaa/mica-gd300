@@ -93,7 +93,7 @@ Students actively engage motion graphics as strategic medium for experimentation
 
 ### Week 7
 <!--
-- [Black Square White Square](lectures/w6-square-exercise.md) animation exercise
+- [Black Square White Square](lectures/w6-square-exercise.md) animation exercise. instead, give a list of words?
 - Share Love & Hate
 - AE Graph editor tutorials:
     - https://www.youtube.com/watch?v=wbyQ-VQfUtA
