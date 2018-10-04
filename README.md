@@ -89,6 +89,9 @@ Students actively engage motion graphics as strategic medium for experimentation
     - [Shape attributes and path operations](https://helpx.adobe.com/after-effects/using//shape-attributes-paint-operations-path.html#shape_attributes_paint_operations_and_path_operations_for_shape_layers)
 - [Working with sound in AE](lectures/w6-ae-audio.md)
 - [Assignments](lectures/w6-assignments.md)
+- Lecture videos
+  - [AE precomp](https://youtu.be/r-qEWZjDprg)
+  - [AE shape layer & audio]()
 
 
 ### Week 7
