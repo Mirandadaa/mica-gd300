@@ -91,7 +91,7 @@ Students actively engage motion graphics as strategic medium for experimentation
 - [Assignments](lectures/w6-assignments.md)
 - Lecture videos
   - [AE precomp](https://youtu.be/r-qEWZjDprg)
-  - [AE shape layer & audio]()
+  - [AE shape layer & audio](https://youtu.be/om3yTg-BtU8)
 
 
 ### Week 7
