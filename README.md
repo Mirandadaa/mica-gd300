@@ -79,7 +79,7 @@ Students actively engage motion graphics as strategic medium for experimentation
 - [Assignments](lectures/w5-assignments.md)
 
 
-### Week 6
+### Week 6 (10/1~)
 - Project 2 storyboards review
 - Shape layer tutorials:
     - https://www.youtube.com/watch?v=J3AWE_ePjNc (shape layer basics)
@@ -94,7 +94,7 @@ Students actively engage motion graphics as strategic medium for experimentation
   - [AE shape layer & audio](https://youtu.be/om3yTg-BtU8)
 
 
-### Week 7
+### Week 7 (10/8~)
 <!--
 - [Black Square White Square](lectures/w6-square-exercise.md) animation exercise. instead, give a list of words?
 - Share Love & Hate
@@ -104,7 +104,7 @@ Students actively engage motion graphics as strategic medium for experimentation
     - http://easings.net (different easing types)
 - [Assignments](lectures/w7-assignments.md)
 
-### Week 8
+### Week 8 (10/15~)
 - Project 2: Animating Sound critique
 - Rotoscoping
     - Photoshop
@@ -118,7 +118,7 @@ Students actively engage motion graphics as strategic medium for experimentation
 - **[Project 3: Storytelling](lectures/proj-storytelling.md)**
 - [Assignments](lectures/w8-assignments.md)
 
-### Week 9
+### Week 9 (10/22~)
 - Review Project 3 research materials
 - AE type animation basics
 - Type animation exercise
@@ -126,32 +126,32 @@ Students actively engage motion graphics as strategic medium for experimentation
     - Choose your favorite super hero/heroine character and animate their name. Your type, color, composition, motion decisions should reflect their personality. First, make a quick storyboard in PS/AI before you animate.
 - [Assignments](lectures/w9-assignments.md)
 
-### Week 10
+### Week 10 (10/29~)
 - Review Proj 3 visual research/storyboards
 - Visiting designer: [Jessica Svendsen](https://jessicasvendsen.com) (Wed, Nov.1st, 12–1pm, Brown 320)
 - Assignments: revise the storyboards (pdf) and start production. Post work-in-progress materials (images and videos) on Google Drive.
 
-### Week 11
+### Week 11 (11/5~)
 - Review work-in-progress
 - Assignment: 
     - Render out the 3d layer exercise and upload to G drive.
     - Keep working on the Project 3! Upload rough animation renders to G drive.
 - [Next week review schedule](lectures/w11-next-week-review.md) (important!)
 
-### Week 12
+### Week 12 (11/12~)
 - Review work-in-progress in 2 groups (refer to the schedule above.)
 - **[Project 4: Animated Book Cover Design](lectures/proj-book-cover.md)**
 - [Assignments](lectures/w12-assignments.md)
 
-### Week 13
+### Week 13 (11/19~)
 *Thanksgiving break (no class)*
 
-### Week 14
+### Week 14 (11/26~)
 - Project 3 critique
 - Project 4 draft review
 - Assignment: Project 4 - choose one idea and present work-in-progress animation. Upload the video file on G-drive.
 
-### Week 15
+### Week 15 (12/3~)
 - Project 4 work-in-progress animation review
 - AE Expressions
     - https://helpx.adobe.com/after-effects/using/expression-basics.html
@@ -160,7 +160,7 @@ Students actively engage motion graphics as strategic medium for experimentation
     - http://aescripts.com
 - Assignment: Finish the project. Upload the files on G-drive.
 
-### Week 16
+### Week 16 (12/10~)
 - Project 4 critique
 
 -->
