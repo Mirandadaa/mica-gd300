@@ -78,7 +78,6 @@ Students actively engage motion graphics as strategic medium for experimentation
 - **[Project 2: Animate Sound](lectures/proj-sound.md)**
 - [Assignments](lectures/w5-assignments.md)
 
-
 ### Week 6 (10/1~)
 - Project 2 storyboards review
 - Shape layer tutorials:
@@ -93,21 +92,18 @@ Students actively engage motion graphics as strategic medium for experimentation
   - [AE precomp](https://youtu.be/r-qEWZjDprg)
   - [AE shape layer & audio](https://youtu.be/om3yTg-BtU8)
 
-
 ### Week 7 (10/8~)
 - Review Pojrect 2 WIP & share love/hate
 - AE Graph editor tutorials:
     - https://www.youtube.com/watch?v=wbyQ-VQfUtA
     - http://gph.is/1LZwLZe (easy ease graphs)
     - http://easings.net (different easing types)
-    
-<!--
-- [Black Square White Square](lectures/w6-square-exercise.md) animation exercise. instead, give a list of words?
-
 - [Assignments](lectures/w7-assignments.md)
 
-### Week 8 (10/15~)
+### Week 8 (10/15~) 
 - Project 2: Animating Sound critique
+
+<!--
 - Rotoscoping
     - Photoshop
     - AE layer mask
