@@ -45,7 +45,6 @@ Animation is a medium that is fairly new to us, but we can still apply all the t
 - [Letras](https://vimeo.com/11617381)
 - [I Met the Walrus](https://www.youtube.com/watch?v=jmR0V6s3NKk)
 - [Idiocracy](https://vimeo.com/11321555)
-- [Tread Softly](https://vimeo.com/5324526)
 - [Husbands - Dream](https://vimeo.com/60371252), [making-of](https://vimeo.com/60369434)
 - [Saul Bass](http://www.artofthetitle.com/designer/saul-bass/)
 - [Se7en's title sequence](http://www.artofthetitle.com/title/se7en/) by [Kyle Cooper](http://www.artofthetitle.com/designer/kyle-cooper/)
