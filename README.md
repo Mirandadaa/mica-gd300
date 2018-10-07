@@ -93,7 +93,7 @@ Students actively engage motion graphics as strategic medium for experimentation
   - [AE shape layer & audio](https://youtu.be/om3yTg-BtU8)
 
 ### Week 7 (10/8~)
-- Review Pojrect 2 WIP & share love/hate
+- Review Project 2 WIP & share love/hate
 - AE Graph editor tutorials:
     - https://www.youtube.com/watch?v=wbyQ-VQfUtA
     - http://gph.is/1LZwLZe (easy ease graphs)
