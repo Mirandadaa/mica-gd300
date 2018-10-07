@@ -100,10 +100,10 @@ Students actively engage motion graphics as strategic medium for experimentation
     - http://easings.net (different easing types)
 - [Assignments](lectures/w7-assignments.md)
 
-### Week 8 (10/15~) 
-- Project 2: Animating Sound critique
 
 <!--
+### Week 8 (10/15~) 
+- Project 2: Animating Sound critique
 - Rotoscoping
     - Photoshop
     - AE layer mask
@@ -125,19 +125,16 @@ Students actively engage motion graphics as strategic medium for experimentation
 - [Assignments](lectures/w9-assignments.md)
 
 ### Week 10 (10/29~)
-- Review Proj 3 visual research/storyboards
-- Visiting designer: [Jessica Svendsen](https://jessicasvendsen.com) (Wed, Nov.1st, 12–1pm, Brown 320)
 - Assignments: revise the storyboards (pdf) and start production. Post work-in-progress materials (images and videos) on Google Drive.
 
 ### Week 11 (11/5~)
-- Review work-in-progress
+- Project 3 Animate Type critique
 - Assignment: 
     - Render out the 3d layer exercise and upload to G drive.
     - Keep working on the Project 3! Upload rough animation renders to G drive.
 - [Next week review schedule](lectures/w11-next-week-review.md) (important!)
 
 ### Week 12 (11/12~)
-- Review work-in-progress in 2 groups (refer to the schedule above.)
 - **[Project 4: Animated Book Cover Design](lectures/proj-book-cover.md)**
 - [Assignments](lectures/w12-assignments.md)
 
@@ -145,7 +142,7 @@ Students actively engage motion graphics as strategic medium for experimentation
 *Thanksgiving break (no class)*
 
 ### Week 14 (11/26~)
-- Project 3 critique
+
 - Project 4 draft review
 - Assignment: Project 4 - choose one idea and present work-in-progress animation. Upload the video file on G-drive.
 
