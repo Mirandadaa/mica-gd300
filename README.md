@@ -95,13 +95,15 @@ Students actively engage motion graphics as strategic medium for experimentation
 
 
 ### Week 7 (10/8~)
-<!--
 - Review Pojrect 2 WIP & share love/hate
-- [Black Square White Square](lectures/w6-square-exercise.md) animation exercise. instead, give a list of words?
 - AE Graph editor tutorials:
     - https://www.youtube.com/watch?v=wbyQ-VQfUtA
     - http://gph.is/1LZwLZe (easy ease graphs)
     - http://easings.net (different easing types)
+    
+<!--
+- [Black Square White Square](lectures/w6-square-exercise.md) animation exercise. instead, give a list of words?
+
 - [Assignments](lectures/w7-assignments.md)
 
 ### Week 8 (10/15~)
