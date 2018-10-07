@@ -10,9 +10,6 @@ Choose a text from a poem, novel, speech, film, etc. (Keep it short.) Choose the
 
 Animation is a medium that is fairly new to us, but we can still apply all the typographic and compositional elements such as hierarchy, scale, contrast, etc. Do not lose your perspective on the design fundamentals while working with animation.
 
-
-
-
 ## Objectives
 - The relationship between the text, sound and visual.
 - Explore principles and characteristics that are unique to time-based media such as timing, spacing, sequencing and transitions.
@@ -20,8 +17,6 @@ Animation is a medium that is fairly new to us, but we can still apply all the t
 - Review the fundamental design principles in a new context.
 - Develop a working process that is efficient and flexible.
 - Learn and practice technical skills that are necessary for creating motion graphics.
-
-
 
 ## Steps
 1. Research and choose the text/audio you will use.
@@ -31,25 +26,18 @@ Animation is a medium that is fairly new to us, but we can still apply all the t
 1. Animate. 
 1. Iterate on each step and finish.
 
-
-
-
 ## Deliverables
 - length: 10-30 seconds
 - video format: 1280 x 720px at 29.97fps
 - Use H.264 video codec.
 - Submit not only *the final video file* but also your *storyboards*.
 
-
-
-
-## Inspirations
-
+## Resources
 - [http://archive.org](http://archive.org) - You can search for photo, audio, video clips in the public domain.
 - [http://freesound.org](http://freesound.org) - You an download many audio effects under Creative Commons license.
 - [http://flickr.com](http://flickr.com) - Search for photos under CC license.
-- [Adobe Audition](http://www.adobe.com/products/audition.html) - audio editing software
 
+## Inspirations
 - [Oceans Eleven Project](https://www.youtube.com/watch?v=rIDdx7NPJgo)
 - [The Child by Alex Gopher Music Video](https://www.youtube.com/watch?v=URbFjz4hWMY)
 - [Weird Al Yankovic Word Crime](http://spaceparanoids.net/wordcrimes/)
