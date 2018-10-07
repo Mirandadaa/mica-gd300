@@ -27,7 +27,7 @@ Animation is a medium that is fairly new to us, but we can still apply all the t
 1. Iterate on each step and finish.
 
 ## Deliverables
-- length: 10-30 seconds
+- length: 15-30 seconds
 - video format: 1280 x 720px at 29.97fps
 - Use H.264 video codec.
 - Submit not only *the final video file* but also your *storyboards*.
