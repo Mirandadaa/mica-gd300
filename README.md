@@ -102,6 +102,8 @@ Students actively engage motion graphics as strategic medium for experimentation
 
 
 <!--
+
+  
 ### Week 8 (10/15~) 
 - Project 2: Animating Sound critique
 - Rotoscoping
