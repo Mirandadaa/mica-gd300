@@ -101,7 +101,6 @@ Students actively engage motion graphics as strategic medium for experimentation
 - [Assignments](lectures/w7-assignments.md)
   
 ### Week 8 (10/15~) 
-- *Lunch time talk: Sam Trapkin https://www.studiorubric.co*
 - Project 2: Animating Sound critique
 
 <!--
