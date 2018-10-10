@@ -99,14 +99,12 @@ Students actively engage motion graphics as strategic medium for experimentation
     - http://gph.is/1LZwLZe (easy ease graphs)
     - http://easings.net (different easing types)
 - [Assignments](lectures/w7-assignments.md)
-
-
-<!--
-
   
 ### Week 8 (10/15~) 
 - *Lunch time talk: Sam Trapkin https://www.studiorubric.co*
 - Project 2: Animating Sound critique
+
+<!--
 - Rotoscoping
     - Photoshop
     - AE layer mask
