@@ -99,6 +99,9 @@ Students actively engage motion graphics as strategic medium for experimentation
     - http://gph.is/1LZwLZe (easy ease graphs)
     - http://easings.net (different easing types)
 - [Assignments](lectures/w7-assignments.md)
+- Lecture videos
+  - [AE tips & tricks](https://youtu.be/jttkmPLg4hE)
+  - [AE graph editor]()
   
 ### Week 8 (10/15~) 
 - Project 2: Animating Sound critique
