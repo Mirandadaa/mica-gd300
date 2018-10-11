@@ -101,7 +101,7 @@ Students actively engage motion graphics as strategic medium for experimentation
 - [Assignments](lectures/w7-assignments.md)
 - Lecture videos
   - [AE tips & tricks](https://youtu.be/jttkmPLg4hE)
-  - [AE graph editor]()
+  - [AE graph editor](https://youtu.be/248Jqe7SiPU)
   
 ### Week 8 (10/15~) 
 - Project 2: Animating Sound critique
