@@ -105,6 +105,7 @@ Students actively engage motion graphics as strategic medium for experimentation
   
 ### Week 8 (10/15~) 
 - Project 2: Animating Sound critique
+- **[Project 3: Animate Type](lectures/proj-animate-type.md)**
 
 <!--
 - Rotoscoping
@@ -116,7 +117,7 @@ Students actively engage motion graphics as strategic medium for experimentation
     - http://www.videocopilot.net (search "stock video" on blog.)
     - https://negativespace.co
     - http://flickr.com (use license filter)
-- **[Project 3: Animate Type](lectures/proj-animate-type.md)**
+
 - [Assignments](lectures/w8-assignments.md)
 
 ### Week 9 (10/22~)
