@@ -6,9 +6,9 @@
 
 How would the meaning of the text change when it is animated? The movement may simply support what the text says, it may add additional meanings or it may go against the text. Let's explore the relationship between the text and movements. Interpret the text and visualize it through animation with your intentions.
 
-Choose a text from a poem, novel, speech, film, etc. (Keep it short.) Choose the one that gives you strong visual ideas - concrete or abstract. If the text does not have a sound such as in a poem, find an audio track and develop a temporal rhythm that goes along with it. If the sound already exists such as in a speech or film, develop interesting movements that works with the rhythm. Sometimes, it is more effective to give some breathing space than fill every moment out with animation.
+Choose a text from a poem, novel, speech, film, etc. (Keep it short.) Choose the one that gives you strong visual ideas - concrete or abstract. If the text does not have a sound such as in a poem, find an audio track and develop a temporal rhythm that goes along with it. If the sound already exists such as in a speech or film, develop interesting movements that works with it. Sometimes, it is more effective to give some breathing space than fill every moment in with animation.
 
-Animation is a medium that is fairly new to us, but we can still apply all the typographic and compositional elements such as hierarchy, scale, contrast, etc. Do not lose your perspective on the design fundamentals while working with animation.
+Animation is a medium that is fairly new to us, but we can still apply all the typographic and compositional elements such as hierarchy, scale, contrast, etc. Keep your perspective on the design fundamentals while working with animation.
 
 ## Objectives
 - The relationship between the text, sound and visual.
@@ -28,8 +28,8 @@ Animation is a medium that is fairly new to us, but we can still apply all the t
 
 ## Deliverables
 - length: 15-30 seconds
-- video format: 1280 x 720px at 29.97fps
-- Use H.264 video codec.
+- video format: 1280 x 720px at 30fps
+- Use H.264 video codec. (Use Media Encoder to render.)
 - Submit not only *the final video file* but also your *storyboards*.
 
 ## Resources
@@ -48,3 +48,20 @@ Animation is a medium that is fairly new to us, but we can still apply all the t
 - [Husbands - Dream](https://vimeo.com/60371252), [making-of](https://vimeo.com/60369434)
 - [Saul Bass](http://www.artofthetitle.com/designer/saul-bass/)
 - [Se7en's title sequence](http://www.artofthetitle.com/title/se7en/) by [Kyle Cooper](http://www.artofthetitle.com/designer/kyle-cooper/)
+
+## Weekly Schedule
+
+### Week 8
+idea development/storyboards
+
+### Week 9
+review storyboards  
+work on animatics/animation
+
+### Week 10
+review work-in-progress  
+work on animation
+
+### Week 11
+Project 3 presentation
+
