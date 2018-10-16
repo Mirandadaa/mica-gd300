@@ -1,14 +1,14 @@
 # Week 8 assignments
 
-1. Read [the project brief](proj-storytelling.md).
-1. Pick a short story (1000+ words) of any genre from newspaper, book, article, essay, etc.
-1. Analyze the story - What is it about? What is the meaning of the story? Who are involved? Where is it happening? What is the tone of the story? What is the structure of the story?
-1. Edit the original text into 200-words text. You may summarize it or choose an entirely different structure for your text.
-1. Edit your text again into 20-words text. What is the most essential information that needs to be included? What are the interesting details? What are the things you may add/change/omit and still communicate?
-1. Research on contents - Story structure, context, background, author, protagonists, places, etc. Collect images, texts, links and references.
-
+1. Read [the project brief](proj-animate-type.md).
+1. Choose an audio with spoken words. 
+1. First, transcribe the whole text/dialog/monologue/etc.
+1. Find some references to help you generate ideas(images, other design work, etc.). Optionally, you can create moodboards.
+1. Develop visual ideas - compositions, motions, colors, typefaces, transitions and other things that you will need before jumping onto animating.
+1. Create storyboards.
 
 On Google Drive, upload:
-- the original text
-- your edits: 200 and 20-words versions.
-- Any reference/research materials around the story.
+- the original sound file
+- your transcript text file
+- your storyboards
+- other materials/references you used
