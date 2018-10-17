@@ -1,7 +1,7 @@
 # Week 8 assignments
 
 1. Read [the project brief](proj-animate-type.md).
-1. Choose an audio(or video) with spoken words. You can use Adobe Audition to edit out the audio track.
+1. Choose an audio(or video) with spoken words. You can use Adobe Audition to edit out the audio track. Please be mindful of the audio that can potentially offend others.
 1. Transcribe the text/dialog/monologue/etc.
 1. Find some references to help you generate ideas(images, other design work, etc.). Optionally, you can create moodboards.
 1. Develop visual ideas - compositions, motions, colors, typefaces, transitions and other things that you will need before jumping onto animating.
