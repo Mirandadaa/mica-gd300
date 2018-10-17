@@ -108,7 +108,7 @@ Students actively engage motion graphics as strategic medium for experimentation
 - Rotoscoping
     - Photoshop
     - AE layer mask
-    - AE Rotobrush: https://www.youtube.com/watch?v=ySbDYanbzk0
+    - AE Rotobrush: https://www.youtube.com/watch?v=ySbDYanbzk0 , https://helpx.adobe.com/after-effects/using/roto-brush-refine-matte.html
 - Where to get stock images/videos?
     - http://archive.org
     - http://www.videocopilot.net (search "stock video" on blog.)
