@@ -48,6 +48,7 @@ Animation is a medium that is fairly new to us, but we can still apply all the t
 - [Husbands - Dream](https://vimeo.com/60371252), [making-of](https://vimeo.com/60369434)
 - [Saul Bass](http://www.artofthetitle.com/designer/saul-bass/)
 - [Se7en's title sequence](http://www.artofthetitle.com/title/se7en/) by [Kyle Cooper](http://www.artofthetitle.com/designer/kyle-cooper/)
+- [Karin Fong](http://www.artofthetitle.com/designer/karin-fong/)
 
 ## Weekly Schedule
 
