@@ -105,6 +105,10 @@ Students actively engage motion graphics as strategic medium for experimentation
   
 ### Week 8 (10/15~) 
 - Project 2: Animating Sound critique
+- Rotoscoping
+    - Photoshop
+    - AE layer mask
+    - AE Rotobrush
 - Where to get stock images/videos?
     - http://archive.org
     - http://www.videocopilot.net (search "stock video" on blog.)
@@ -114,10 +118,7 @@ Students actively engage motion graphics as strategic medium for experimentation
 - [Assignments](lectures/w8-assignments.md)
 
 <!--
-- Rotoscoping
-    - Photoshop
-    - AE layer mask
-    - AE Rotobrush
+
 
 ### Week 9 (10/22~)
 - Review Project 3 research materials
