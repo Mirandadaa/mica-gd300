@@ -113,6 +113,7 @@ Students actively engage motion graphics as strategic medium for experimentation
     - http://archive.org
     - http://www.videocopilot.net (search "stock video" on blog.)
     - https://negativespace.co
+    - http://unsplash.com
     - http://flickr.com (use license filter)
 - **[Project 3: Animate Type](lectures/proj-animate-type.md)**
 - [Assignments](lectures/w8-assignments.md)
