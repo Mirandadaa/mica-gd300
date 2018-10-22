@@ -118,11 +118,10 @@ Students actively engage motion graphics as strategic medium for experimentation
 - **[Project 3: Animate Type](lectures/proj-animate-type.md)**
 - [Assignments](lectures/w8-assignments.md)
 
-<!--
-
-
 ### Week 9 (10/22~)
-- Review Project 3 research materials
+- Review Project 3 sketch/storyboards
+
+<!--
 - AE type animation basics
 - Type animation exercise
     - [Word as Image by Ji Lee](http://pleaseenjoy.com/projects/personal/word-as-image/)
