@@ -130,9 +130,10 @@ Students actively engage motion graphics as strategic medium for experimentation
     - post all your updates on Google Drive before beginning of class.
    
 ### Week 10 (10/29~)
+- Review Project 3 Work-In-Progress
 <!--
 
-- Assignments: revise the storyboards (pdf) and start production. Post work-in-progress materials (images and videos) on Google Drive.
+- Assignments: finish the project
 
 ### Week 11 (11/5~)
 - Project 3 Animate Type critique
