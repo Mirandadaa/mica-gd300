@@ -122,7 +122,7 @@ Students actively engage motion graphics as strategic medium for experimentation
 - Review Project 3 sketch/storyboards
 - AE type animation basics
 - Type animation exercise
-    - [Word as Image by Ji Lee](http://pleaseenjoy.com/projects/personal/word-as-image/)
+    - [Word as Image by Ji Lee](https://www.pleaseenjoy.com/#/word-as-image/)
     - Choose your favorite super hero/heroine character and animate their name only using type. Your type, color, composition, motion decisions should reflect their personality. First, make a quick storyboard in PS/AI before you animate.
 - Assignments
     - revise the storyboards as necessary.
