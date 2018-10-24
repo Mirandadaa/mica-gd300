@@ -123,7 +123,7 @@ Students actively engage motion graphics as strategic medium for experimentation
 - AE type animation basics
 - Type animation exercise
     - [Word as Image by Ji Lee](https://www.pleaseenjoy.com/#/word-as-image/)
-    - Choose your favorite super hero/heroine character and animate their name only using type. Your type, color, composition, motion decisions should reflect their personality. First, make a quick storyboard in PS/AI before you animate.
+    - Choose your favorite super hero/heroine character and animate their name only using type. Your type, color, composition, motion decisions should reflect their personality.
 - Assignments
     - revise the storyboards as necessary.
     - start animating.
