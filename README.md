@@ -120,12 +120,13 @@ Students actively engage motion graphics as strategic medium for experimentation
 
 ### Week 9 (10/22~)
 - Review Project 3 sketch/storyboards
-
-<!--
 - AE type animation basics
 - Type animation exercise
     - [Word as Image by Ji Lee](http://pleaseenjoy.com/projects/personal/word-as-image/)
-    - Choose your favorite super hero/heroine character and animate their name. Your type, color, composition, motion decisions should reflect their personality. First, make a quick storyboard in PS/AI before you animate.
+    - Choose your favorite super hero/heroine character and animate their name only using type. Your type, color, composition, motion decisions should reflect their personality. First, make a quick storyboard in PS/AI before you animate.
+    
+    
+<!--
 - [Assignments](lectures/w9-assignments.md)
 
 ### Week 10 (10/29~)
