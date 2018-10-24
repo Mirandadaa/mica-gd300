@@ -128,6 +128,7 @@ Students actively engage motion graphics as strategic medium for experimentation
     - revise the storyboards as necessary.
     - start animating.
     - post all your updates on Google Drive before beginning of class.
+    - *If you have a sound playback issue, check the preview panel and set the frame rate to 30.*
    
 ### Week 10 (10/29~)
 - Review Project 3 Work-In-Progress
