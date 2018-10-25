@@ -130,7 +130,7 @@ Students actively engage motion graphics as strategic medium for experimentation
 - Assignments
     - revise the storyboards as necessary.
     - start animating.
-    - post all your updates on Google Drive before beginning of class.
+    - post all your updates on Google Drive before beginning of class. (do not upload AEP file, instead, render out videos.)
     - *If you have a sound playback issue, check the preview panel and set the frame rate to 30.*
    
 ### Week 10 (10/29~)
