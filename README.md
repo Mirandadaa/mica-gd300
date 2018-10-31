@@ -173,6 +173,6 @@ Students actively engage motion graphics as strategic medium for experimentation
 - Assignment: Finish the project. Upload the files on G-drive.
 
 ### Week 16 (12/10~)
-- Project 4 critique
+- Project 4 review
 
 -->
