@@ -139,7 +139,7 @@ Students actively engage motion graphics as strategic medium for experimentation
   - track matte
   - displacement map effect
   - fractal noise
-- Assignments: finish the project
+- Assignments: finish the project. submit your storyboards and the final render on Google Drive.
 
 ### Week 11 (11/5~)
 - review: Project 3 Animate Type
