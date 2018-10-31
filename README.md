@@ -135,12 +135,13 @@ Students actively engage motion graphics as strategic medium for experimentation
    
 ### Week 10 (10/29~)
 - Review Project 3 Work-In-Progress
-<!--
-
 - Assignments: finish the project
 
 ### Week 11 (11/5~)
-- Project 3 Animate Type critique
+- review: Project 3 Animate Type
+
+<!--
+
 - Assignment: 
     - Render out the 3d layer exercise and upload to G drive.
     - Keep working on the Project 3! Upload rough animation renders to G drive.
