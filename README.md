@@ -135,9 +135,10 @@ Students actively engage motion graphics as strategic medium for experimentation
    
 ### Week 10 (10/29~)
 - Review Project 3 Work-In-Progress
-- track matte
-- displacement map effect
-- fractal noise
+- AE techniques
+  - track matte
+  - displacement map effect
+  - fractal noise
 - Assignments: finish the project
 
 ### Week 11 (11/5~)
