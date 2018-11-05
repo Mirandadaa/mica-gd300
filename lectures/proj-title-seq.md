@@ -13,6 +13,10 @@ A *film* title sequence is a short segment at the beginning of the film to intro
 - Rendered in H.264 codec
 - Length: 30s ~ 1min
 
+## References
+- http://artofthetitle.com
+- http://watchthetitles.com
+- http://motionographer.com
 
 ## Weekly schedule
 
