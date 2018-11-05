@@ -145,6 +145,7 @@ Students actively engage motion graphics as strategic medium for experimentation
 - review: Project 3 Animate Type
 
 <!--
+- **[Project 4: Title Sequence](lectures/proj-title-seq.md)**
 
 - Assignment: 
     - Render out the 3d layer exercise and upload to G drive.
@@ -152,7 +153,7 @@ Students actively engage motion graphics as strategic medium for experimentation
 - [Next week review schedule](lectures/w11-next-week-review.md) (important!)
 
 ### Week 12 (11/12~)
-- **[Project 4: Animated Book Cover Design](lectures/proj-book-cover.md)**
+
 - [Assignments](lectures/w12-assignments.md)
 
 ### Week 13 (11/19~)
