@@ -2,6 +2,11 @@
 
 Choose a book and create a title sequence animation for it. DO NOT use any existing references such as book design, movies, illustration, tv shows, performances, other design, etc. that are directly based on the same book. Come up with your own concept and interpretation of the book.
 
+## Requirements
+- USE images and videos you created.
+- USE type.
+- DO NOT USE any existing direct references to the book.
+
 ## Deliverables
 - 1280x720px @30fps video file.
 - Rendered in H.264 codec
