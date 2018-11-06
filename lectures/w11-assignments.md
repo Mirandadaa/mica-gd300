@@ -15,4 +15,6 @@
   - Using the found materials, create 10 collage images that represent the book in different ways.
   - Again, DO NOT use any existing direct visual references to the book.
 - Post all the materials on Google Drive before beginning of next class.
+
+*Watch a bunch of title sequence examples - don't just look at the techniques but also the way they tell the story and how the title sequence is related to the main contents.*
   
