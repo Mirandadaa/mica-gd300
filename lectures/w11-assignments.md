@@ -12,7 +12,7 @@
   - Research on anything else that may help you develop visual style for your animation.
 - Visual research:
   - based on your initial text research above, find relevant images and videos.
-  - Using the found materials, create 10 collage images that represent the book in different ways.
+  - Using the found materials, create 10 collage images that represent the book in different ways. (size: 1280x720)
   - Again, DO NOT use any existing direct visual references to the book.
 - Post all the materials on Google Drive before beginning of next class.
 
