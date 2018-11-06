@@ -143,26 +143,17 @@ Students actively engage motion graphics as strategic medium for experimentation
 
 ### Week 11 (11/5~)
 - review: Project 3 Animate Type
+- **[Project 4: Title Sequence](lectures/proj-title-seq.md)**
+- [Assignments](lectures/w11-assignments.md)
 
 <!--
-- **[Project 4: Title Sequence](lectures/proj-title-seq.md)**
-
-- Assignment: 
-    - Render out the 3d layer exercise and upload to G drive.
-    - Keep working on the Project 3! Upload rough animation renders to G drive.
-- [Next week review schedule](lectures/w11-next-week-review.md) (important!)
-
 ### Week 12 (11/12~)
-
 - [Assignments](lectures/w12-assignments.md)
 
 ### Week 13 (11/19~)
 *Thanksgiving break (no class)*
 
 ### Week 14 (11/26~)
-
-- Project 4 draft review
-- Assignment: Project 4 - choose one idea and present work-in-progress animation. Upload the video file on G-drive.
 
 ### Week 15 (12/3~)
 - Project 4 work-in-progress animation review
