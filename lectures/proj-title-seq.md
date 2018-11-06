@@ -37,7 +37,8 @@ Storyboards
 *Thanksgiving (no class)*
 
 ### w14
-Animation cont'd
+Animatic  
+Animation
 
 ### w15
 Animation cont'd
