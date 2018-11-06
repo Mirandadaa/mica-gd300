@@ -9,10 +9,10 @@ Books do not have any visuals so you will need to create your own visual style u
 Things to consider: author, background, story, moods, locations, characters, objects, dialogue, composition, color, transition, speed, sound, ...
 
 ## Requirements
-- USE photoss and videos you created.
-- USE type.
-- Include the book's title, author's name and the publisher's name.
-- DO NOT USE any existing direct references to the book.
+- You may use vector graphics but you also need to **use photos and videos** in this project.
+- use type.
+- Include the book's title, author's name and the publisher's name in the animation.
+- DO NOT USE any existing direct visual references to the book.
 
 ## Deliverables
 - 1280x720px @30fps video file.
