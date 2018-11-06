@@ -12,5 +12,6 @@
   - Research on anything else that may help you develop visual style for your animation.
 - Do visual research: based on your initial research above, find relevant images and videos.
 - Again, DO NOT use any existing direct visual references to the book.
+- Create 10 collage images using the found materials that represent the book in different ways.
 - Post all the materials on Google Drive before beginning of next class.
   
