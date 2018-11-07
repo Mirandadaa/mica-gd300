@@ -31,13 +31,12 @@ Project begins
 Research and sketches
 
 ### w12
-Storyboards
+Storyboards / animatic
 
 ### w13
 *Thanksgiving (no class)*
 
 ### w14
-Animatic  
 Animation
 
 ### w15
