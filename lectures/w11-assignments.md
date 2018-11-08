@@ -3,7 +3,7 @@
 ## Project: Title Sequence
 - Choose a book you want to work with. Obviously, you need to have a copy of the book with you so that you can always refer to it when needed. If you don't, go to Decker library or find an electronic version of the book online.
 - Create a Google Doc and research:
-  - Research on the book's contents. (story, moods, message, etc.)
+  - Research on the book's contents. (story, moods, message, etc.) Provide us the brief summary of the book.
   - Research on the context of the book (when and where it was written and for what purpose)
   - Research the author: 1-2 paragraphs.
   - Research on people/characters in the book, if any. 
