@@ -146,8 +146,9 @@ Students actively engage motion graphics as strategic medium for experimentation
 - **[Project 4: Title Sequence](lectures/proj-title-seq.md)**
 - [Assignments](lectures/w11-assignments.md)
 
-<!--
 ### Week 12 (11/12~)
+<!--
+
 - [Assignments](lectures/w12-assignments.md)
 
 ### Week 13 (11/19~)
