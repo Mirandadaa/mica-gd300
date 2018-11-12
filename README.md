@@ -147,14 +147,17 @@ Students actively engage motion graphics as strategic medium for experimentation
 - [Assignments](lectures/w11-assignments.md)
 
 ### Week 12 (11/12~)
-<!--
-
-- [Assignments](lectures/w12-assignments.md)
+- review research materials
+- Assignments: based on your research & feedbacks, work on storyboards/animatic.
 
 ### Week 13 (11/19~)
 *Thanksgiving break (no class)*
 
+
+<!--
 ### Week 14 (11/26~)
+- review storyboards
+- work on animation
 
 ### Week 15 (12/3~)
 - Project 4 work-in-progress animation review
