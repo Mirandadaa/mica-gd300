@@ -150,6 +150,7 @@ Students actively engage motion graphics as strategic medium for experimentation
 - review research materials
 - Assignments: 
   - based on your research & feedbacks, work on storyboards/animatic.
+  - if you don't have enough text to use, come up with imaginary list of people in the credits (producer, editor, cast, etc.)
 
 ### Week 13 (11/19~)
 *Thanksgiving break (no class)*
