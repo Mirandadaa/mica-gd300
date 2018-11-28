@@ -175,5 +175,4 @@ Students actively engage motion graphics as strategic medium for experimentation
     - http://www.schoolofmotion.com/after-effects-expressions-101/
     - http://motionscript.com
     - http://aescripts.com
-- Assignment: Finish the project. Upload the files on G-drive.
 -->
