@@ -158,9 +158,13 @@ Students actively engage motion graphics as strategic medium for experimentation
 ### Week 14 (11/26~)
 - review storyboards/animatic
 - work on animation
+- Assignment: continue to work on animation. POST your work-in-progress animation on Google Drive.
 
 ### Week 15 (12/3~)
 - Project 4 work-in-progress animation review
+- Assignment: 
+  - finish the project.
+  - post the storyboard PDF and video file on Google Drive.
 
 ### Week 16 (12/10~)
 - Project 4 review
