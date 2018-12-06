@@ -164,7 +164,7 @@ Students actively engage motion graphics as strategic medium for experimentation
 - Project 4 work-in-progress animation review
 - Assignment: 
   - finish the project.
-  - post the storyboard PDF and video file on Google Drive.
+  - post the storyboard PDF and video file on Google Drive. The video must be rendered with H.264 codec.
 
 ### Week 16 (12/10~)
 - Project 4 review
