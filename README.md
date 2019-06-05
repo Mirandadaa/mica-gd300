@@ -2,10 +2,12 @@
 
 - GD300
 - 3 credits
-- Fall 2018
+- Fall 2019
 - Instructor: Dae In Chung
 - email: [dchung01@mica.edu](mailto:dchung01@mica.edu)
 - Office: BR303
+
+<!--
 - Office hours: W 2-3pm, Th 3-4pm & F 3-4pm (email for an appointment)
 
 ## Course Description
@@ -175,4 +177,6 @@ Students actively engage motion graphics as strategic medium for experimentation
     - http://www.schoolofmotion.com/after-effects-expressions-101/
     - http://motionscript.com
     - http://aescripts.com
+-->
+
 -->
