@@ -20,7 +20,6 @@ Students actively engage motion graphics as strategic medium for experimentation
 - Develop a working process for the design of motion graphics.
 - Demonstrate proficiency with standard production tools such as After Effects.
 
-<!--
 
 ## Some links
 - [Syllabus](files/MICA-18FA-GD3-Syllabus.pdf)
@@ -36,6 +35,9 @@ Students actively engage motion graphics as strategic medium for experimentation
 - [Optical devices](lectures/w1-optical-devices.md)
 - [Animation exercise](lectures/w1-exercise.md)
 - [Assignments](lectures/w1-assignments.md)
+
+
+<!--
 
 ### Week 2
 - [Technical Primer](lectures/w2-technical-primer.md)
