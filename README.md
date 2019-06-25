@@ -171,12 +171,11 @@ Students actively engage motion graphics as strategic medium for experimentation
 ### Week 16 (12/10~)
 - Project 4 review
 
-<!--
 - AE Expressions
     - https://helpx.adobe.com/after-effects/using/expression-basics.html
     - http://www.schoolofmotion.com/after-effects-expressions-101/
     - http://motionscript.com
     - http://aescripts.com
--->
+
 
 -->
