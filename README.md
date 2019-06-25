@@ -30,8 +30,8 @@ Students actively engage motion graphics as strategic medium for experimentation
 
 ### Week 1
 - [Survey](https://goo.gl/forms/iMuOGhEqM5g6AGZj1)
-- [Illusion of Motion](https://github.com/cdaein/mica-gd300/wiki/Illusion-of-Motion)
-- [Optical devices](https://github.com/cdaein/mica-gd300/wiki/optical-devices.md)
+- [Illusion of Motion](https://github.com/cdaein/mica-gd300/wiki/illusion-of-motion)
+- [Optical devices](https://github.com/cdaein/mica-gd300/wiki/optical-devices)
 - [Animation exercise](lectures/w1-exercise.md)
 - [Assignments](lectures/w1-assignments.md)
 
