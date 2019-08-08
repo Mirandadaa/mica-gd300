@@ -23,7 +23,7 @@ Students actively engage motion graphics as strategic medium for experimentation
 ## Some links
 - [Syllabus](files/MICA-18FA-GD3-Syllabus.pdf)
 - [Resources](lectures/w1-resources.md)
-- Submit assignments [here](https://drive.google.com/drive/folders/11Alawwm1PylFwDPTNyeQ9sK5X5vTC1Q4?usp=sharing) (if it asks for permission, sign in with MICA account.)
+- Submit assignments [here](https://drive.google.com/drive/folders/1Bggdh8lFdihfQSHDWJujR9eU8dq3C_rn?usp=sharing) (if it asks for permission, sign in with MICA account.)
 - [Live poll link](https://pollev.com/daechung096)
 
 ## Weekly Schedule
