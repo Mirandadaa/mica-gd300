@@ -13,7 +13,7 @@
 - Now, create in-between frames.
 - **Start with your face** and animate towards the other person's face.
 - You have all the freedom you need on how you turn one face to another.
-- Create at least 30 in-between frames. (roughly 8-10 images per second)
+- Create at least 30 in-between frames. (it will be played at roughly 8 images per second)
 
 ## Shooting
 - Once you're done with drawings, let's take photos so that we can turn your drawings into animation.
