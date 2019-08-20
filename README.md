@@ -8,19 +8,7 @@
 - Office: BR303
 - Office hours: email for an appointment (Tuesday, Wednesday and Thursdays)
 
-## Course Description
-Students actively engage motion graphics as strategic medium for experimentation, idea generation, problem solving and communication. Motion and interactivity are studied in the context of aesthetic, cultural, historical and critical issues. Students learn essential design processes and techniques in their exploration of time-based media both as a tool and as a medium for evolving designers. Prerequisite: GD 220 (Graphic Design 2).
-
-## Learning Outcomes
-- Identify fundamental principles of design for time-based media such as sequencing, transitioning, pacing, timing and rhythm.
-- Identify formal and conceptual fundamentals for narrative structures and apply them to motion-based narrative structures.
-- Experiment with formal and conceptual fundamentals for narrative structures.
-- Demonstrate strategic thinking about motion and its role in storytelling.
-- Apply spatial, temporal, and kinesthetic considerations to visual communications problems.
-- Develop a working process for the design of motion graphics.
-- Demonstrate proficiency with standard production tools such as After Effects.
-
-## Some links
+## Links
 - [Syllabus](files/MICA-19FA-GD3-Syllabus.pdf)
 - [Resources](lectures/w1-resources.md)
 - Submit assignments [here](https://drive.google.com/drive/folders/1Bggdh8lFdihfQSHDWJujR9eU8dq3C_rn?usp=sharing) (if it asks for permission, sign in with MICA account.)
