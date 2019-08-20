@@ -19,7 +19,7 @@
 - Once you're done with drawings, let's take photos so that we can turn your drawings into animation.
 - Have your camera (cellphone camera is fine) and drawings ready.
 - Choose a flat surface.
-- Try to get even lighting throughout the surface. Avoid shadows. You may need to move your lights around or find a different angle.
+- Try to get even lighting throughout the surface. Avoid shadows. You may need to move your lights around or find a different angle. It helps to take photos under direct or indirect daylight. Avoid nighttime shooting indoors.
 - Hold your camera down towards your drawing.
 - Keep it steady and flat. Avoid shaky or blurry images.
 - Make sure the drawing is in focus.
