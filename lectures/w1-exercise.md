@@ -11,8 +11,8 @@
 - Hand the copy over to the person next to you.
 - Everyone at this point has two drawings - one of yourself, the other of another person.
 - Now, create in-between frames.
-- **Start with your face** and animate into the other person's face.
-- You have all the freedom you need on how you turn one face into another.
+- **Start with your face** and animate towards the other person's face.
+- You have all the freedom you need on how you turn one face to another.
 - Create at least 30 in-between frames. (roughly 8-10 images per second)
 
 ## Shooting
