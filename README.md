@@ -18,16 +18,12 @@
 
 ### Week 1
 - [Survey](https://forms.gle/zrk13zMEgJ17ytB29)
-
-
-<!--
 - [Illusion of Motion](lectures/w1-illusion-of-motion.md)
 - [Optical devices](lectures/w1-optical-devices.md)
+
+<!--
 - [Animation exercise](lectures/w1-exercise.md)
 - [Assignments](lectures/w1-assignments.md)
-
-
-
 
 ### Week 2
 - [Technical Primer](lectures/w2-technical-primer.md)
