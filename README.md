@@ -27,12 +27,13 @@
 - [Technical Primer](lectures/w2-technical-primer.md)
 - [Photoshop animation](lectures/w2-ps-animation.md)
   - [AnimDesin2](https://github.com/sbaril/Photoshop-Animation): a useful PS extension for animating
+  
+  <!--
 - [After Effects basics](lectures/w2-ae-basics.md) - create a slide show
 - [Storyboarder](https://wonderunit.com/storyboarder/): a free app for storyboarding
 - **[Project 1: Loop](lectures/proj-loop.md)**
 - [Assignments](lectures/w2-assignments.md)
 
-<!--
 ### Week 3
 - [After Effects: import assets](lectures/w3-ae-imports.md) - download [sample files](files/w3-files.zip)
 - After Effects image sequence
