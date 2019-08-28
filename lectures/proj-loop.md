@@ -42,7 +42,7 @@ What kinds of forms and contents can your animated loops take? What kind of idea
 Create two animated GIF loops. These two loops must be variations on the same concept.
 
 - 2 animated GIF files
-- the theme: speed
+- the theme: environment
 - the technique: frame-by-frame animation + keyframe animation
 - Dimensions: 500 x 500 px per each loop
 - Frame rate: 12 fps (you may go higher but it will require more work.)
