@@ -10,7 +10,7 @@ Watch [The Elephant In Wonderland](http://www.jkart.net/anim.html) by Ke Jiang. 
 
 [Revolver](https://vimeo.com/11558102) by Jonas Odell et al. is a great example of using secondary actions in a loop. Sometimes, looping the same sequence is not just a repetition but it is necessary to fully illustrate the meanings or intentions.
 
-Adam Beckett's [Sausage City](https://www.youtube.com/watch?v=RKS7N5ZzpI8) pushes the idea of an animation loop to another level. When you play an animated loop, you keep using the same drawings. But in Beckett's animation, every time a loop is repeated, new shapes and new colors are added on top of existing drawings. The process itself becomes a final result.
+Adam Beckett's [Sausage City](https://www.youtube.com/watch?v=RKS7N5ZzpI8) pushes the idea of an animation loop to another level. When you play an animated loop, you keep using the same drawings. But in Beckett's animation, every time a loop is repeated, new shapes and new colors are added on top of existing drawings. The process itself becomes the final result.
 
 [Many optical devices we already looked at](w1-optical-devices.md) are based on the idea of a loop as they had a limited space to put frames on. In this day and age, everything is digital and we do not have such limitations, but perhaps, now, we have a different kind of limitation - a short attention span.
 
