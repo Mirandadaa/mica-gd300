@@ -39,7 +39,7 @@ What kinds of forms and contents can your animated loops take? What kind of idea
 
 
 ## Deliverables
-Create two animated GIF loops. These two loops must be variations of the same concept.
+Create two animated GIF loops. These two loops must be variations on the same concept.
 
 - 2 animated GIF files
 - the theme: speed
