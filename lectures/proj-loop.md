@@ -24,7 +24,7 @@ GIF image format has been around [for a long time](http://www.fastcodesign.com/3
 
 
 ## Let's make a loop.
-**The theme of the project is *speed*.** You will interpret this theme and come up with your own concept for this project. There is no limitation on what tools or techniques or styles you can use as long as it is mainly frame-by-frame animation. You are also allowed to use keyframe animation. Feel free to explore on your own. It can be stop-motion photography, Photoshop animation, type animation, hand-drawn animation, etc.
+**The theme of the project is *environment*.** You will interpret this theme and come up with your own concept for this project. There is no limitation on what tools or techniques or styles you can use as long as it is mainly frame-by-frame animation. You are also allowed to use keyframe animation. Feel free to explore on your own. It can be stop-motion photography, Photoshop animation, type animation, hand-drawn animation, etc.
 
 Create two loops in the animated GIF format. The two loops must be variations on the same concept. Think about the relationship between them. How will they look when placed side by side? The relationship can be about the subject matter, temporal and spatial rhythms, colors, juxtapositions, etc.
  
