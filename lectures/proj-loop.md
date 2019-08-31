@@ -16,7 +16,7 @@ Adam Beckett's [Sausage City](https://www.youtube.com/watch?v=RKS7N5ZzpI8) pushe
 
 [9 Squares Project](http://9-squares.tumblr.com) is a collaborative design project, which shows an interesting juxtaposition of various loops from different designers. Limiting color palettes is not only an aesthetic choice but also a workaround for a technical limitation of a gif format.
 
-More examples [here](http://www.slimjimstudios.com/).
+[Slim Jim Studios](http://www.slimjimstudios.com/).
 
 
 ## Animated GIF
