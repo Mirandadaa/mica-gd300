@@ -70,8 +70,8 @@ Project 2 begins
 ## Further Learning
 - [Making animated GIFs from After Effects comps](https://www.rocketstock.com/blog/making-animated-gifs-from-after-effects-comps/)
 - [Animating in Photoshop Tutorial](https://www.lynda.com/After-Effects-tutorials/Motion-Graphics-Loops-01-Photoshop-Techniques/483234-2.html) on lynda.com
-- [Student work from Fall 2016](http://mica-gd3.paperdove.com/2016/loops/)
-- [Student work from Fall 2017](http://mica-gd3.paperdove.com/2017/loops/)
+- [Student work from 2017](http://mica-gd3.paperdove.com/2017/loops/)
+- [Student work from 2018](https://drive.google.com/file/d/1HoOFZIlLB9RpRY2NFFUhzUzU5hJkCykB/view?usp=sharing)
 
 
 
