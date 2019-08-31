@@ -28,10 +28,10 @@
 - [Photoshop animation](lectures/w2-ps-animation.md)
   - [AnimDesin2](https://github.com/sbaril/Photoshop-Animation): a useful PS extension for animating
   - [frame animation tutorial on youtube](https://www.youtube.com/watch?v=4bgMebduXo0)
-  
-<!--
 - [After Effects basics](lectures/w2-ae-basics.md) - create a slide show
 - [Storyboarder](https://wonderunit.com/storyboarder/): a free app for storyboarding
+
+<!--
 - **[Project 1: Loop](lectures/proj-loop.md)**
 - [Assignments](lectures/w2-assignments.md)
 
