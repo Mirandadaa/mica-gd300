@@ -41,9 +41,6 @@
   - [The art of timing and spacing](https://ed.ted.com/lessons/animation-basics-the-art-of-timing-and-spacing-ted-ed) video
   - Easing; Keyframe velocity
 - [Assignments](lectures/w3-assignments.md)
-- Lecture videos
-  - [AE import assets](https://www.youtube.com/watch?v=1Gv2SWwTHJ0&t=0s&list=PLpnblWsU0QoSkbFdTsYQhCf9Zm5MyvbEm&index=4)
-  - [AE keyframing](https://www.youtube.com/watch?v=KYSpRDjRgJM&index=4&list=PLpnblWsU0QoSkbFdTsYQhCf9Zm5MyvbEm)
 
 ### Week 4 (9/17~)
 - [Workflow](lectures/w4-workflow.md)
@@ -52,8 +49,6 @@
 - [How to reposition anchor point precisely?](lectures/w4-anchor-point.md)
 - parenting
 - [Assignments](lectures/w4-assignments.md)
-- Lecture videos
-  - [AE vector shapes](https://www.youtube.com/watch?v=Nh4JpaVYcYI&feature=youtu.be)
 
 ### Week 5 (9/24~)
 - Project 1: Loop review
@@ -74,9 +69,6 @@
     - [Shape attributes and path operations](https://helpx.adobe.com/after-effects/using//shape-attributes-paint-operations-path.html#shape_attributes_paint_operations_and_path_operations_for_shape_layers)
 - [Working with sound in AE](lectures/w6-ae-audio.md)
 - [Assignments](lectures/w6-assignments.md)
-- Lecture videos
-  - [AE precomp](https://youtu.be/r-qEWZjDprg)
-  - [AE shape layer & audio](https://youtu.be/om3yTg-BtU8)
 
 ### Week 7 (10/8~)
 - Review Project 2 WIP & share love/hate
@@ -85,9 +77,6 @@
     - http://gph.is/1LZwLZe (easy ease graphs)
     - http://easings.net (different easing types)
 - [Assignments](lectures/w7-assignments.md)
-- Lecture videos
-  - [AE tips & tricks](https://youtu.be/jttkmPLg4hE)
-  - [AE graph editor](https://youtu.be/248Jqe7SiPU)
   
 ### Week 8 (10/15~) 
 - Project 2: Animating Sound critique
