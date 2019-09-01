@@ -54,6 +54,7 @@ Create two animated GIF loops. These two loops must be variations on the same co
 Project 1 assigned  
 research  
 idea sketch  
+storyboards
 
 ### Week 3 
 review ideas, sketches, storyboards  
