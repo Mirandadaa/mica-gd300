@@ -73,16 +73,9 @@ If you hit the `Spacebar`, it will play the preview of your animation. It will f
 ## Rendering
 This is great, but only you can watch your animation unless you export to a more common video file. 
 
-Select anywhere inside the timeline, so the whole panel is highlighted. Then, go to `Composition > Add to Render Queue`. The render queue panel automatically opens.
+Select anywhere inside the timeline, so the whole panel is highlighted. Then, go to `Composition > Add to Adobe Media Encoder Render Queue`. The Media Encoder window will open (it takes some time).
 
-![render queue](../images/w2/render-queue.png)
-
-Before you hit the blue render button, there are a few settings we need to adjust. First, let's set up the *Output Module*. Click on the blue text 'Lossless.' A dialog pops up. Click the *Format Options* under Video Output section. Change the video codec from *Animation* to *H.264*. Let's leave everything else as it is and hit ok. Hit ok again on the Output Module Settings dialog.
-
-Now, we need to specity where we want to render the file to. Click the blue text next to *Output to*. It should be already set to your comp name. Choose any directory you want to export to.
-
-Now, you are done. All you need to do is to hit the *Render* button and wait until it finishes.
-
+You will also see your composition added to the queue in the Media Encoder window. Choose the path you want to save the file to, and hit thre green render button.
 
 ## Testing
 Play in a video player you prefer. Make sure everthing looks and plays ok. If not, you can come back to the AE project and make adjustments and repeat the rendering process.
