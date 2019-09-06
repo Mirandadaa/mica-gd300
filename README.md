@@ -39,11 +39,10 @@
 - [After Effects: keyframing](lectures/w3-keyframes.md)
   - [The art of timing and spacing](https://ed.ted.com/lessons/animation-basics-the-art-of-timing-and-spacing-ted-ed) video
   - Easing; Keyframe velocity
-  
-<!--
 - [Assignments](lectures/w3-assignments.md)
 
-### Week 4 (9/17~)
+<!--
+### Week 4
 - [Workflow](lectures/w4-workflow.md)
 - [Quality of motion](lectures/w4-quality-of-motion.md)
 - Convert AI shape into AE layer
