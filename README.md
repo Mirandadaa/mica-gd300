@@ -41,8 +41,10 @@
   - Easing; Keyframe velocity
 - [Assignments](lectures/w3-assignments.md)
 
-<!--
 ### Week 4
+- Review Project 1 work-in-progress
+
+<!--
 - [Workflow](lectures/w4-workflow.md)
 - [Quality of motion](lectures/w4-quality-of-motion.md)
 - Convert AI shape into AE layer
