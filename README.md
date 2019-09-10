@@ -38,11 +38,11 @@
 - After Effects image sequence - use your face morphing exercise from week 1
 - [After Effects: keyframing](lectures/w3-keyframes.md)
   - [The art of timing and spacing](https://ed.ted.com/lessons/animation-basics-the-art-of-timing-and-spacing-ted-ed) video
-  - Easing; Keyframe velocity
 - [Assignments](lectures/w3-assignments.md)
 
 ### Week 4
 - Review Project 1 work-in-progress
+- Easing; Keyframe velocity
 
 <!--
 - [Workflow](lectures/w4-workflow.md)
