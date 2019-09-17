@@ -50,9 +50,10 @@
 - parenting
 - [Assignments](lectures/w4-assignments.md)
 
-<!--
-### Week 5 (9/24~)
+### Week 5
 - Project 1: Loop review
+
+<!--
 - Composition exercises: how to express moods with compositions.
 - Common questions:
   - What settings to use to compress videos?: [Vimeo guideline](https://vimeo.com/help/compression), [Youtube guideline](https://support.google.com/youtube/answer/1722171?hl=en)
