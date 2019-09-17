@@ -43,7 +43,6 @@
 ### Week 4
 - Review Project 1 work-in-progress
 - [Workflow](lectures/w4-workflow.md)
-- Easing; Keyframe velocity
 - [Quality of motion](lectures/w4-quality-of-motion.md)
 - Convert AI shape into AE layer
 - [How to reposition anchor point precisely?](lectures/w4-anchor-point.md)
