@@ -43,8 +43,6 @@
 ### Week 4
 - Review Project 1 work-in-progress
 - Easing; Keyframe velocity
-
-<!--
 - [Workflow](lectures/w4-workflow.md)
 - [Quality of motion](lectures/w4-quality-of-motion.md)
 - Convert AI shape into AE layer
@@ -52,6 +50,7 @@
 - parenting
 - [Assignments](lectures/w4-assignments.md)
 
+<!--
 ### Week 5 (9/24~)
 - Project 1: Loop review
 - Composition exercises: how to express moods with compositions.
