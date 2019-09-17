@@ -4,7 +4,7 @@ A simple way to reposition your anchor point (or, the axis of rotation) is using
  
  ![anchor point tool](../images/w5/anchor-tool.png)
  
-A tip from my experience - set the anchor point *before* you start animating keyframes. Other properties such as position and rotation rely on where the anchor point is to set their own values, so if you edit the anchor point in the middle of keyframing, all the animation will be ruined. There are other techniques such as using parenting/null objects but we will cover them in the coming weeks. For now, just remember to edit the anchor point *before* animating.
+A tip from my experience - set the anchor point *before* you start animating keyframes. Other properties such as position and rotation rely on where the anchor point is to set their own values, so if you edit the anchor point in the middle of keyframing, all the animation will be ruined. There are other workarounds such as using parenting/null objects but we will cover them later. For now, just remember to edit the anchor point *before* animating.
  
 This anchor point tool will work in many cases but it won't allow a very precise control as sometimes you need to move the anchor point to the very center of a shape. In that case, use external scripts. I found two promising ones:
  
