@@ -46,6 +46,7 @@
 - [Quality of motion](lectures/w4-quality-of-motion.md)
 - [How to reposition anchor point precisely?](lectures/w4-anchor-point.md)
 - parenting
+  - Pixar lamp animation exercise
 - [Assignments](lectures/w4-assignments.md)
 
 ### Week 5
