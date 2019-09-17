@@ -44,13 +44,13 @@
 - Review Project 1 work-in-progress
 - [Workflow](lectures/w4-workflow.md)
 - [Quality of motion](lectures/w4-quality-of-motion.md)
-- Convert AI shape into AE layer
 - [How to reposition anchor point precisely?](lectures/w4-anchor-point.md)
 - parenting
 - [Assignments](lectures/w4-assignments.md)
 
 ### Week 5
 - Project 1: Loop review
+- Convert AI shape into AE layer
 
 <!--
 - Composition exercises: how to express moods with compositions.
