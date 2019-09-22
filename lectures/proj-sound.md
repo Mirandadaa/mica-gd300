@@ -75,6 +75,7 @@ Project 2 presentation
 ## Student work examples
 - https://vimeo.com/201208090
 - https://vimeo.com/201207089
+- [more examples on Google Drive](https://drive.google.com/open?id=1SoY6-SEtk4_STV0-GdUuwEBHniZ6HQa3)
 
 ## Further Learning
 - [Paragraphs on Conceptual Art](http://emerald.tufts.edu/programs/mma/fah188/sol_lewitt/paragraphs%20on%20conceptual%20art.htm) by Sol Lewitt
