@@ -54,11 +54,8 @@ Project 2 presentation
 
 
 ## Inspirations
-- [La Marche des Machines](https://www.youtube.com/watch?v=BTyfqgnfn0A) by Eugene Deslaw
-- [Mechanical Principles](https://www.youtube.com/watch?v=dqohSjJrQWs) by Ralph Steiner
 - [Hans Richter: Encounters](http://www.lacma.org/art/exhibition/hans-richter-encounters) - An exhibition at LACMA
 - [Symphonie Diagonale](https://vimeo.com/42401347) by Viking Eggeling
-- [Steamboat Willie](https://www.youtube.com/watch?v=BBgghnQF6E4) by Walt Disney
 - [An Optical Poem](https://www.youtube.com/watch?v=they7m6YePo) by Oskar Fischinger
 - [Komposition in Blau](https://vimeo.com/183833066) by Oskar Fischinger
 - [A Color Box](https://archive.org/details/A_Colour_Box) by [Len Lye](http://www.govettbrewster.com/len-lye/)
@@ -71,6 +68,7 @@ Project 2 presentation
 - [Puddle Jumper](https://vimeo.com/13004193) by Chris Casady
 - [Crazy Enough](https://vimeo.com/5239398) by Jr.canest
 - [Synesthesia](https://www.youtube.com/watch?v=sao3NAapOAI) by Michel Gagné
+- [Mork](https://vimeo.com/40006163) by Phil Borst
 
 ## Student work examples
 - https://vimeo.com/201208090
