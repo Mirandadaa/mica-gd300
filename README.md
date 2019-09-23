@@ -56,6 +56,7 @@
 - Common questions:
   - What settings to use to compress videos?: [Vimeo guideline](https://vimeo.com/help/compression), [Youtube guideline](https://support.google.com/youtube/answer/1722171?hl=en)
   - [How to re-link the missing videos?](lectures/w5-missing-videos.md)
+- A great recourse to download AE project files from professionals: [Holdframe](https://www.holdframe.com/freebies)
 - **[Project 2: Animate Sound](lectures/proj-sound.md)**
 - [Assignments](lectures/w5-assignments.md)
 
