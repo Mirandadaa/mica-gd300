@@ -1,5 +1,8 @@
 # Week 5 assignments
 
+## Mood exercise
+Finish your animation, render out, rename the video file to the name of the word you used, and upload to Google Drive "w5-mood-exercise" folder.
+
 ## Project 2: Animate Sound
 - Read [the new project brief](proj-sound.md) carefully.
 - **Pick two audio clips** that you want to work with. We will eventually choose one next week, but **work with 2 different ideas this week**.
